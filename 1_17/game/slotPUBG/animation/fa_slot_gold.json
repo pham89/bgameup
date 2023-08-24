@@ -1,0 +1,64 @@
+{
+"skeleton": { "hash": "fgTeiyiVijfFccPPZhJekJPkFvk", "spine": "3.8.99", "images": "", "audio": "D:/新建文件夹/ui/fa_slot_gold" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "1_00023", "parent": "root" }
+],
+"slots": [
+	{ "name": "1_00023", "bone": "1_00023" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1_00023": {
+				"1_00000": { "width": 133, "height": 131 },
+				"1_00001": { "width": 133, "height": 131 },
+				"1_00002": { "width": 133, "height": 131 },
+				"1_00003": { "width": 133, "height": 131 },
+				"1_00004": { "width": 133, "height": 131 },
+				"1_00005": { "width": 133, "height": 131 },
+				"1_00006": { "width": 133, "height": 131 },
+				"1_00007": { "width": 133, "height": 131 },
+				"1_00008": { "width": 133, "height": 131 },
+				"1_00009": { "width": 133, "height": 131 },
+				"1_00010": { "width": 133, "height": 131 },
+				"1_00011": { "width": 133, "height": 131 },
+				"1_00012": { "width": 133, "height": 131 },
+				"1_00013": { "width": 133, "height": 131 },
+				"1_00014": { "width": 133, "height": 131 },
+				"1_00015": { "width": 133, "height": 131 },
+				"1_00016": { "width": 133, "height": 131 }
+			}
+		}
+	}
+],
+"animations": {
+	"fa_slot_gold": {
+		"slots": {
+			"1_00023": {
+				"attachment": [
+					{ "name": "1_00000" },
+					{ "time": 0.0333, "name": "1_00001" },
+					{ "time": 0.0667, "name": "1_00002" },
+					{ "time": 0.1, "name": "1_00003" },
+					{ "time": 0.1333, "name": "1_00004" },
+					{ "time": 0.1667, "name": "1_00005" },
+					{ "time": 0.2, "name": "1_00006" },
+					{ "time": 0.2333, "name": "1_00007" },
+					{ "time": 0.2667, "name": "1_00008" },
+					{ "time": 0.3, "name": "1_00009" },
+					{ "time": 0.3333, "name": "1_00010" },
+					{ "time": 0.3667, "name": "1_00011" },
+					{ "time": 0.4, "name": "1_00012" },
+					{ "time": 0.4333, "name": "1_00013" },
+					{ "time": 0.4667, "name": "1_00014" },
+					{ "time": 0.5, "name": "1_00015" },
+					{ "time": 0.5333, "name": "1_00016" },
+					{ "time": 0.8, "name": null }
+				]
+			}
+		}
+	}
+}
+}

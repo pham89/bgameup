@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/bjllight/redlight/02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,185},{181,140}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{182,140}</string>
+			</dict>
+			<key>Animation/bjllight/redlight/04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{367,367},{180,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{182,140}</string>
+			</dict>
+			<key>Animation/bjllight/redlight/06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,368},{181,140}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{182,140}</string>
+			</dict>
+			<key>Animation/bjllight/redlight/08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{182,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{182,140}</string>
+			</dict>
+			<key>Animation/bjllight/redlight/10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,1},{181,140}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{182,140}</string>
+			</dict>
+			<key>Animation/bjllight/redlight/12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,184},{181,140}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{182,140}</string>
+			</dict>
+			<key>Animation/bjllight/redlight/14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{184,367},{181,140}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{182,140}</string>
+			</dict>
+			<key>Animation/bjllight/redlight/16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{285,1},{181,140}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{182,140}</string>
+			</dict>
+			<key>Animation/bjllight/redlight/18.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{285,184},{181,140}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{182,140}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-redlight.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-redlight.png</string>
+			<key>size</key>
+			<string>{548,509}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>548</integer>
+			<key>height</key>
+			<integer>509</integer>
+		</dict>
+	</dict>
+</plist>

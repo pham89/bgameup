@@ -1,0 +1,146 @@
+
+fruit_element.png
+size: 611,611
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+777_3
+  rotate: true
+  xy: 357, 17
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+777_7
+  rotate: false
+  xy: 266, 248
+  size: 154, 38
+  orig: 154, 38
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 556, 408
+  size: 54, 54
+  orig: 64, 64
+  offset: 5, 5
+  index: -1
+bar_2
+  rotate: true
+  xy: 1, 150
+  size: 267, 102
+  orig: 267, 102
+  offset: 0, 0
+  index: -1
+bar_3
+  rotate: false
+  xy: 556, 360
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+bar_6
+  rotate: true
+  xy: 385, 114
+  size: 133, 79
+  orig: 133, 79
+  offset: 0, 0
+  index: -1
+bonusUI
+  rotate: false
+  xy: 1, 418
+  size: 212, 192
+  orig: 212, 192
+  offset: 0, 0
+  index: -1
+drum
+  rotate: false
+  xy: 101, 2
+  size: 134, 122
+  orig: 139, 126
+  offset: 3, 2
+  index: -1
+drumUI
+  rotate: false
+  xy: 465, 42
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+fa_slot_bonus
+  rotate: false
+  xy: 104, 125
+  size: 140, 129
+  orig: 140, 129
+  offset: 0, 0
+  index: -1
+freeUI
+  rotate: false
+  xy: 214, 449
+  size: 162, 161
+  orig: 162, 161
+  offset: 0, 0
+  index: -1
+gourdUI
+  rotate: false
+  xy: 266, 287
+  size: 161, 161
+  orig: 161, 161
+  offset: 0, 0
+  index: -1
+lingdang_1
+  rotate: false
+  xy: 428, 300
+  size: 127, 148
+  orig: 127, 148
+  offset: 0, 0
+  index: -1
+ruyiUI
+  rotate: false
+  xy: 377, 449
+  size: 162, 161
+  orig: 162, 161
+  offset: 0, 0
+  index: -1
+wildUI
+  rotate: true
+  xy: 104, 255
+  size: 162, 161
+  orig: 162, 161
+  offset: 0, 0
+  index: -1
+xingxing_1
+  rotate: false
+  xy: 245, 122
+  size: 139, 125
+  orig: 139, 125
+  offset: 0, 0
+  index: -1
+xingxing_2
+  rotate: false
+  xy: 236, 13
+  size: 120, 108
+  orig: 120, 108
+  offset: 0, 0
+  index: -1
+zuanshi_1
+  rotate: true
+  xy: 540, 463
+  size: 147, 48
+  orig: 147, 48
+  offset: 0, 0
+  index: -1
+zuanshi_2
+  rotate: true
+  xy: 1, 9
+  size: 140, 99
+  orig: 140, 99
+  offset: 0, 0
+  index: -1
+zuanshi_6
+  rotate: true
+  xy: 465, 170
+  size: 129, 92
+  orig: 132, 108
+  offset: 3, 0
+  index: -1

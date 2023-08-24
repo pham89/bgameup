@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/heguan/tu/xin1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,281},{72,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{72,62}</string>
+			</dict>
+			<key>Animation/heguan/tu/xin2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{147,279},{43,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{43,37}</string>
+			</dict>
+			<key>Animation/heguan/tu/xin3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{146,248},{29,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{33,30}</string>
+			</dict>
+			<key>Animation/heguan/tu/xin-light.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,355},{66,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{66,56}</string>
+			</dict>
+			<key>Animation/heguan/tu/z01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{51,423},{78,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,37}</string>
+			</dict>
+			<key>Animation/heguan/tu/z02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{59,355},{67,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{67,40}</string>
+			</dict>
+			<key>Animation/heguan/tu/z03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{128,333},{53,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{53,39}</string>
+			</dict>
+			<key>Animation/heguan/tu/z04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{153,201},{52,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{52,42}</string>
+			</dict>
+			<key>Animation/heguan/tu/z05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{102,280},{51,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{51,43}</string>
+			</dict>
+			<key>Animation/heguan/tu/body.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{178,198}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,198}</string>
+			</dict>
+			<key>Animation/heguan/tu/eye1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{38,500},{35,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{35,10}</string>
+			</dict>
+			<key>Animation/heguan/tu/eye2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,500},{35,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{35,11}</string>
+			</dict>
+			<key>Animation/heguan/tu/s1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{62,248},{82,30}}</string>
+				<key>offset</key>
+				<string>{2,-31}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{93,93}</string>
+			</dict>
+			<key>Animation/heguan/tu/s2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{51,462},{83,33}}</string>
+				<key>offset</key>
+				<string>{1,-22}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{93,93}</string>
+			</dict>
+			<key>Animation/heguan/tu/s3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{62,201},{89,45}}</string>
+				<key>offset</key>
+				<string>{-2,-12}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{93,93}</string>
+			</dict>
+			<key>Animation/heguan/tu/s4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,201},{59,78}}</string>
+				<key>offset</key>
+				<string>{14,4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{93,93}</string>
+			</dict>
+			<key>Animation/heguan/tu/s5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,423},{48,75}}</string>
+				<key>offset</key>
+				<string>{20,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{93,93}</string>
+			</dict>
+			<key>Animation/heguan/tu/s6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{65,280},{35,63}}</string>
+				<key>offset</key>
+				<string>{26,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{93,93}</string>
+			</dict>
+			<key>Animation/heguan/tu/xin4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{131,388},{43,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{43,37}</string>
+			</dict>
+			<key>Animation/heguan/tu/zui.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{75,497},{22,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{22,12}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-heguan.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-heguan.png</string>
+			<key>size</key>
+			<string>{206,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>206</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,69 @@
+
+SELECTYOURBONUS2.png
+size: 615,615
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wesg_00000
+  rotate: false
+  xy: 1, 449
+  size: 204, 165
+  orig: 204, 165
+  offset: 0, 0
+  index: -1
+wesg_00002
+  rotate: false
+  xy: 1, 283
+  size: 204, 165
+  orig: 204, 165
+  offset: 0, 0
+  index: -1
+wesg_00004
+  rotate: false
+  xy: 206, 449
+  size: 204, 165
+  orig: 204, 165
+  offset: 0, 0
+  index: -1
+wesg_00006
+  rotate: false
+  xy: 1, 117
+  size: 204, 165
+  orig: 204, 165
+  offset: 0, 0
+  index: -1
+wesg_00008
+  rotate: false
+  xy: 206, 283
+  size: 204, 165
+  orig: 204, 165
+  offset: 0, 0
+  index: -1
+wesg_00010
+  rotate: false
+  xy: 411, 449
+  size: 203, 165
+  orig: 204, 165
+  offset: 1, 0
+  index: -1
+wesg_00012
+  rotate: false
+  xy: 206, 117
+  size: 203, 165
+  orig: 204, 165
+  offset: 1, 0
+  index: -1
+wesg_00014
+  rotate: false
+  xy: 411, 283
+  size: 203, 165
+  orig: 204, 165
+  offset: 1, 0
+  index: -1
+wesg_00016
+  rotate: false
+  xy: 410, 117
+  size: 203, 165
+  orig: 204, 165
+  offset: 1, 0
+  index: -1

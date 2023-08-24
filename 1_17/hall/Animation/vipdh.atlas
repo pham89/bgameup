@@ -1,0 +1,258 @@
+
+vipdh.png
+size: 168,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vip2_di
+  rotate: true
+  xy: 2, 2
+  size: 74, 66
+  orig: 76, 68
+  offset: 1, 1
+  index: -1
+vip2_g1
+  rotate: false
+  xy: 70, 2
+  size: 29, 29
+  orig: 35, 35
+  offset: 3, 3
+  index: -1
+vip2_g2
+  rotate: false
+  xy: 70, 2
+  size: 29, 29
+  orig: 35, 35
+  offset: 3, 3
+  index: -1
+vip2_zig
+  rotate: true
+  xy: 70, 33
+  size: 43, 18
+  orig: 45, 20
+  offset: 1, 1
+  index: -1
+vipg1
+  rotate: false
+  xy: 101, 9
+  size: 24, 26
+  orig: 31, 31
+  offset: 4, 3
+  index: -1
+vipg2
+  rotate: true
+  xy: 90, 37
+  size: 39, 25
+  orig: 46, 29
+  offset: 4, 3
+  index: -1
+vipzig/vipzig_00000
+  rotate: false
+  xy: 90, 33
+  size: 3, 2
+  orig: 20, 9
+  offset: 0, 7
+  index: -1
+vipzig/vipzig_00001
+  rotate: false
+  xy: 160, 8
+  size: 4, 4
+  orig: 20, 9
+  offset: 0, 5
+  index: -1
+vipzig/vipzig_00002
+  rotate: false
+  xy: 159, 14
+  size: 4, 5
+  orig: 20, 9
+  offset: 0, 4
+  index: -1
+vipzig/vipzig_00003
+  rotate: true
+  xy: 119, 2
+  size: 5, 6
+  orig: 20, 9
+  offset: 0, 3
+  index: -1
+vipzig/vipzig_00004
+  rotate: true
+  xy: 101, 2
+  size: 5, 7
+  orig: 20, 9
+  offset: 0, 2
+  index: -1
+vipzig/vipzig_00005
+  rotate: false
+  xy: 158, 31
+  size: 7, 8
+  orig: 20, 9
+  offset: 0, 1
+  index: -1
+vipzig/vipzig_00006
+  rotate: false
+  xy: 149, 67
+  size: 8, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+vipzig/vipzig_00007
+  rotate: false
+  xy: 149, 3
+  size: 9, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+vipzig/vipzig_00008
+  rotate: true
+  xy: 137, 12
+  size: 10, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+vipzig/vipzig_00009
+  rotate: true
+  xy: 147, 26
+  size: 10, 9
+  orig: 20, 9
+  offset: 1, 0
+  index: -1
+vipzig/vipzig_00010
+  rotate: true
+  xy: 131, 37
+  size: 11, 9
+  orig: 20, 9
+  offset: 1, 0
+  index: -1
+vipzig/vipzig_00011
+  rotate: true
+  xy: 148, 14
+  size: 10, 9
+  orig: 20, 9
+  offset: 2, 0
+  index: -1
+vipzig/vipzig_00012
+  rotate: true
+  xy: 138, 51
+  size: 11, 9
+  orig: 20, 9
+  offset: 2, 0
+  index: -1
+vipzig/vipzig_00013
+  rotate: false
+  xy: 117, 37
+  size: 12, 9
+  orig: 20, 9
+  offset: 2, 0
+  index: -1
+vipzig/vipzig_00014
+  rotate: true
+  xy: 128, 64
+  size: 12, 9
+  orig: 20, 9
+  offset: 3, 0
+  index: -1
+vipzig/vipzig_00015
+  rotate: true
+  xy: 117, 63
+  size: 13, 9
+  orig: 20, 9
+  offset: 3, 0
+  index: -1
+vipzig/vipzig_00016
+  rotate: true
+  xy: 117, 48
+  size: 13, 9
+  orig: 20, 9
+  offset: 4, 0
+  index: -1
+vipzig/vipzig_00017
+  rotate: true
+  xy: 139, 65
+  size: 11, 8
+  orig: 20, 9
+  offset: 7, 1
+  index: -1
+vipzig/vipzig_00018
+  rotate: true
+  xy: 127, 10
+  size: 11, 8
+  orig: 20, 9
+  offset: 8, 1
+  index: -1
+vipzig/vipzig_00019
+  rotate: true
+  xy: 137, 24
+  size: 11, 8
+  orig: 20, 9
+  offset: 8, 1
+  index: -1
+vipzig/vipzig_00020
+  rotate: true
+  xy: 128, 50
+  size: 12, 8
+  orig: 20, 9
+  offset: 8, 1
+  index: -1
+vipzig/vipzig_00021
+  rotate: true
+  xy: 127, 23
+  size: 12, 8
+  orig: 20, 9
+  offset: 8, 1
+  index: -1
+vipzig/vipzig_00022
+  rotate: true
+  xy: 142, 38
+  size: 11, 8
+  orig: 20, 9
+  offset: 9, 1
+  index: -1
+vipzig/vipzig_00023
+  rotate: false
+  xy: 137, 2
+  size: 10, 8
+  orig: 20, 9
+  offset: 10, 1
+  index: -1
+vipzig/vipzig_00024
+  rotate: true
+  xy: 149, 56
+  size: 9, 8
+  orig: 20, 9
+  offset: 11, 1
+  index: -1
+vipzig/vipzig_00025
+  rotate: false
+  xy: 152, 41
+  size: 8, 8
+  orig: 20, 9
+  offset: 12, 1
+  index: -1
+vipzig/vipzig_00026
+  rotate: false
+  xy: 159, 21
+  size: 7, 8
+  orig: 20, 9
+  offset: 13, 1
+  index: -1
+vipzig/vipzig_00027
+  rotate: true
+  xy: 127, 2
+  size: 6, 8
+  orig: 20, 9
+  offset: 14, 1
+  index: -1
+vipzig/vipzig_00028
+  rotate: true
+  xy: 110, 2
+  size: 5, 7
+  orig: 20, 9
+  offset: 15, 1
+  index: -1
+vipzig/vipzig_00029
+  rotate: true
+  xy: 149, 51
+  size: 3, 4
+  orig: 20, 9
+  offset: 17, 4
+  index: -1

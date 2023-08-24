@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>XBiaoQing/jx/jingxia0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{531,0},{76,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{76,58}</string>
+			</dict>
+			<key>XBiaoQing/jx/jingxia01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{607,0},{65,45}}</string>
+				<key>offset</key>
+				<string>{-2,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,49}</string>
+			</dict>
+			<key>XBiaoQing/jx/jingxia02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{607,45},{29,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{29,18}</string>
+			</dict>
+			<key>XBiaoQing/jx/jingxia03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{636,45},{9,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{9,24}</string>
+			</dict>
+			<key>XBiaoQing/jx/jingxia04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{239,0},{89,92}}</string>
+				<key>offset</key>
+				<string>{0,-4}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{89,99}</string>
+			</dict>
+			<key>XBiaoQing/jx/jingxia05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{126,0},{94,113}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{94,113}</string>
+			</dict>
+			<key>XBiaoQing/jx/jingxia06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{126,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,114}</string>
+			</dict>
+			<key>XBiaoQing/jx/jingxia07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{672,0},{51,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{51,57}</string>
+			</dict>
+			<key>XBiaoQing/jx/jingxia08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{428,0},{103,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{103,61}</string>
+			</dict>
+			<key>XBiaoQing/jx/jingxia09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{331,0},{97,76}}</string>
+				<key>offset</key>
+				<string>{9,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{115,77}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>jx.png</string>
+			<key>realTextureFileName</key>
+			<string>jx.png</string>
+			<key>size</key>
+			<string>{729,114}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>729</integer>
+			<key>height</key>
+			<integer>114</integer>
+		</dict>
+	</dict>
+</plist>

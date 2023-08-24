@@ -1,0 +1,78 @@
+{
+"skeleton": {
+	"hash": "COrlr4lGxyGTduSt6sY2HQTlSys",
+	"spine": "3.8.99",
+	"x": -102.5,
+	"y": -73.5,
+	"width": 205,
+	"height": 147,
+	"images": "./images/",
+	"audio": "D:/slot/界面特效"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "zg_00000", "parent": "root" }
+],
+"slots": [
+	{ "name": "zg_00000", "bone": "zg_00000", "attachment": "zg_00000" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"zg_00000": {
+				"zg_00000": { "width": 205, "height": 147 },
+				"zg_00002": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00004": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00006": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00008": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00010": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00012": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00014": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00016": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00018": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00020": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00022": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00024": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00026": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00028": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00030": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00032": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00034": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00036": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 },
+				"zg_00038": { "x": 0.5, "y": 0.5, "width": 205, "height": 147 }
+			}
+		}
+	}
+],
+"animations": {
+	"light": {
+		"slots": {
+			"zg_00000": {
+				"attachment": [
+					{ "time": 0.0667, "name": "zg_00002" },
+					{ "time": 0.1333, "name": "zg_00004" },
+					{ "time": 0.2, "name": "zg_00006" },
+					{ "time": 0.2667, "name": "zg_00008" },
+					{ "time": 0.3333, "name": "zg_00010" },
+					{ "time": 0.4, "name": "zg_00012" },
+					{ "time": 0.4667, "name": "zg_00014" },
+					{ "time": 0.5333, "name": "zg_00016" },
+					{ "time": 0.6, "name": "zg_00018" },
+					{ "time": 0.6667, "name": "zg_00020" },
+					{ "time": 0.7333, "name": "zg_00022" },
+					{ "time": 0.8, "name": "zg_00024" },
+					{ "time": 0.8667, "name": "zg_00026" },
+					{ "time": 0.9333, "name": "zg_00028" },
+					{ "time": 1, "name": "zg_00030" },
+					{ "time": 1.0667, "name": "zg_00032" },
+					{ "time": 1.1333, "name": "zg_00034" },
+					{ "time": 1.2, "name": "zg_00036" },
+					{ "time": 1.2667, "name": "zg_00038" },
+					{ "time": 1.3333, "name": "zg_00038" }
+				]
+			}
+		}
+	}
+}
+}

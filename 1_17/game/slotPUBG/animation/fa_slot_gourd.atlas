@@ -1,0 +1,181 @@
+
+fa_slot_gourd.png
+size: 928,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 1, 401
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00001
+  rotate: true
+  xy: 1, 267
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00002
+  rotate: true
+  xy: 1, 133
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00003
+  rotate: false
+  xy: 1, 1
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00004
+  rotate: true
+  xy: 133, 401
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00005
+  rotate: true
+  xy: 133, 267
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00006
+  rotate: true
+  xy: 133, 133
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00007
+  rotate: false
+  xy: 135, 1
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00008
+  rotate: true
+  xy: 265, 401
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00009
+  rotate: true
+  xy: 265, 267
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00010
+  rotate: true
+  xy: 265, 133
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00011
+  rotate: false
+  xy: 269, 1
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00012
+  rotate: true
+  xy: 397, 401
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00013
+  rotate: true
+  xy: 397, 267
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00014
+  rotate: true
+  xy: 397, 133
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00015
+  rotate: false
+  xy: 403, 1
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00016
+  rotate: false
+  xy: 529, 403
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00017
+  rotate: true
+  xy: 529, 269
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00018
+  rotate: true
+  xy: 529, 135
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00019
+  rotate: true
+  xy: 537, 1
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00020
+  rotate: false
+  xy: 661, 271
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00021
+  rotate: false
+  xy: 663, 403
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00022
+  rotate: true
+  xy: 661, 137
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00023
+  rotate: true
+  xy: 669, 3
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00024
+  rotate: true
+  xy: 793, 137
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1

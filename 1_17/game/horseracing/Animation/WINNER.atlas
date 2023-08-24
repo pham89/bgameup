@@ -1,0 +1,139 @@
+
+WINNER.png
+size: 820,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0619
+  rotate: false
+  xy: 1, 1
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+WINNER13
+  rotate: false
+  xy: 461, 472
+  size: 344, 347
+  orig: 344, 347
+  offset: 0, 0
+  index: -1
+WINNER15
+  rotate: false
+  xy: 1, 79
+  size: 175, 173
+  orig: 175, 173
+  offset: 0, 0
+  index: -1
+WINNER16
+  rotate: true
+  xy: 413, 153
+  size: 318, 242
+  orig: 318, 259
+  offset: 0, 17
+  index: -1
+WINNER17
+  rotate: false
+  xy: 503, 99
+  size: 286, 53
+  orig: 287, 54
+  offset: 1, 0
+  index: -1
+WINNER18
+  rotate: false
+  xy: 1, 253
+  size: 411, 414
+  orig: 457, 457
+  offset: 23, 13
+  index: -1
+WINNER8
+  rotate: true
+  xy: 79, 18
+  size: 60, 87
+  orig: 60, 87
+  offset: 0, 0
+  index: -1
+WINNER9
+  rotate: true
+  xy: 656, 154
+  size: 317, 70
+  orig: 319, 70
+  offset: 1, 0
+  index: -1
+caidai1_1
+  rotate: false
+  xy: 167, 14
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+caidai1_2
+  rotate: false
+  xy: 413, 610
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+caidai1_3
+  rotate: true
+  xy: 681, 45
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+caidai1_4
+  rotate: false
+  xy: 739, 43
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+fish31_6
+  rotate: false
+  xy: 413, 589
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+gai2_guang2
+  rotate: false
+  xy: 1, 668
+  size: 459, 151
+  orig: 517, 242
+  offset: 32, 56
+  index: -1
+gxtx
+  rotate: true
+  xy: 386, 37
+  size: 115, 116
+  orig: 128, 128
+  offset: 9, 7
+  index: -1
+shengli_guang5
+  rotate: false
+  xy: 503, 13
+  size: 177, 85
+  orig: 185, 92
+  offset: 4, 6
+  index: -1
+texiao_4
+  rotate: false
+  xy: 259, 32
+  size: 96, 91
+  orig: 101, 94
+  offset: 1, 3
+  index: -1
+texiao_5
+  rotate: false
+  xy: 259, 124
+  size: 126, 128
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+texiao_7
+  rotate: true
+  xy: 177, 71
+  size: 181, 81
+  orig: 181, 83
+  offset: 0, 2
+  index: -1

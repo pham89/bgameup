@@ -1,0 +1,216 @@
+
+pubg_BIGWIN.png
+size: 974,974
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIGWIN
+  rotate: false
+  xy: 573, 514
+  size: 289, 96
+  orig: 289, 96
+  offset: 0, 0
+  index: -1
+awm
+  rotate: false
+  xy: 383, 452
+  size: 67, 374
+  orig: 67, 377
+  offset: 0, 1
+  index: -1
+coins1
+  rotate: true
+  xy: 697, 388
+  size: 124, 130
+  orig: 130, 130
+  offset: 3, 0
+  index: -1
+coins10
+  rotate: true
+  xy: 829, 373
+  size: 128, 129
+  orig: 131, 131
+  offset: 2, 0
+  index: -1
+coins11
+  rotate: true
+  xy: 697, 275
+  size: 111, 129
+  orig: 111, 129
+  offset: 0, 0
+  index: -1
+coins12
+  rotate: true
+  xy: 697, 172
+  size: 101, 129
+  orig: 102, 129
+  offset: 0, 0
+  index: -1
+coins13
+  rotate: true
+  xy: 828, 183
+  size: 76, 127
+  orig: 81, 132
+  offset: 5, 0
+  index: -1
+coins14
+  rotate: true
+  xy: 356, 229
+  size: 96, 120
+  orig: 96, 121
+  offset: 0, 1
+  index: -1
+coins15
+  rotate: false
+  xy: 864, 503
+  size: 106, 103
+  orig: 109, 105
+  offset: 0, 0
+  index: -1
+coins16
+  rotate: true
+  xy: 872, 727
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+coins17
+  rotate: true
+  xy: 872, 608
+  size: 117, 100
+  orig: 121, 100
+  offset: 4, 0
+  index: -1
+coins18
+  rotate: true
+  xy: 356, 327
+  size: 123, 93
+  orig: 125, 93
+  offset: 0, 0
+  index: -1
+coins19
+  rotate: false
+  xy: 570, 399
+  size: 125, 102
+  orig: 125, 102
+  offset: 0, 0
+  index: -1
+coins2
+  rotate: true
+  xy: 828, 261
+  size: 110, 129
+  orig: 110, 129
+  offset: 0, 0
+  index: -1
+coins20
+  rotate: true
+  xy: 573, 58
+  size: 125, 115
+  orig: 125, 115
+  offset: 0, 0
+  index: -1
+coins3
+  rotate: false
+  xy: 872, 849
+  size: 100, 123
+  orig: 100, 128
+  offset: 0, 5
+  index: -1
+coins4
+  rotate: true
+  xy: 828, 101
+  size: 80, 124
+  orig: 86, 126
+  offset: 3, 1
+  index: -1
+coins5
+  rotate: true
+  xy: 452, 531
+  size: 79, 119
+  orig: 79, 123
+  offset: 0, 4
+  index: -1
+coins6
+  rotate: true
+  xy: 573, 185
+  size: 79, 122
+  orig: 85, 126
+  offset: 3, 4
+  index: -1
+coins7
+  rotate: false
+  xy: 603, 269
+  size: 92, 128
+  orig: 93, 128
+  offset: 1, 0
+  index: -1
+coins8
+  rotate: true
+  xy: 690, 71
+  size: 99, 123
+  orig: 105, 130
+  offset: 6, 6
+  index: -1
+coins9
+  rotate: false
+  xy: 478, 266
+  size: 123, 131
+  orig: 124, 131
+  offset: 1, 0
+  index: -1
+dm
+  rotate: false
+  xy: 2, 558
+  size: 375, 86
+  orig: 382, 86
+  offset: 0, 0
+  index: -1
+ggg
+  rotate: false
+  xy: 459, 612
+  size: 411, 360
+  orig: 418, 408
+  offset: 7, 35
+  index: -1
+jbjb1
+  rotate: true
+  xy: 293, 77
+  size: 148, 278
+  orig: 148, 283
+  offset: 0, 0
+  index: -1
+jbjb2
+  rotate: false
+  xy: 2, 62
+  size: 289, 163
+  orig: 289, 163
+  offset: 0, 0
+  index: -1
+kogntou
+  rotate: false
+  xy: 2, 227
+  size: 352, 329
+  orig: 352, 329
+  offset: 0, 0
+  index: -1
+suixie
+  rotate: false
+  xy: 2, 646
+  size: 379, 180
+  orig: 379, 180
+  offset: 0, 0
+  index: -1
+toukui
+  rotate: true
+  xy: 452, 399
+  size: 130, 116
+  orig: 130, 116
+  offset: 0, 0
+  index: -1
+yuk
+  rotate: false
+  xy: 2, 828
+  size: 455, 144
+  orig: 461, 145
+  offset: 6, 0
+  index: -1

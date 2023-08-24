@@ -1,0 +1,13 @@
+
+superfree_caidai.png
+size: 178,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cd01
+  rotate: false
+  xy: 1, 13
+  size: 176, 164
+  orig: 185, 168
+  offset: 2, 4
+  index: -1

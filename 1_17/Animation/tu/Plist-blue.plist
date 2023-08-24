@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/tu/paoma10/101_dh_saima3721-blue_00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{321,1},{304,206}}</string>
+				<key>offset</key>
+				<string>{3,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{329,208}</string>
+			</dict>
+			<key>Animation/tu/paoma10/101_dh_saima3721-blue_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{627,203},{304,204}}</string>
+				<key>offset</key>
+				<string>{4,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{329,208}</string>
+			</dict>
+			<key>Animation/tu/paoma10/101_dh_saima3721-blue_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{310,520},{304,202}}</string>
+				<key>offset</key>
+				<string>{6,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{329,208}</string>
+			</dict>
+			<key>Animation/tu/paoma10/101_dh_saima3721-blue_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{317,209},{309,200}}</string>
+				<key>offset</key>
+				<string>{4,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{329,208}</string>
+			</dict>
+			<key>Animation/tu/paoma10/101_dh_saima3721-blue_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,202},{314,199}}</string>
+				<key>offset</key>
+				<string>{3,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{329,208}</string>
+			</dict>
+			<key>Animation/tu/paoma10/101_dh_saima3721-blue_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{318,199}}</string>
+				<key>offset</key>
+				<string>{2,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{329,208}</string>
+			</dict>
+			<key>Animation/tu/paoma10/101_dh_saima3721-blue_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{627,1},{312,200}}</string>
+				<key>offset</key>
+				<string>{3,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{329,208}</string>
+			</dict>
+			<key>Animation/tu/paoma10/101_dh_saima3721-blue_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,403},{307,201}}</string>
+				<key>offset</key>
+				<string>{4,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{329,208}</string>
+			</dict>
+			<key>Animation/tu/paoma10/101_dh_saima3721-blue_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,606},{301,203}}</string>
+				<key>offset</key>
+				<string>{5,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{329,208}</string>
+			</dict>
+			<key>Animation/tu/paoma10/101_dh_saima3721-blue_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{519,409},{302,204}}</string>
+				<key>offset</key>
+				<string>{3,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{329,208}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-blue.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-blue.png</string>
+			<key>size</key>
+			<string>{940,825}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>940</integer>
+			<key>height</key>
+			<integer>825</integer>
+		</dict>
+	</dict>
+</plist>

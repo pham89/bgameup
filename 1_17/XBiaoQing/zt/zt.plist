@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>XBiaoQing/zt/zazhuantou01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,112},{85,94}}</string>
+				<key>offset</key>
+				<string>{6,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,99}</string>
+			</dict>
+			<key>XBiaoQing/zt/zazhuantou02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{73,206},{60,94}}</string>
+				<key>offset</key>
+				<string>{15,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{89,99}</string>
+			</dict>
+			<key>XBiaoQing/zt/zazhuantou03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,206},{73,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{73,96}</string>
+			</dict>
+			<key>XBiaoQing/zt/zazhuantou04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{110,112}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{111,112}</string>
+			</dict>
+			<key>XBiaoQing/zt/zazhuantou05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{85,164},{34,80}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{35,80}</string>
+			</dict>
+			<key>XBiaoQing/zt/zazhuantou06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{85,112},{105,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,52}</string>
+			</dict>
+			<key>XBiaoQing/zt/zazhuantou07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,302},{81,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{81,84}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>zt.png</string>
+			<key>realTextureFileName</key>
+			<string>zt.png</string>
+			<key>size</key>
+			<string>{190,386}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>190</integer>
+			<key>height</key>
+			<integer>386</integer>
+		</dict>
+	</dict>
+</plist>

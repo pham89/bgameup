@@ -1,0 +1,41 @@
+
+slot_fruit_WIN.png
+size: 356,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WIN
+  rotate: false
+  xy: 1, 278
+  size: 181, 77
+  orig: 181, 77
+  offset: 0, 0
+  index: -1
+caidai1_1
+  rotate: false
+  xy: 299, 299
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+caidai1_2
+  rotate: true
+  xy: 241, 331
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+caidai1_3
+  rotate: true
+  xy: 183, 302
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+caidai1_4
+  rotate: true
+  xy: 241, 280
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1

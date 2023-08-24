@@ -1,0 +1,69 @@
+
+BIGWIN.png
+size: 710,710
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIGWIN
+  rotate: true
+  xy: 573, 38
+  size: 289, 96
+  orig: 289, 96
+  offset: 0, 0
+  index: -1
+awm
+  rotate: false
+  xy: 641, 334
+  size: 67, 374
+  orig: 67, 377
+  offset: 0, 1
+  index: -1
+dm
+  rotate: true
+  xy: 333, 187
+  size: 375, 86
+  orig: 382, 86
+  offset: 0, 0
+  index: -1
+jbjb1
+  rotate: true
+  xy: 293, 37
+  size: 148, 278
+  orig: 148, 283
+  offset: 0, 0
+  index: -1
+jbjb2
+  rotate: false
+  xy: 2, 45
+  size: 289, 163
+  orig: 289, 163
+  offset: 0, 0
+  index: -1
+kogntou
+  rotate: true
+  xy: 2, 210
+  size: 352, 329
+  orig: 352, 329
+  offset: 0, 0
+  index: -1
+suixie
+  rotate: true
+  xy: 459, 329
+  size: 379, 180
+  orig: 379, 180
+  offset: 0, 0
+  index: -1
+toukui
+  rotate: false
+  xy: 421, 211
+  size: 130, 116
+  orig: 130, 116
+  offset: 0, 0
+  index: -1
+yuk
+  rotate: false
+  xy: 2, 564
+  size: 455, 144
+  orig: 461, 145
+  offset: 6, 0
+  index: -1

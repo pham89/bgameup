@@ -1,0 +1,139 @@
+
+freespins_win.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+end_fs_Coin0004
+  rotate: false
+  xy: 1555, 327
+  size: 117, 115
+  orig: 130, 130
+  offset: 13, 8
+  index: -1
+end_fs_Coin0005
+  rotate: true
+  xy: 1430, 340
+  size: 102, 123
+  orig: 130, 130
+  offset: 22, 7
+  index: -1
+end_fs_Coin0006
+  rotate: true
+  xy: 469, 14
+  size: 80, 123
+  orig: 130, 130
+  offset: 33, 6
+  index: -1
+end_fs_Coin0007
+  rotate: true
+  xy: 1304, 391
+  size: 51, 124
+  orig: 130, 130
+  offset: 46, 6
+  index: -1
+end_fs_Coin0008
+  rotate: true
+  xy: 1786, 405
+  size: 37, 123
+  orig: 130, 130
+  offset: 48, 6
+  index: -1
+end_fs_Coin0009
+  rotate: true
+  xy: 855, 256
+  size: 66, 121
+  orig: 130, 130
+  offset: 30, 6
+  index: -1
+end_fs_Coin0010
+  rotate: true
+  xy: 349, 2
+  size: 92, 118
+  orig: 130, 130
+  offset: 16, 6
+  index: -1
+end_fs_Coin0011
+  rotate: false
+  xy: 1674, 327
+  size: 110, 115
+  orig: 130, 130
+  offset: 8, 6
+  index: -1
+end_fs_Coin0012
+  rotate: true
+  xy: 1147, 227
+  size: 120, 113
+  orig: 130, 130
+  offset: 5, 6
+  index: -1
+end_fs_Coin0013
+  rotate: false
+  xy: 985, 94
+  size: 123, 113
+  orig: 130, 130
+  offset: 6, 6
+  index: -1
+end_fs_coins_won_in
+  rotate: false
+  xy: 1304, 444
+  size: 644, 66
+  orig: 644, 66
+  offset: 0, 0
+  index: -1
+end_fs_congratulations!
+  rotate: false
+  xy: 2, 417
+  size: 1300, 93
+  orig: 1300, 93
+  offset: 0, 0
+  index: -1
+end_fs_flare_01
+  rotate: false
+  xy: 985, 209
+  size: 160, 138
+  orig: 176, 151
+  offset: 7, 8
+  index: -1
+end_fs_flare_02
+  rotate: false
+  xy: 2, 9
+  size: 345, 313
+  orig: 582, 332
+  offset: 108, 19
+  index: -1
+end_fs_flare_03
+  rotate: false
+  xy: 683, 68
+  size: 300, 186
+  orig: 304, 188
+  offset: 2, 0
+  index: -1
+end_fs_free_spins
+  rotate: false
+  xy: 349, 256
+  size: 504, 66
+  orig: 504, 66
+  offset: 0, 0
+  index: -1
+end_fs_rays
+  rotate: false
+  xy: 349, 96
+  size: 332, 158
+  orig: 333, 165
+  offset: 1, 7
+  index: -1
+end_fs_text_bonus_game
+  rotate: false
+  xy: 2, 324
+  size: 859, 91
+  orig: 859, 91
+  offset: 0, 0
+  index: -1
+end_fs_you_win
+  rotate: false
+  xy: 863, 349
+  size: 400, 66
+  orig: 400, 66
+  offset: 0, 0
+  index: -1

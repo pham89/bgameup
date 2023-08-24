@@ -1,0 +1,69 @@
+
+win.png
+size: 258,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0619
+  rotate: false
+  xy: 128, 107
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+caishen1_jb1
+  rotate: false
+  xy: 117, 39
+  size: 70, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+caishen1_jb2
+  rotate: false
+  xy: 188, 39
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+caishen1_jb3
+  rotate: true
+  xy: 117, 2
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+caishen1_jb4
+  rotate: true
+  xy: 185, 18
+  size: 20, 67
+  orig: 82, 90
+  offset: 32, 12
+  index: -1
+caishen1_jb5
+  rotate: false
+  xy: 206, 117
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+gxtx
+  rotate: false
+  xy: 1, 12
+  size: 115, 116
+  orig: 128, 128
+  offset: 9, 7
+  index: -1
+texiao_5
+  rotate: false
+  xy: 1, 129
+  size: 126, 128
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 128, 185
+  size: 120, 72
+  orig: 125, 77
+  offset: 3, 3
+  index: -1

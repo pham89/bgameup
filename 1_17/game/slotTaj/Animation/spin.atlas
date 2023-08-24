@@ -1,0 +1,153 @@
+
+spin.png
+size: 571,571
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+uig
+  rotate: false
+  xy: 1, 480
+  size: 215, 90
+  orig: 215, 90
+  offset: 0, 0
+  index: -1
+uisg_00001
+  rotate: false
+  xy: 75, 7
+  size: 192, 53
+  orig: 202, 82
+  offset: 9, 14
+  index: -1
+uisg_00003
+  rotate: false
+  xy: 197, 276
+  size: 193, 72
+  orig: 202, 82
+  offset: 8, 5
+  index: -1
+uisg_00005
+  rotate: false
+  xy: 197, 349
+  size: 193, 73
+  orig: 202, 82
+  offset: 8, 4
+  index: -1
+uisg_00007
+  rotate: true
+  xy: 205, 82
+  size: 193, 73
+  orig: 202, 82
+  offset: 8, 4
+  index: -1
+uisg_00009
+  rotate: true
+  xy: 279, 82
+  size: 193, 73
+  orig: 202, 82
+  offset: 8, 4
+  index: -1
+uisg_00011
+  rotate: true
+  xy: 75, 61
+  size: 193, 74
+  orig: 202, 82
+  offset: 8, 4
+  index: -1
+uisg_00013
+  rotate: true
+  xy: 413, 378
+  size: 192, 74
+  orig: 202, 82
+  offset: 9, 4
+  index: -1
+uisg_00015
+  rotate: false
+  xy: 353, 153
+  size: 188, 74
+  orig: 202, 82
+  offset: 13, 4
+  index: -1
+uisg_00017
+  rotate: false
+  xy: 353, 78
+  size: 187, 74
+  orig: 202, 82
+  offset: 13, 4
+  index: -1
+uisg_00019
+  rotate: false
+  xy: 391, 303
+  size: 179, 74
+  orig: 202, 82
+  offset: 13, 4
+  index: -1
+uisg_00021
+  rotate: false
+  xy: 391, 228
+  size: 179, 74
+  orig: 202, 82
+  offset: 13, 4
+  index: -1
+uisg_00023
+  rotate: false
+  xy: 268, 3
+  size: 180, 74
+  orig: 202, 82
+  offset: 12, 4
+  index: -1
+uisg_00025
+  rotate: true
+  xy: 488, 378
+  size: 192, 74
+  orig: 202, 82
+  offset: 3, 4
+  index: -1
+uisg_00027
+  rotate: false
+  xy: 1, 255
+  size: 194, 74
+  orig: 202, 82
+  offset: 2, 4
+  index: -1
+uisg_00029
+  rotate: false
+  xy: 1, 405
+  size: 195, 74
+  orig: 202, 82
+  offset: 2, 4
+  index: -1
+uisg_00031
+  rotate: false
+  xy: 217, 496
+  size: 195, 74
+  orig: 202, 82
+  offset: 2, 4
+  index: -1
+uisg_00033
+  rotate: false
+  xy: 1, 330
+  size: 195, 74
+  orig: 202, 82
+  offset: 2, 4
+  index: -1
+uisg_00035
+  rotate: true
+  xy: 1, 59
+  size: 195, 73
+  orig: 202, 82
+  offset: 2, 4
+  index: -1
+uisg_00037
+  rotate: false
+  xy: 217, 423
+  size: 195, 72
+  orig: 202, 82
+  offset: 2, 5
+  index: -1
+uisg_00039
+  rotate: true
+  xy: 150, 61
+  size: 193, 54
+  orig: 202, 82
+  offset: 3, 14
+  index: -1

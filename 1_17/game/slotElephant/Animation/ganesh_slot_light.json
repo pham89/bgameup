@@ -1,0 +1,60 @@
+{
+"skeleton": {
+	"hash": "r/4kr3G1BP9iD+THiYjnna50z1c",
+	"spine": "3.8.99",
+	"x": -667.02,
+	"y": -385.51,
+	"width": 1280,
+	"height": 720,
+	"images": "./images/",
+	"audio": "D:/象神/ui特效"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "22_00000", "parent": "root", "scaleX": 0.92, "scaleY": 0.92 }
+],
+"slots": [
+	{ "name": "22_00000", "bone": "22_00000", "attachment": "22_00001" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"22_00000": {
+				"22_00000": { "width": 220, "height": 220 },
+				"22_00001": { "width": 220, "height": 220 },
+				"22_00002": { "width": 220, "height": 220 },
+				"22_00003": { "width": 220, "height": 220 },
+				"22_00004": { "width": 220, "height": 220 },
+				"22_00005": { "width": 220, "height": 220 },
+				"22_00006": { "width": 220, "height": 220 },
+				"22_00007": { "width": 220, "height": 220 },
+				"22_00008": { "width": 220, "height": 220 },
+				"22_00009": { "width": 220, "height": 220 },
+				"22_00010": { "width": 220, "height": 220 }
+			}
+		}
+	}
+],
+"animations": {
+	"ganesh_slot_light": {
+		"slots": {
+			"22_00000": {
+				"attachment": [
+					{ "name": "22_00000" },
+					{ "time": 0.0667, "name": "22_00001" },
+					{ "time": 0.1333, "name": "22_00002" },
+					{ "time": 0.2, "name": "22_00003" },
+					{ "time": 0.2667, "name": "22_00004" },
+					{ "time": 0.3333, "name": "22_00005" },
+					{ "time": 0.4, "name": "22_00006" },
+					{ "time": 0.4667, "name": "22_00007" },
+					{ "time": 0.5333, "name": "22_00008" },
+					{ "time": 0.6, "name": "22_00009" },
+					{ "time": 0.6667, "name": "22_00010" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,34 @@
+
+RESPINS.png
+size: 69,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cs_0
+  rotate: false
+  xy: 1, 35
+  size: 23, 33
+  orig: 23, 34
+  offset: 0, 1
+  index: -1
+cs_1
+  rotate: false
+  xy: 24, 1
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+cs_2
+  rotate: false
+  xy: 1, 1
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+cs_3
+  rotate: false
+  xy: 25, 35
+  size: 22, 33
+  orig: 23, 34
+  offset: 0, 1
+  index: -1

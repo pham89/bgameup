@@ -1,0 +1,55 @@
+
+FFF-qiandai.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slot_poker_cards_1
+  rotate: false
+  xy: 265, 334
+  size: 154, 166
+  orig: 154, 166
+  offset: 0, 0
+  index: -1
+slot_poker_cards_2
+  rotate: false
+  xy: 421, 345
+  size: 133, 155
+  orig: 133, 155
+  offset: 0, 0
+  index: -1
+slot_poker_cards_3
+  rotate: false
+  xy: 411, 23
+  size: 119, 146
+  orig: 119, 146
+  offset: 0, 0
+  index: -1
+slot_poker_cards_4
+  rotate: false
+  xy: 411, 171
+  size: 142, 161
+  orig: 142, 161
+  offset: 0, 0
+  index: -1
+slot_poker_cards_5
+  rotate: false
+  xy: 248, 64
+  size: 161, 166
+  orig: 161, 166
+  offset: 0, 0
+  index: -1
+slot_poker_cards_bg
+  rotate: false
+  xy: 2, 2
+  size: 244, 228
+  orig: 244, 228
+  offset: 0, 0
+  index: -1
+slot_poker_cards_bg2
+  rotate: true
+  xy: 2, 232
+  size: 268, 261
+  orig: 268, 268
+  offset: 0, 4
+  index: -1

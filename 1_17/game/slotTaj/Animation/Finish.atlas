@@ -1,0 +1,181 @@
+
+Finish.png
+size: 295,295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gtx_00000
+  rotate: false
+  xy: 1, 13
+  size: 50, 36
+  orig: 85, 63
+  offset: 18, 1
+  index: -1
+gtx_00001
+  rotate: true
+  xy: 253, 244
+  size: 50, 36
+  orig: 85, 63
+  offset: 18, 1
+  index: -1
+gtx_00002
+  rotate: false
+  xy: 52, 13
+  size: 50, 36
+  orig: 85, 63
+  offset: 18, 1
+  index: -1
+gtx_00003
+  rotate: false
+  xy: 119, 51
+  size: 56, 59
+  orig: 85, 63
+  offset: 12, 1
+  index: -1
+gtx_00004
+  rotate: true
+  xy: 235, 64
+  size: 53, 59
+  orig: 85, 63
+  offset: 15, 1
+  index: -1
+gtx_00005
+  rotate: false
+  xy: 1, 234
+  size: 64, 60
+  orig: 85, 63
+  offset: 13, 1
+  index: -1
+gtx_00006
+  rotate: true
+  xy: 235, 118
+  size: 54, 59
+  orig: 85, 63
+  offset: 14, 1
+  index: -1
+gtx_00007
+  rotate: false
+  xy: 176, 51
+  size: 55, 59
+  orig: 85, 63
+  offset: 15, 1
+  index: -1
+gtx_00008
+  rotate: false
+  xy: 62, 50
+  size: 56, 60
+  orig: 85, 63
+  offset: 16, 1
+  index: -1
+gtx_00009
+  rotate: false
+  xy: 185, 173
+  size: 51, 60
+  orig: 85, 63
+  offset: 18, 1
+  index: -1
+gtx_00010
+  rotate: false
+  xy: 237, 177
+  size: 55, 60
+  orig: 85, 63
+  offset: 15, 1
+  index: -1
+gtx_00011
+  rotate: false
+  xy: 179, 111
+  size: 55, 60
+  orig: 85, 63
+  offset: 16, 1
+  index: -1
+gtx_00012
+  rotate: false
+  xy: 64, 111
+  size: 57, 60
+  orig: 85, 63
+  offset: 15, 1
+  index: -1
+gtx_00013
+  rotate: false
+  xy: 122, 111
+  size: 56, 60
+  orig: 85, 63
+  offset: 16, 1
+  index: -1
+gtx_00014
+  rotate: true
+  xy: 232, 8
+  size: 55, 60
+  orig: 85, 63
+  offset: 16, 1
+  index: -1
+gtx_00015
+  rotate: true
+  xy: 191, 238
+  size: 56, 61
+  orig: 85, 63
+  offset: 15, 1
+  index: -1
+gtx_00016
+  rotate: false
+  xy: 64, 172
+  size: 60, 61
+  orig: 85, 63
+  offset: 13, 1
+  index: -1
+gtx_00017
+  rotate: false
+  xy: 1, 50
+  size: 60, 60
+  orig: 85, 63
+  offset: 13, 1
+  index: -1
+gtx_00018
+  rotate: false
+  xy: 66, 234
+  size: 62, 60
+  orig: 85, 63
+  offset: 12, 1
+  index: -1
+gtx_00019
+  rotate: false
+  xy: 129, 234
+  size: 61, 60
+  orig: 85, 63
+  offset: 13, 1
+  index: -1
+gtx_00020
+  rotate: false
+  xy: 1, 111
+  size: 62, 60
+  orig: 85, 63
+  offset: 12, 1
+  index: -1
+gtx_00022
+  rotate: false
+  xy: 1, 111
+  size: 62, 60
+  orig: 85, 63
+  offset: 12, 1
+  index: -1
+gtx_00021
+  rotate: false
+  xy: 1, 172
+  size: 62, 61
+  orig: 85, 63
+  offset: 12, 1
+  index: -1
+gtx_00023
+  rotate: false
+  xy: 125, 172
+  size: 59, 61
+  orig: 85, 63
+  offset: 13, 1
+  index: -1
+hg
+  rotate: false
+  xy: 103, 16
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1

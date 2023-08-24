@@ -1,0 +1,41 @@
+
+Emerald.png
+size: 331,331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caishen1_jb1
+  rotate: false
+  xy: 1, 194
+  size: 136, 136
+  orig: 138, 138
+  offset: 1, 1
+  index: -1
+caishen1_jb2
+  rotate: false
+  xy: 1, 80
+  size: 134, 113
+  orig: 136, 115
+  offset: 1, 1
+  index: -1
+caishen1_jb3
+  rotate: false
+  xy: 138, 111
+  size: 134, 97
+  orig: 136, 100
+  offset: 1, 2
+  index: -1
+caishen1_jb4
+  rotate: false
+  xy: 136, 1
+  size: 128, 109
+  orig: 132, 112
+  offset: 2, 2
+  index: -1
+caishen1_jb5
+  rotate: false
+  xy: 138, 209
+  size: 124, 121
+  orig: 126, 123
+  offset: 1, 1
+  index: -1

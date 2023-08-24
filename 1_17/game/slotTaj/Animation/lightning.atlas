@@ -1,0 +1,174 @@
+
+lightning.png
+size: 585,585
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sd_00001
+  rotate: false
+  xy: 1, 512
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00002
+  rotate: false
+  xy: 1, 439
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00003
+  rotate: false
+  xy: 186, 512
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00004
+  rotate: false
+  xy: 1, 366
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00005
+  rotate: false
+  xy: 186, 439
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00006
+  rotate: false
+  xy: 371, 512
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00007
+  rotate: false
+  xy: 1, 293
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00008
+  rotate: false
+  xy: 186, 366
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00009
+  rotate: false
+  xy: 371, 439
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00010
+  rotate: false
+  xy: 1, 220
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00011
+  rotate: false
+  xy: 186, 293
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00012
+  rotate: false
+  xy: 371, 366
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00013
+  rotate: false
+  xy: 1, 147
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00014
+  rotate: false
+  xy: 186, 220
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00015
+  rotate: false
+  xy: 371, 293
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00016
+  rotate: false
+  xy: 1, 74
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00017
+  rotate: false
+  xy: 186, 147
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00018
+  rotate: false
+  xy: 371, 220
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00019
+  rotate: false
+  xy: 1, 1
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00020
+  rotate: false
+  xy: 186, 74
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00021
+  rotate: false
+  xy: 371, 147
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00022
+  rotate: false
+  xy: 186, 1
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00023
+  rotate: false
+  xy: 371, 74
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+sd_00024
+  rotate: false
+  xy: 371, 1
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1

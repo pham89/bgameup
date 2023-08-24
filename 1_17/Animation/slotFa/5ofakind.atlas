@@ -1,0 +1,146 @@
+
+5ofakind.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kind_4
+  rotate: false
+  xy: 542, 167
+  size: 260, 339
+  orig: 260, 339
+  offset: 0, 0
+  index: -1
+kind_5
+  rotate: false
+  xy: 2, 163
+  size: 268, 343
+  orig: 268, 343
+  offset: 0, 0
+  index: -1
+kind_6
+  rotate: true
+  xy: 804, 258
+  size: 248, 348
+  orig: 248, 348
+  offset: 0, 0
+  index: -1
+kind_7
+  rotate: false
+  xy: 272, 167
+  size: 268, 339
+  orig: 268, 339
+  offset: 0, 0
+  index: -1
+kind_Coin0004
+  rotate: true
+  xy: 738, 48
+  size: 117, 115
+  orig: 130, 130
+  offset: 13, 8
+  index: -1
+kind_Coin0005
+  rotate: false
+  xy: 1318, 202
+  size: 102, 123
+  orig: 130, 130
+  offset: 22, 7
+  index: -1
+kind_Coin0006
+  rotate: true
+  xy: 950, 176
+  size: 80, 123
+  orig: 130, 130
+  offset: 33, 6
+  index: -1
+kind_Coin0007
+  rotate: true
+  xy: 1154, 274
+  size: 51, 124
+  orig: 130, 130
+  offset: 46, 6
+  index: -1
+kind_Coin0008
+  rotate: true
+  xy: 508, 3
+  size: 37, 123
+  orig: 130, 130
+  offset: 48, 6
+  index: -1
+kind_Coin0009
+  rotate: true
+  xy: 1075, 190
+  size: 66, 121
+  orig: 130, 130
+  offset: 30, 6
+  index: -1
+kind_Coin0010
+  rotate: true
+  xy: 1198, 180
+  size: 92, 118
+  orig: 130, 130
+  offset: 16, 6
+  index: -1
+kind_Coin0011
+  rotate: false
+  xy: 1215, 63
+  size: 110, 115
+  orig: 130, 130
+  offset: 8, 6
+  index: -1
+kind_Coin0012
+  rotate: true
+  xy: 623, 45
+  size: 120, 113
+  orig: 130, 130
+  offset: 5, 6
+  index: -1
+kind_Coin0013
+  rotate: true
+  xy: 508, 42
+  size: 123, 113
+  orig: 130, 130
+  offset: 6, 6
+  index: -1
+kind_flare_01
+  rotate: true
+  xy: 368, 5
+  size: 160, 138
+  orig: 176, 151
+  offset: 9, 5
+  index: -1
+kind_flare_02
+  rotate: false
+  xy: 804, 175
+  size: 144, 81
+  orig: 146, 83
+  offset: 1, 1
+  index: -1
+kind_flare_03
+  rotate: false
+  xy: 1327, 14
+  size: 301, 186
+  orig: 305, 188
+  offset: 2, 0
+  index: -1
+kind_rays
+  rotate: false
+  xy: 855, 2
+  size: 358, 171
+  orig: 359, 178
+  offset: 0, 0
+  index: -1
+kind_text_kind
+  rotate: false
+  xy: 1154, 327
+  size: 470, 179
+  orig: 470, 179
+  offset: 0, 0
+  index: -1
+kind_text_of_a
+  rotate: false
+  xy: 2, 3
+  size: 364, 158
+  orig: 364, 158
+  offset: 0, 0
+  index: -1

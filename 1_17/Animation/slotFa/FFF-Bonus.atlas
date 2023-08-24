@@ -1,0 +1,139 @@
+
+FFF-Bonus.png
+size: 491,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kk
+  rotate: true
+  xy: 2, 142
+  size: 178, 133
+  orig: 181, 133
+  offset: 3, 0
+  index: -1
+slot_cabaret_b_feather_back
+  rotate: true
+  xy: 335, 86
+  size: 189, 101
+  orig: 189, 101
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_feather_backbg
+  rotate: false
+  xy: 137, 125
+  size: 196, 107
+  orig: 196, 107
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_feather_front
+  rotate: false
+  xy: 102, 61
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_feather_frontbg
+  rotate: true
+  xy: 137, 234
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_feather_mid
+  rotate: true
+  xy: 386, 373
+  size: 116, 91
+  orig: 116, 91
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_feather_midbg
+  rotate: true
+  xy: 2, 16
+  size: 124, 98
+  orig: 124, 98
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_mask
+  rotate: true
+  xy: 223, 277
+  size: 212, 161
+  orig: 212, 161
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_maskbg
+  rotate: false
+  xy: 2, 322
+  size: 219, 167
+  orig: 219, 167
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_text_1
+  rotate: true
+  xy: 378, 34
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_text_1bg
+  rotate: true
+  xy: 172, 3
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_text_2
+  rotate: false
+  xy: 183, 61
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_text_2bg
+  rotate: false
+  xy: 386, 302
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_text_3
+  rotate: false
+  xy: 438, 239
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_text_3bg
+  rotate: true
+  xy: 102, 2
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_text_4
+  rotate: true
+  xy: 242, 2
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_text_4bg
+  rotate: false
+  xy: 247, 55
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_text_5
+  rotate: false
+  xy: 438, 176
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+slot_cabaret_b_text_5bg
+  rotate: true
+  xy: 308, 33
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1

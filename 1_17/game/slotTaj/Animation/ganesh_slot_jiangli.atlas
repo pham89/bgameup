@@ -1,0 +1,104 @@
+
+ganesh_slot_jiangli.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+038
+  rotate: false
+  xy: 818, 536
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+5ofakind
+  rotate: false
+  xy: 1, 636
+  size: 724, 254
+  orig: 724, 254
+  offset: 0, 0
+  index: -1
+CB
+  rotate: true
+  xy: 544, 347
+  size: 138, 282
+  orig: 138, 282
+  offset: 0, 0
+  index: -1
+MASSIVEWIN
+  rotate: false
+  xy: 1, 486
+  size: 816, 149
+  orig: 817, 150
+  offset: 1, 0
+  index: -1
+MEGAWLN_huge
+  rotate: false
+  xy: 1, 329
+  size: 542, 156
+  orig: 542, 156
+  offset: 0, 0
+  index: -1
+MEGAWLN_lb
+  rotate: false
+  xy: 835, 13
+  size: 186, 165
+  orig: 186, 165
+  offset: 0, 0
+  index: -1
+MEGAWLN_sdhm
+  rotate: false
+  xy: 705, 107
+  size: 129, 239
+  orig: 130, 239
+  offset: 0, 0
+  index: -1
+MEGAWLN_win
+  rotate: true
+  xy: 835, 179
+  size: 356, 116
+  orig: 357, 116
+  offset: 0, 0
+  index: -1
+SPECTACULAR
+  rotate: false
+  xy: 1, 891
+  size: 996, 132
+  orig: 996, 133
+  offset: 0, 0
+  index: -1
+baozha
+  rotate: false
+  xy: 1, 15
+  size: 292, 313
+  orig: 292, 313
+  offset: 0, 0
+  index: -1
+bigwin_big
+  rotate: false
+  xy: 294, 145
+  size: 410, 183
+  orig: 410, 183
+  offset: 0, 0
+  index: -1
+pdpd
+  rotate: false
+  xy: 948, 633
+  size: 75, 257
+  orig: 75, 257
+  offset: 0, 0
+  index: -1
+shanguan
+  rotate: false
+  xy: 726, 665
+  size: 221, 225
+  orig: 259, 258
+  offset: 16, 17
+  index: -1
+win_ui
+  rotate: false
+  xy: 294, 51
+  size: 402, 93
+  orig: 402, 93
+  offset: 0, 0
+  index: -1

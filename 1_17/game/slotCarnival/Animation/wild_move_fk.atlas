@@ -1,0 +1,188 @@
+
+wild_move_fk.png
+size: 466,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yumao_001
+  rotate: false
+  xy: 1, 2
+  size: 19, 21
+  orig: 200, 150
+  offset: 91, 66
+  index: -1
+yumao_002
+  rotate: false
+  xy: 113, 150
+  size: 33, 33
+  orig: 200, 150
+  offset: 84, 60
+  index: -1
+yumao_003
+  rotate: false
+  xy: 261, 55
+  size: 45, 43
+  orig: 200, 150
+  offset: 78, 55
+  index: -1
+yumao_004
+  rotate: true
+  xy: 404, 64
+  size: 56, 53
+  orig: 200, 150
+  offset: 72, 50
+  index: -1
+yumao_005
+  rotate: false
+  xy: 337, 63
+  size: 66, 61
+  orig: 200, 150
+  offset: 67, 46
+  index: -1
+yumao_006
+  rotate: false
+  xy: 337, 125
+  size: 74, 69
+  orig: 200, 150
+  offset: 63, 42
+  index: -1
+yumao_007
+  rotate: true
+  xy: 261, 99
+  size: 81, 75
+  orig: 200, 150
+  offset: 59, 39
+  index: -1
+yumao_008
+  rotate: false
+  xy: 172, 12
+  size: 87, 81
+  orig: 200, 150
+  offset: 56, 36
+  index: -1
+yumao_009
+  rotate: false
+  xy: 216, 181
+  size: 93, 86
+  orig: 200, 150
+  offset: 53, 34
+  index: -1
+yumao_010
+  rotate: false
+  xy: 118, 184
+  size: 97, 91
+  orig: 200, 150
+  offset: 51, 31
+  index: -1
+yumao_011
+  rotate: false
+  xy: 241, 268
+  size: 101, 95
+  orig: 200, 150
+  offset: 49, 29
+  index: -1
+yumao_012
+  rotate: false
+  xy: 343, 195
+  size: 105, 99
+  orig: 200, 150
+  offset: 47, 27
+  index: -1
+yumao_013
+  rotate: false
+  xy: 235, 364
+  size: 109, 101
+  orig: 200, 150
+  offset: 45, 26
+  index: -1
+yumao_014
+  rotate: false
+  xy: 1, 146
+  size: 111, 103
+  orig: 200, 150
+  offset: 44, 24
+  index: -1
+yumao_015
+  rotate: false
+  xy: 120, 361
+  size: 114, 104
+  orig: 200, 150
+  offset: 43, 23
+  index: -1
+yumao_016
+  rotate: false
+  xy: 1, 250
+  size: 116, 106
+  orig: 200, 150
+  offset: 42, 22
+  index: -1
+yumao_017
+  rotate: false
+  xy: 1, 357
+  size: 118, 108
+  orig: 200, 150
+  offset: 41, 21
+  index: -1
+yumao_018
+  rotate: true
+  xy: 88, 25
+  size: 120, 83
+  orig: 200, 150
+  offset: 40, 46
+  index: -1
+yumao_019
+  rotate: false
+  xy: 345, 295
+  size: 120, 84
+  orig: 200, 150
+  offset: 40, 46
+  index: -1
+yumao_020
+  rotate: false
+  xy: 120, 276
+  size: 120, 84
+  orig: 200, 150
+  offset: 41, 46
+  index: -1
+yumao_021
+  rotate: false
+  xy: 345, 380
+  size: 120, 85
+  orig: 200, 150
+  offset: 41, 46
+  index: -1
+yumao_022
+  rotate: true
+  xy: 1, 24
+  size: 121, 86
+  orig: 200, 150
+  offset: 41, 45
+  index: -1
+yumao_023
+  rotate: false
+  xy: 172, 94
+  size: 88, 86
+  orig: 200, 150
+  offset: 74, 45
+  index: -1
+yumao_024
+  rotate: false
+  xy: 412, 121
+  size: 47, 73
+  orig: 200, 150
+  offset: 115, 46
+  index: -1
+yumao_025
+  rotate: false
+  xy: 310, 206
+  size: 30, 61
+  orig: 200, 150
+  offset: 131, 47
+  index: -1
+yumao_026
+  rotate: false
+  xy: 449, 286
+  size: 10, 8
+  orig: 200, 150
+  offset: 132, 99
+  index: -1

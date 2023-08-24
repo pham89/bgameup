@@ -1,0 +1,48 @@
+
+pubg_WIN.png
+size: 960,956
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+06
+  rotate: true
+  xy: 2, 6
+  size: 546, 399
+  orig: 560, 399
+  offset: 5, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 554
+  size: 552, 399
+  orig: 569, 399
+  offset: 6, 0
+  index: -1
+09
+  rotate: true
+  xy: 556, 403
+  size: 550, 399
+  orig: 570, 399
+  offset: 8, 0
+  index: -1
+10
+  rotate: false
+  xy: 403, 2
+  size: 542, 399
+  orig: 562, 399
+  offset: 12, 0
+  index: -1
+WIN
+  rotate: false
+  xy: 403, 480
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 518, 526
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ganesh_slot_jinbi.png
+size: 243,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caishen1_jb1
+  rotate: false
+  xy: 1, 175
+  size: 70, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+caishen1_jb2
+  rotate: false
+  xy: 72, 175
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+caishen1_jb3
+  rotate: false
+  xy: 185, 175
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+caishen1_jb4
+  rotate: false
+  xy: 222, 175
+  size: 20, 67
+  orig: 82, 90
+  offset: 32, 12
+  index: -1
+caishen1_jb5
+  rotate: false
+  xy: 133, 175
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1

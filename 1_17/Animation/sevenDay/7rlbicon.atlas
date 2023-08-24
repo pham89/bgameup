@@ -1,0 +1,83 @@
+
+7rlbicon.png
+size: 528,528
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+ICON
+  rotate: false
+  xy: 174, 10
+  size: 263, 45
+  orig: 263, 45
+  offset: 0, 0
+  index: -1
+ICON2
+  rotate: true
+  xy: 348, 281
+  size: 137, 51
+  orig: 137, 51
+  offset: 0, 0
+  index: -1
+ICON3
+  rotate: true
+  xy: 299, 59
+  size: 121, 148
+  orig: 121, 148
+  offset: 0, 0
+  index: -1
+ICON4
+  rotate: true
+  xy: 1, 17
+  size: 163, 172
+  orig: 163, 172
+  offset: 0, 0
+  index: -1
+ICON5
+  rotate: false
+  xy: 1, 181
+  size: 346, 346
+  orig: 346, 346
+  offset: 0, 0
+  index: -1
+baoqian1
+  rotate: false
+  xy: 400, 386
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+baoqian2
+  rotate: true
+  xy: 457, 465
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+baoqian3
+  rotate: false
+  xy: 348, 234
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 174, 56
+  size: 124, 124
+  orig: 126, 126
+  offset: 1, 1
+  index: -1
+texiao_2
+  rotate: false
+  xy: 348, 419
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+xl_tx8
+  rotate: false
+  xy: 438, 1
+  size: 57, 57
+  orig: 64, 65
+  offset: 5, 4
+  index: -1

@@ -1,0 +1,125 @@
+
+fruit_UI_SKIP.png
+size: 514,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00005
+  rotate: false
+  xy: 322, 2
+  size: 179, 76
+  orig: 198, 82
+  offset: 11, 3
+  index: -1
+1_00006
+  rotate: false
+  xy: 201, 431
+  size: 181, 82
+  orig: 198, 82
+  offset: 12, 0
+  index: -1
+1_00008
+  rotate: true
+  xy: 383, 333
+  size: 180, 82
+  orig: 198, 82
+  offset: 12, 0
+  index: -1
+1_00010
+  rotate: false
+  xy: 1, 346
+  size: 178, 82
+  orig: 198, 82
+  offset: 12, 0
+  index: -1
+1_00012
+  rotate: false
+  xy: 180, 266
+  size: 178, 82
+  orig: 198, 82
+  offset: 12, 0
+  index: -1
+1_00014
+  rotate: true
+  xy: 359, 155
+  size: 177, 82
+  orig: 198, 82
+  offset: 12, 0
+  index: -1
+1_00016
+  rotate: false
+  xy: 1, 263
+  size: 177, 82
+  orig: 198, 82
+  offset: 12, 0
+  index: -1
+1_00018
+  rotate: false
+  xy: 179, 183
+  size: 177, 82
+  orig: 198, 82
+  offset: 12, 0
+  index: -1
+1_00020
+  rotate: true
+  xy: 1, 83
+  size: 179, 81
+  orig: 198, 82
+  offset: 10, 0
+  index: -1
+1_00022
+  rotate: false
+  xy: 201, 349
+  size: 181, 81
+  orig: 198, 82
+  offset: 9, 0
+  index: -1
+1_00024
+  rotate: true
+  xy: 83, 81
+  size: 181, 80
+  orig: 198, 82
+  offset: 9, 0
+  index: -1
+1_00026
+  rotate: true
+  xy: 164, 1
+  size: 181, 79
+  orig: 198, 82
+  offset: 9, 0
+  index: -1
+1_00028
+  rotate: true
+  xy: 244, 1
+  size: 181, 77
+  orig: 198, 82
+  offset: 9, 0
+  index: -1
+1_00030
+  rotate: false
+  xy: 322, 79
+  size: 188, 75
+  orig: 198, 82
+  offset: 5, 0
+  index: -1
+1_00032
+  rotate: true
+  xy: 466, 444
+  size: 69, 30
+  orig: 198, 82
+  offset: 3, 40
+  index: -1
+skap_00023
+  rotate: true
+  xy: 442, 159
+  size: 173, 59
+  orig: 183, 70
+  offset: 6, 5
+  index: -1
+uig
+  rotate: false
+  xy: 1, 429
+  size: 199, 84
+  orig: 202, 91
+  offset: 2, 5
+  index: -1

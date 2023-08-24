@@ -1,0 +1,433 @@
+
+blindteenpatti.png
+size: 562,562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 306
+  size: 150, 62
+  orig: 151, 62
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 384, 430
+  size: 54, 60
+  orig: 56, 62
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 447, 483
+  size: 78, 99
+  orig: 79, 100
+  offset: 1, 0
+  index: -1
+3rummy
+  rotate: false
+  xy: 188, 1
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 346, 491
+  size: 70, 100
+  orig: 72, 100
+  offset: 1, 0
+  index: -1
+5
+  rotate: false
+  xy: 1, 207
+  size: 95, 98
+  orig: 97, 98
+  offset: 1, 0
+  index: -1
+6
+  rotate: false
+  xy: 192, 506
+  size: 153, 55
+  orig: 155, 57
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 1, 369
+  size: 190, 192
+  orig: 194, 195
+  offset: 2, 2
+  index: -1
+jbsg_00000
+  rotate: true
+  xy: 519, 77
+  size: 50, 35
+  orig: 63, 42
+  offset: 1, 6
+  index: -1
+jbsg_00001
+  rotate: false
+  xy: 406, 54
+  size: 52, 35
+  orig: 63, 42
+  offset: 1, 6
+  index: -1
+jbsg_00002
+  rotate: false
+  xy: 384, 394
+  size: 54, 35
+  orig: 63, 42
+  offset: 1, 6
+  index: -1
+jbsg_00003
+  rotate: false
+  xy: 495, 248
+  size: 56, 35
+  orig: 63, 42
+  offset: 1, 6
+  index: -1
+jbsg_00004
+  rotate: true
+  xy: 316, 89
+  size: 59, 35
+  orig: 63, 42
+  offset: 1, 6
+  index: -1
+jbsg_00005
+  rotate: true
+  xy: 423, 332
+  size: 61, 35
+  orig: 63, 42
+  offset: 0, 6
+  index: -1
+jbsg_00006
+  rotate: false
+  xy: 459, 325
+  size: 61, 35
+  orig: 63, 42
+  offset: 0, 6
+  index: -1
+jbsg_00007
+  rotate: false
+  xy: 383, 296
+  size: 62, 35
+  orig: 63, 42
+  offset: 0, 5
+  index: -1
+jbsg_00008
+  rotate: false
+  xy: 446, 288
+  size: 61, 36
+  orig: 63, 42
+  offset: 1, 4
+  index: -1
+jbsg_00009
+  rotate: false
+  xy: 434, 210
+  size: 61, 37
+  orig: 63, 42
+  offset: 1, 4
+  index: -1
+jbsg_00010
+  rotate: false
+  xy: 372, 257
+  size: 61, 38
+  orig: 63, 42
+  offset: 1, 3
+  index: -1
+jbsg_00011
+  rotate: false
+  xy: 372, 218
+  size: 61, 38
+  orig: 63, 42
+  offset: 1, 3
+  index: -1
+jbsg_00012
+  rotate: false
+  xy: 269, 149
+  size: 61, 39
+  orig: 63, 42
+  offset: 1, 2
+  index: -1
+jbsg_00013
+  rotate: true
+  xy: 383, 332
+  size: 61, 39
+  orig: 63, 42
+  offset: 1, 2
+  index: -1
+jbsg_00014
+  rotate: false
+  xy: 372, 178
+  size: 60, 39
+  orig: 63, 42
+  offset: 2, 2
+  index: -1
+jbsg_00015
+  rotate: false
+  xy: 501, 442
+  size: 60, 40
+  orig: 63, 42
+  offset: 2, 1
+  index: -1
+jbsg_00016
+  rotate: true
+  xy: 521, 342
+  size: 58, 40
+  orig: 63, 42
+  offset: 4, 1
+  index: -1
+jbsg_00017
+  rotate: true
+  xy: 521, 284
+  size: 57, 40
+  orig: 63, 42
+  offset: 5, 1
+  index: -1
+jbsg_00018
+  rotate: false
+  xy: 496, 207
+  size: 55, 40
+  orig: 63, 42
+  offset: 7, 1
+  index: -1
+jbsg_00019
+  rotate: false
+  xy: 465, 87
+  size: 53, 40
+  orig: 63, 42
+  offset: 9, 1
+  index: -1
+jbsg_00020
+  rotate: false
+  xy: 338, 19
+  size: 48, 40
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+jbsg_00021
+  rotate: false
+  xy: 459, 46
+  size: 50, 40
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+jbsg_00022
+  rotate: true
+  xy: 298, 1
+  size: 52, 39
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+jbsg_00023
+  rotate: false
+  xy: 410, 90
+  size: 54, 39
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+jbsg_00024
+  rotate: false
+  xy: 352, 98
+  size: 57, 39
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+jbsg_00025
+  rotate: false
+  xy: 372, 138
+  size: 59, 39
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+jbsg_00026
+  rotate: false
+  xy: 434, 248
+  size: 60, 39
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+jbsg_00027
+  rotate: false
+  xy: 459, 361
+  size: 61, 39
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+jbsg_00028
+  rotate: false
+  xy: 269, 189
+  size: 61, 40
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+jbsg_00029
+  rotate: true
+  xy: 331, 168
+  size: 61, 40
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+jbsg_00030
+  rotate: true
+  xy: 275, 87
+  size: 61, 40
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+jbsg_00031
+  rotate: false
+  xy: 439, 442
+  size: 61, 40
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+jbsg_00032
+  rotate: false
+  xy: 439, 401
+  size: 61, 40
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+jbsg_00033
+  rotate: false
+  xy: 501, 401
+  size: 60, 40
+  orig: 63, 42
+  offset: 2, 1
+  index: -1
+jbsg_00034
+  rotate: false
+  xy: 433, 170
+  size: 60, 39
+  orig: 63, 42
+  offset: 2, 2
+  index: -1
+jbsg_00035
+  rotate: false
+  xy: 432, 130
+  size: 58, 39
+  orig: 63, 42
+  offset: 4, 2
+  index: -1
+jbsg_00036
+  rotate: false
+  xy: 494, 167
+  size: 56, 39
+  orig: 63, 42
+  offset: 6, 2
+  index: -1
+jbsg_00037
+  rotate: false
+  xy: 491, 128
+  size: 55, 38
+  orig: 63, 42
+  offset: 7, 3
+  index: -1
+jbsg_00038
+  rotate: false
+  xy: 352, 60
+  size: 53, 37
+  orig: 63, 42
+  offset: 9, 4
+  index: -1
+jbsg_00039
+  rotate: true
+  xy: 261, 1
+  size: 51, 36
+  orig: 63, 42
+  offset: 11, 5
+  index: -1
+texiao_1_2
+  rotate: false
+  xy: 97, 23
+  size: 90, 90
+  orig: 126, 126
+  offset: 18, 18
+  index: -1
+xqpp_00002
+  rotate: true
+  xy: 97, 210
+  size: 95, 84
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+xqpp_00006
+  rotate: true
+  xy: 97, 114
+  size: 95, 84
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+xqpp_00008
+  rotate: false
+  xy: 192, 333
+  size: 95, 85
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+xqpp_00012
+  rotate: false
+  xy: 192, 419
+  size: 95, 86
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+xqpp_00016
+  rotate: false
+  xy: 1, 120
+  size: 95, 86
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+xqpp_00018
+  rotate: false
+  xy: 1, 33
+  size: 95, 86
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+xqpp_00022
+  rotate: false
+  xy: 182, 245
+  size: 94, 87
+  orig: 95, 95
+  offset: 1, 0
+  index: -1
+xqpp_00026
+  rotate: false
+  xy: 288, 317
+  size: 94, 86
+  orig: 95, 95
+  offset: 1, 0
+  index: -1
+xqpp_00028
+  rotate: false
+  xy: 277, 230
+  size: 94, 86
+  orig: 95, 95
+  offset: 1, 0
+  index: -1
+xqpp_00032
+  rotate: true
+  xy: 182, 149
+  size: 95, 86
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+xqpp_00036
+  rotate: true
+  xy: 188, 53
+  size: 95, 86
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+xqpp_00038
+  rotate: false
+  xy: 288, 404
+  size: 95, 86
+  orig: 95, 95
+  offset: 0, 0
+  index: -1

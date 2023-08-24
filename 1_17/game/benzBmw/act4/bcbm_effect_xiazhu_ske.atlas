@@ -1,0 +1,27 @@
+
+bcbm_effect_xiazhu_ske.png
+size: 833,608
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bcbm_game_ksxz_1
+  rotate: true
+  xy: 683, 321
+  size: 285, 148
+  orig: 318, 151
+  offset: 14, 2
+  index: -1
+bcbm_game_ksxz_2
+  rotate: true
+  xy: 683, 34
+  size: 285, 148
+  orig: 318, 151
+  offset: 19, 2
+  index: -1
+bcbm_game_npc
+  rotate: true
+  xy: 2, 2
+  size: 604, 679
+  orig: 606, 720
+  offset: 0, 0
+  index: -1

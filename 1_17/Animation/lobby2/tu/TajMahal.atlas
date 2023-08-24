@@ -1,0 +1,251 @@
+
+TajMahal.png
+size: 467,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+india_animation_simbol_bonus_fon
+  rotate: true
+  xy: 223, 276
+  size: 190, 192
+  orig: 194, 195
+  offset: 2, 2
+  index: -1
+india_animation_simbol_bonus_grass
+  rotate: true
+  xy: 1, 11
+  size: 190, 87
+  orig: 190, 87
+  offset: 0, 0
+  index: -1
+india_animation_simbol_bonus_house
+  rotate: false
+  xy: 1, 336
+  size: 221, 130
+  orig: 221, 130
+  offset: 0, 0
+  index: -1
+tajmahal2
+  rotate: true
+  xy: 416, 202
+  size: 172, 47
+  orig: 172, 47
+  offset: 0, 0
+  index: -1
+zizi
+  rotate: false
+  xy: 97, 300
+  size: 119, 35
+  orig: 119, 35
+  offset: 0, 0
+  index: -1
+zizisg_00000
+  rotate: true
+  xy: 187, 224
+  size: 38, 28
+  orig: 172, 47
+  offset: 0, 9
+  index: -1
+zizisg_00002
+  rotate: true
+  xy: 175, 161
+  size: 42, 37
+  orig: 172, 47
+  offset: 0, 1
+  index: -1
+zizisg_00004
+  rotate: false
+  xy: 416, 375
+  size: 50, 43
+  orig: 172, 47
+  offset: 0, 0
+  index: -1
+zizisg_00006
+  rotate: true
+  xy: 49, 279
+  size: 56, 46
+  orig: 172, 47
+  offset: 0, 0
+  index: -1
+zizisg_00008
+  rotate: true
+  xy: 185, 5
+  size: 63, 47
+  orig: 172, 47
+  offset: 0, 0
+  index: -1
+zizisg_00010
+  rotate: true
+  xy: 49, 210
+  size: 65, 47
+  orig: 172, 47
+  offset: 0, 0
+  index: -1
+zizisg_00012
+  rotate: true
+  xy: 89, 3
+  size: 65, 47
+  orig: 172, 47
+  offset: 0, 0
+  index: -1
+zizisg_00014
+  rotate: false
+  xy: 377, 58
+  size: 79, 47
+  orig: 172, 47
+  offset: 0, 0
+  index: -1
+zizisg_00016
+  rotate: false
+  xy: 216, 180
+  size: 86, 47
+  orig: 172, 47
+  offset: 1, 0
+  index: -1
+zizisg_00018
+  rotate: false
+  xy: 303, 180
+  size: 85, 47
+  orig: 172, 47
+  offset: 5, 0
+  index: -1
+zizisg_00020
+  rotate: false
+  xy: 97, 252
+  size: 89, 47
+  orig: 172, 47
+  offset: 9, 0
+  index: -1
+zizisg_00022
+  rotate: false
+  xy: 217, 228
+  size: 87, 47
+  orig: 172, 47
+  offset: 17, 0
+  index: -1
+zizisg_00024
+  rotate: false
+  xy: 97, 204
+  size: 87, 47
+  orig: 172, 47
+  offset: 24, 0
+  index: -1
+zizisg_00026
+  rotate: false
+  xy: 305, 228
+  size: 87, 47
+  orig: 172, 47
+  offset: 30, 0
+  index: -1
+zizisg_00028
+  rotate: false
+  xy: 89, 156
+  size: 85, 47
+  orig: 172, 47
+  offset: 38, 0
+  index: -1
+zizisg_00030
+  rotate: true
+  xy: 89, 69
+  size: 84, 47
+  orig: 172, 47
+  offset: 45, 0
+  index: -1
+zizisg_00032
+  rotate: false
+  xy: 233, 22
+  size: 82, 47
+  orig: 172, 47
+  offset: 53, 0
+  index: -1
+zizisg_00034
+  rotate: true
+  xy: 233, 70
+  size: 83, 47
+  orig: 172, 47
+  offset: 60, 0
+  index: -1
+zizisg_00036
+  rotate: true
+  xy: 281, 72
+  size: 81, 47
+  orig: 172, 47
+  offset: 68, 0
+  index: -1
+zizisg_00038
+  rotate: true
+  xy: 329, 98
+  size: 81, 47
+  orig: 172, 47
+  offset: 74, 0
+  index: -1
+zizisg_00040
+  rotate: true
+  xy: 137, 69
+  size: 84, 47
+  orig: 172, 47
+  offset: 79, 0
+  index: -1
+zizisg_00042
+  rotate: true
+  xy: 185, 69
+  size: 84, 47
+  orig: 172, 47
+  offset: 85, 0
+  index: -1
+zizisg_00044
+  rotate: false
+  xy: 377, 106
+  size: 80, 47
+  orig: 172, 47
+  offset: 92, 0
+  index: -1
+zizisg_00046
+  rotate: false
+  xy: 389, 154
+  size: 75, 47
+  orig: 172, 47
+  offset: 97, 0
+  index: -1
+zizisg_00048
+  rotate: true
+  xy: 1, 206
+  size: 69, 47
+  orig: 172, 47
+  offset: 103, 0
+  index: -1
+zizisg_00050
+  rotate: true
+  xy: 137, 4
+  size: 64, 47
+  orig: 172, 47
+  offset: 108, 0
+  index: -1
+zizisg_00052
+  rotate: true
+  xy: 1, 278
+  size: 57, 47
+  orig: 172, 47
+  offset: 115, 0
+  index: -1
+zizisg_00054
+  rotate: false
+  xy: 416, 419
+  size: 50, 47
+  orig: 172, 47
+  offset: 122, 0
+  index: -1
+zizisg_00056
+  rotate: false
+  xy: 329, 53
+  size: 45, 44
+  orig: 172, 47
+  offset: 127, 2
+  index: -1
+zizisg_00058
+  rotate: true
+  xy: 187, 263
+  size: 36, 29
+  orig: 172, 47
+  offset: 136, 9
+  index: -1

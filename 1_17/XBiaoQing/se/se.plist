@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>XBiaoQing/se/daxiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{96,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,128}</string>
+			</dict>
+			<key>XBiaoQing/se/s.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{96,0},{75,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,30}</string>
+			</dict>
+			<key>XBiaoQing/se/s1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{96,61},{46,29}}</string>
+				<key>offset</key>
+				<string>{9,-38}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{103,105}</string>
+			</dict>
+			<key>XBiaoQing/se/s2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{96,30},{49,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{49,31}</string>
+			</dict>
+			<key>XBiaoQing/se/s3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{171,0},{45,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{45,44}</string>
+			</dict>
+			<key>XBiaoQing/se/s4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,66},{49,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{49,26}</string>
+			</dict>
+			<key>XBiaoQing/se/s5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{145,30},{77,17}}</string>
+				<key>offset</key>
+				<string>{16,-57}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{112,135}</string>
+			</dict>
+			<key>XBiaoQing/se/s6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{49,66},{22,20}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,22}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>se.png</string>
+			<key>realTextureFileName</key>
+			<string>se.png</string>
+			<key>size</key>
+			<string>{216,107}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>216</integer>
+			<key>height</key>
+			<integer>107</integer>
+		</dict>
+	</dict>
+</plist>

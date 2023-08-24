@@ -1,0 +1,62 @@
+
+10bay.png
+size: 709,709
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+btui
+  rotate: false
+  xy: 1, 620
+  size: 645, 88
+  orig: 645, 88
+  offset: 0, 0
+  index: -1
+cda
+  rotate: false
+  xy: 684, 683
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+cdb
+  rotate: true
+  xy: 701, 666
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+cdc
+  rotate: false
+  xy: 684, 669
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+cdd
+  rotate: false
+  xy: 684, 695
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+cdf
+  rotate: false
+  xy: 684, 695
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+cde
+  rotate: false
+  xy: 647, 658
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+texia
+  rotate: false
+  xy: 647, 672
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1

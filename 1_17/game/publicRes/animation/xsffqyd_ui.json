@@ -1,0 +1,99 @@
+{
+"skeleton": {
+	"hash": "KAKajCCoKR+YcTLjT3C8pHmhVUA",
+	"spine": "3.8.99",
+	"x": -166,
+	"y": -48.5,
+	"width": 332,
+	"height": 99.72,
+	"images": "./images/",
+	"audio": "D:/大厅/slots新手付费弹窗强引导/images"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "sg_00001", "parent": "root", "y": 5.22, "scaleX": 2, "scaleY": 2 },
+	{ "name": "uig", "parent": "root", "y": 3.26, "scaleX": 0.9767, "scaleY": 0.9455 }
+],
+"slots": [
+	{ "name": "sg_00001", "bone": "sg_00001", "color": "ffffffa7", "attachment": "sg_00024", "blend": "additive" },
+	{ "name": "uig", "bone": "uig" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"sg_00001": {
+				"sg_00001": { "width": 162, "height": 46 },
+				"sg_00002": { "width": 162, "height": 46 },
+				"sg_00004": { "width": 162, "height": 46 },
+				"sg_00006": { "width": 162, "height": 46 },
+				"sg_00008": { "width": 162, "height": 46 },
+				"sg_00010": { "width": 162, "height": 46 },
+				"sg_00012": { "width": 162, "height": 46 },
+				"sg_00014": { "width": 162, "height": 46 },
+				"sg_00018": { "width": 162, "height": 46 },
+				"sg_00020": { "width": 162, "height": 46 },
+				"sg_00022": { "width": 162, "height": 46 },
+				"sg_00024": { "width": 162, "height": 46 },
+				"sg_00026": { "width": 162, "height": 46 },
+				"sg_00028": { "width": 162, "height": 46 },
+				"sg_00030": { "width": 162, "height": 46 },
+				"sg_00034": { "width": 162, "height": 46 },
+				"sg_00036": { "width": 162, "height": 46 },
+				"sg_00038": { "width": 162, "height": 46 }
+			},
+			"uig": {
+				"uig": { "scaleX": 1.5562, "scaleY": 1.0498, "width": 224, "height": 101 }
+			}
+		}
+	}
+],
+"animations": {
+	"xsffqyd_ui": {
+		"slots": {
+			"sg_00001": {
+				"attachment": [
+					{ "name": "sg_00001" },
+					{ "time": 0.0667, "name": "sg_00002" },
+					{ "time": 0.1333, "name": "sg_00004" },
+					{ "time": 0.2, "name": "sg_00006" },
+					{ "time": 0.2667, "name": "sg_00008" },
+					{ "time": 0.3333, "name": "sg_00010" },
+					{ "time": 0.4, "name": "sg_00012" },
+					{ "time": 0.4667, "name": "sg_00014" },
+					{ "time": 0.5333, "name": "sg_00018" },
+					{ "time": 0.6, "name": "sg_00020" },
+					{ "time": 0.6667, "name": "sg_00022" },
+					{ "time": 0.7333, "name": "sg_00024" },
+					{ "time": 0.8, "name": "sg_00026" },
+					{ "time": 0.8667, "name": "sg_00028" },
+					{ "time": 0.9333, "name": "sg_00030" },
+					{ "time": 1, "name": "sg_00034" },
+					{ "time": 1.0667, "name": "sg_00036" },
+					{ "time": 1.1333, "name": "sg_00038" },
+					{ "time": 1.2, "name": null }
+				]
+			},
+			"uig": {
+				"color": [
+					{ "time": 0.9667, "color": "ffffff00" },
+					{ "time": 1.3667, "color": "ffffffb7" },
+					{ "time": 1.7333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.9667, "name": "uig" },
+					{ "time": 1.7333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"uig": {
+				"scale": [
+					{ "time": 0.9667 },
+					{ "time": 1.7333, "x": 1.053, "y": 1.208 }
+				]
+			}
+		}
+	}
+}
+}

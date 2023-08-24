@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/luckyloto/tu/jp_light.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{24,119},{81,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{85,27}</string>
+			</dict>
+			<key>Animation/luckyloto/tu/p1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,78},{39,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{39,54}</string>
+			</dict>
+			<key>Animation/luckyloto/tu/p2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{94,1},{47,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{47,58}</string>
+			</dict>
+			<key>Animation/luckyloto/tu/p3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,34},{42,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{42,56}</string>
+			</dict>
+			<key>Animation/luckyloto/tu/piaodai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{91,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,31}</string>
+			</dict>
+			<key>Animation/luckyloto/tu/piaodai2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,217},{85,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{85,20}</string>
+			</dict>
+			<key>Animation/luckyloto/tu/star01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{49,121},{31,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{31,31}</string>
+			</dict>
+			<key>Animation/luckyloto/tu/t_JACKPOT.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{59,34},{85,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{85,27}</string>
+			</dict>
+			<key>Animation/luckyloto/tu/t_LUCKYLOTO.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,119},{96,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{96,21}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-luckyloto.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-luckyloto.png</string>
+			<key>size</key>
+			<string>{153,238}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>153</integer>
+			<key>height</key>
+			<integer>238</integer>
+		</dict>
+	</dict>
+</plist>

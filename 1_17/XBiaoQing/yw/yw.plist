@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>XBiaoQing/yw/wun0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{84,0},{46,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,46}</string>
+			</dict>
+			<key>XBiaoQing/yw/wun01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{253,0},{29,15}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{29,15}</string>
+			</dict>
+			<key>XBiaoQing/yw/wun02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{84,63}}</string>
+				<key>offset</key>
+				<string>{-2,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,69}</string>
+			</dict>
+			<key>XBiaoQing/yw/wun03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{130,0},{33,46}}</string>
+				<key>offset</key>
+				<string>{-2,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{38,50}</string>
+			</dict>
+			<key>XBiaoQing/yw/wun03_glow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{176,0},{33,46}}</string>
+				<key>offset</key>
+				<string>{-2,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{38,50}</string>
+			</dict>
+			<key>XBiaoQing/yw/wun04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{222,0},{25,31}}</string>
+				<key>offset</key>
+				<string>{-4,3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{36,40}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>yw.png</string>
+			<key>realTextureFileName</key>
+			<string>yw.png</string>
+			<key>size</key>
+			<string>{282,63}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>282</integer>
+			<key>height</key>
+			<integer>63</integer>
+		</dict>
+	</dict>
+</plist>

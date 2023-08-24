@@ -1,0 +1,97 @@
+
+superbonus2.png
+size: 528,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sjg_00000
+  rotate: true
+  xy: 425, 6
+  size: 116, 102
+  orig: 163, 198
+  offset: 20, 6
+  index: -1
+sjg_00001
+  rotate: false
+  xy: 308, 4
+  size: 116, 118
+  orig: 163, 198
+  offset: 20, 5
+  index: -1
+sjg_00002
+  rotate: true
+  xy: 333, 402
+  size: 125, 162
+  orig: 163, 198
+  offset: 22, 2
+  index: -1
+sjg_00003
+  rotate: false
+  xy: 277, 232
+  size: 128, 166
+  orig: 163, 198
+  offset: 22, 3
+  index: -1
+sjg_00004
+  rotate: false
+  xy: 141, 224
+  size: 135, 174
+  orig: 163, 198
+  offset: 16, 3
+  index: -1
+sjg_00005
+  rotate: true
+  xy: 1, 17
+  size: 137, 180
+  orig: 163, 198
+  offset: 14, 4
+  index: -1
+sjg_00006
+  rotate: false
+  xy: 1, 155
+  size: 139, 182
+  orig: 163, 198
+  offset: 12, 5
+  index: -1
+sjg_00007
+  rotate: false
+  xy: 1, 338
+  size: 135, 189
+  orig: 163, 198
+  offset: 12, 4
+  index: -1
+sjg_00008
+  rotate: true
+  xy: 137, 399
+  size: 128, 195
+  orig: 163, 198
+  offset: 13, 3
+  index: -1
+sjg_00009
+  rotate: false
+  xy: 182, 49
+  size: 125, 174
+  orig: 163, 198
+  offset: 15, 13
+  index: -1
+sjg_00010
+  rotate: false
+  xy: 406, 255
+  size: 115, 146
+  orig: 163, 198
+  offset: 21, 20
+  index: -1
+sjg_00011
+  rotate: false
+  xy: 406, 123
+  size: 109, 131
+  orig: 163, 198
+  offset: 23, 25
+  index: -1
+sjg_00012
+  rotate: true
+  xy: 308, 123
+  size: 108, 91
+  orig: 163, 198
+  offset: 23, 37
+  index: -1

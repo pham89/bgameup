@@ -1,0 +1,132 @@
+
+win_spectacular.png
+size: 1383,1383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dea01
+  rotate: false
+  xy: 49, 1355
+  size: 27, 27
+  orig: 32, 32
+  offset: 3, 2
+  index: -1
+deb01
+  rotate: false
+  xy: 23, 1357
+  size: 25, 25
+  orig: 31, 31
+  offset: 3, 3
+  index: -1
+dec01
+  rotate: false
+  xy: 23, 1357
+  size: 25, 25
+  orig: 31, 31
+  offset: 3, 3
+  index: -1
+dia
+  rotate: false
+  xy: 1, 446
+  size: 640, 287
+  orig: 642, 287
+  offset: 1, 0
+  index: -1
+dia02
+  rotate: false
+  xy: 642, 446
+  size: 639, 287
+  orig: 642, 287
+  offset: 2, 0
+  index: -1
+dib
+  rotate: false
+  xy: 684, 951
+  size: 684, 186
+  orig: 686, 186
+  offset: 1, 0
+  index: -1
+dib02
+  rotate: false
+  xy: 1, 960
+  size: 682, 182
+  orig: 686, 186
+  offset: 2, 0
+  index: -1
+dic
+  rotate: false
+  xy: 656, 1263
+  size: 683, 119
+  orig: 685, 119
+  offset: 1, 0
+  index: -1
+dic02
+  rotate: false
+  xy: 1, 1143
+  size: 682, 119
+  orig: 685, 119
+  offset: 1, 0
+  index: -1
+guang
+  rotate: true
+  xy: 161, 1322
+  size: 60, 247
+  orig: 64, 256
+  offset: 2, 0
+  index: -1
+guangb
+  rotate: false
+  xy: 108, 1330
+  size: 52, 52
+  orig: 64, 64
+  offset: 6, 6
+  index: -1
+kuai
+  rotate: false
+  xy: 1, 1362
+  size: 21, 20
+  orig: 23, 22
+  offset: 1, 1
+  index: -1
+numku
+  rotate: false
+  xy: 684, 1138
+  size: 678, 124
+  orig: 678, 124
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 77, 1352
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+xinga
+  rotate: false
+  xy: 477, 1308
+  size: 178, 74
+  orig: 180, 76
+  offset: 1, 1
+  index: -1
+xingb
+  rotate: false
+  xy: 409, 1315
+  size: 67, 67
+  orig: 69, 70
+  offset: 1, 1
+  index: -1
+zia
+  rotate: false
+  xy: 436, 734
+  size: 946, 216
+  orig: 946, 217
+  offset: 0, 1
+  index: -1
+zib
+  rotate: false
+  xy: 1, 770
+  size: 434, 189
+  orig: 456, 204
+  offset: 12, 7
+  index: -1

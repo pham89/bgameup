@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/chaalblind/tu/tb_blind.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{83,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{83,46}</string>
+			</dict>
+			<key>Animation/chaalblind/tu/tb_blind-light.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{269,1},{80,37}}</string>
+				<key>offset</key>
+				<string>{2,5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{83,46}</string>
+			</dict>
+			<key>Animation/chaalblind/tu/tb_chaal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{86,1},{90,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,42}</string>
+			</dict>
+			<key>Animation/chaalblind/tu/tb_chaal-light.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{178,1},{89,35}}</string>
+				<key>offset</key>
+				<string>{0,4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,42}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-chaalblind.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-chaalblind.png</string>
+			<key>size</key>
+			<string>{350,48}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>350</integer>
+			<key>height</key>
+			<integer>48</integer>
+		</dict>
+	</dict>
+</plist>

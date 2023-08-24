@@ -1,0 +1,41 @@
+
+ruby.png
+size: 341,341
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caishen1_jb1
+  rotate: false
+  xy: 1, 208
+  size: 138, 132
+  orig: 140, 134
+  offset: 1, 1
+  index: -1
+caishen1_jb2
+  rotate: false
+  xy: 1, 78
+  size: 136, 129
+  orig: 138, 131
+  offset: 1, 1
+  index: -1
+caishen1_jb3
+  rotate: true
+  xy: 138, 73
+  size: 134, 98
+  orig: 136, 100
+  offset: 1, 1
+  index: -1
+caishen1_jb4
+  rotate: true
+  xy: 237, 85
+  size: 130, 103
+  orig: 132, 106
+  offset: 1, 2
+  index: -1
+caishen1_jb5
+  rotate: false
+  xy: 140, 216
+  size: 122, 124
+  orig: 123, 126
+  offset: 0, 1
+  index: -1

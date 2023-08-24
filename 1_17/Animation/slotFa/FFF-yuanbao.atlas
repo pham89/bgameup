@@ -1,0 +1,132 @@
+
+FFF-yuanbao.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slot_cabaret_feature_alco
+  rotate: false
+  xy: 730, 15
+  size: 102, 49
+  orig: 102, 49
+  offset: 0, 0
+  index: -1
+slot_cabaret_feature_bg
+  rotate: false
+  xy: 2, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+slot_cabaret_feature_fire_back
+  rotate: true
+  xy: 1086, 22
+  size: 100, 98
+  orig: 101, 109
+  offset: 0, 11
+  index: -1
+slot_cabaret_feature_fire_front
+  rotate: false
+  xy: 1245, 167
+  size: 76, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+slot_cabaret_feature_fire_n1
+  rotate: false
+  xy: 1002, 8
+  size: 82, 87
+  orig: 86, 92
+  offset: 2, 2
+  index: -1
+slot_cabaret_feature_fire_n2
+  rotate: true
+  xy: 1267, 83
+  size: 82, 80
+  orig: 86, 89
+  offset: 2, 3
+  index: -1
+slot_cabaret_feature_fire_n3
+  rotate: false
+  xy: 918, 4
+  size: 82, 91
+  orig: 86, 97
+  offset: 2, 2
+  index: -1
+slot_cabaret_feature_fire_n4
+  rotate: false
+  xy: 834, 2
+  size: 82, 92
+  orig: 86, 97
+  offset: 2, 2
+  index: -1
+slot_cabaret_feature_fire_n5
+  rotate: false
+  xy: 1167, 165
+  size: 76, 87
+  orig: 83, 94
+  offset: 3, 3
+  index: -1
+slot_cabaret_feature_fire_n6
+  rotate: false
+  xy: 1186, 77
+  size: 79, 86
+  orig: 84, 91
+  offset: 2, 3
+  index: -1
+slot_cabaret_feature_fire_v21
+  rotate: false
+  xy: 558, 29
+  size: 121, 223
+  orig: 184, 283
+  offset: 30, 8
+  index: -1
+slot_cabaret_feature_fire_v22
+  rotate: true
+  xy: 254, 13
+  size: 239, 302
+  orig: 239, 302
+  offset: 0, 0
+  index: -1
+slot_cabaret_feature_glass_back
+  rotate: true
+  xy: 1069, 124
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+slot_cabaret_feature_glass_front
+  rotate: false
+  xy: 894, 97
+  size: 138, 155
+  orig: 138, 155
+  offset: 0, 0
+  index: -1
+slot_cabaret_feature_light_1
+  rotate: false
+  xy: 755, 96
+  size: 137, 156
+  orig: 137, 156
+  offset: 0, 0
+  index: -1
+slot_cabaret_feature_spoon_back
+  rotate: true
+  xy: 1034, 119
+  size: 133, 33
+  orig: 133, 33
+  offset: 0, 0
+  index: -1
+slot_cabaret_feature_spoon_front
+  rotate: true
+  xy: 681, 66
+  size: 186, 72
+  orig: 186, 72
+  offset: 0, 0
+  index: -1
+slot_cabaret_feature_sugar
+  rotate: true
+  xy: 681, 7
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1

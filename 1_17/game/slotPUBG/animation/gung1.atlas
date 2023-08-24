@@ -1,0 +1,48 @@
+
+gung1.png
+size: 511,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0619
+  rotate: false
+  xy: 368, 191
+  size: 73, 73
+  orig: 77, 77
+  offset: 2, 2
+  index: -1
+fish31_6
+  rotate: false
+  xy: 442, 217
+  size: 47, 47
+  orig: 50, 50
+  offset: 1, 2
+  index: -1
+fsg
+  rotate: false
+  xy: 1, 153
+  size: 366, 357
+  orig: 368, 359
+  offset: 1, 1
+  index: -1
+gai2_guang2
+  rotate: false
+  xy: 1, 1
+  size: 459, 151
+  orig: 517, 242
+  offset: 32, 56
+  index: -1
+gxtx
+  rotate: false
+  xy: 368, 265
+  size: 115, 116
+  orig: 128, 128
+  offset: 9, 7
+  index: -1
+texiao_5
+  rotate: false
+  xy: 368, 382
+  size: 126, 128
+  orig: 129, 129
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+ganesh_slot_spin.png
+size: 589,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00005
+  rotate: false
+  xy: 175, 523
+  size: 202, 65
+  orig: 205, 100
+  offset: 2, 16
+  index: -1
+1_00006
+  rotate: false
+  xy: 378, 518
+  size: 205, 70
+  orig: 205, 100
+  offset: 0, 14
+  index: -1
+1_00008
+  rotate: false
+  xy: 172, 436
+  size: 205, 86
+  orig: 205, 100
+  offset: 0, 6
+  index: -1
+1_00010
+  rotate: false
+  xy: 191, 244
+  size: 205, 93
+  orig: 205, 100
+  offset: 0, 3
+  index: -1
+1_00012
+  rotate: false
+  xy: 191, 150
+  size: 200, 93
+  orig: 205, 100
+  offset: 3, 3
+  index: -1
+1_00014
+  rotate: false
+  xy: 397, 244
+  size: 191, 93
+  orig: 205, 100
+  offset: 7, 3
+  index: -1
+1_00016
+  rotate: false
+  xy: 392, 150
+  size: 191, 93
+  orig: 205, 100
+  offset: 7, 3
+  index: -1
+1_00018
+  rotate: false
+  xy: 191, 56
+  size: 190, 93
+  orig: 205, 100
+  offset: 8, 3
+  index: -1
+1_00020
+  rotate: false
+  xy: 1, 157
+  size: 189, 93
+  orig: 205, 100
+  offset: 8, 3
+  index: -1
+1_00022
+  rotate: false
+  xy: 1, 63
+  size: 189, 93
+  orig: 205, 100
+  offset: 8, 3
+  index: -1
+1_00024
+  rotate: false
+  xy: 382, 56
+  size: 189, 93
+  orig: 205, 100
+  offset: 8, 3
+  index: -1
+1_00026
+  rotate: false
+  xy: 1, 251
+  size: 189, 92
+  orig: 205, 100
+  offset: 8, 3
+  index: -1
+1_00028
+  rotate: false
+  xy: 1, 344
+  size: 189, 91
+  orig: 205, 100
+  offset: 8, 4
+  index: -1
+1_00030
+  rotate: false
+  xy: 378, 430
+  size: 181, 87
+  orig: 205, 100
+  offset: 10, 6
+  index: -1
+1_00032
+  rotate: false
+  xy: 1, 451
+  size: 170, 77
+  orig: 205, 100
+  offset: 17, 11
+  index: -1
+skap_00023
+  rotate: false
+  xy: 1, 529
+  size: 173, 59
+  orig: 183, 70
+  offset: 6, 5
+  index: -1
+uig
+  rotate: false
+  xy: 191, 338
+  size: 218, 91
+  orig: 220, 93
+  offset: 1, 1
+  index: -1

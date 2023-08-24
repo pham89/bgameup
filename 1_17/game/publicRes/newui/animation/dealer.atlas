@@ -1,0 +1,132 @@
+
+dealer.png
+size: 281,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rw1
+  rotate: false
+  xy: 179, 153
+  size: 90, 33
+  orig: 90, 33
+  offset: 0, 0
+  index: -1
+rw10
+  rotate: true
+  xy: 179, 187
+  size: 47, 86
+  orig: 47, 86
+  offset: 0, 0
+  index: -1
+rw11
+  rotate: false
+  xy: 194, 61
+  size: 26, 91
+  orig: 26, 91
+  offset: 0, 0
+  index: -1
+rw12
+  rotate: false
+  xy: 60, 2
+  size: 50, 77
+  orig: 50, 78
+  offset: 0, 1
+  index: -1
+rw2
+  rotate: true
+  xy: 160, 59
+  size: 91, 33
+  orig: 91, 33
+  offset: 0, 0
+  index: -1
+rw5
+  rotate: true
+  xy: 255, 135
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+rw6
+  rotate: false
+  xy: 112, 151
+  size: 66, 129
+  orig: 66, 129
+  offset: 0, 0
+  index: -1
+rw7
+  rotate: false
+  xy: 1, 80
+  size: 110, 200
+  orig: 110, 200
+  offset: 0, 0
+  index: -1
+rw7A
+  rotate: false
+  xy: 269, 256
+  size: 8, 24
+  orig: 9, 25
+  offset: 1, 1
+  index: -1
+rw8
+  rotate: false
+  xy: 146, 4
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+rw9
+  rotate: false
+  xy: 181, 17
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 221, 70
+  size: 82, 33
+  orig: 83, 33
+  offset: 1, 0
+  index: -1
+s3
+  rotate: false
+  xy: 179, 235
+  size: 89, 45
+  orig: 89, 45
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 1, 1
+  size: 58, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 112, 75
+  size: 47, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+s6
+  rotate: false
+  xy: 111, 11
+  size: 34, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+xin3
+  rotate: false
+  xy: 221, 44
+  size: 29, 25
+  orig: 33, 30
+  offset: 2, 2
+  index: -1
+z02
+  rotate: false
+  xy: 221, 24
+  size: 27, 19
+  orig: 29, 21
+  offset: 1, 1
+  index: -1

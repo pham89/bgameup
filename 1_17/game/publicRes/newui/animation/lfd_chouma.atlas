@@ -1,0 +1,223 @@
+
+lfd_chouma.png
+size: 778,432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chip_xzt
+  rotate: false
+  xy: 1, 316
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+g_00000
+  rotate: true
+  xy: 591, 17
+  size: 103, 86
+  orig: 120, 118
+  offset: 8, 23
+  index: -1
+g_00001
+  rotate: true
+  xy: 679, 222
+  size: 104, 86
+  orig: 120, 118
+  offset: 8, 23
+  index: -1
+g_00002
+  rotate: true
+  xy: 590, 222
+  size: 104, 88
+  orig: 120, 118
+  offset: 8, 21
+  index: -1
+g_00003
+  rotate: true
+  xy: 498, 222
+  size: 104, 91
+  orig: 120, 118
+  offset: 8, 18
+  index: -1
+g_00004
+  rotate: true
+  xy: 496, 12
+  size: 104, 94
+  orig: 120, 118
+  offset: 8, 15
+  index: -1
+g_00005
+  rotate: true
+  xy: 414, 327
+  size: 104, 95
+  orig: 120, 118
+  offset: 8, 14
+  index: -1
+g_00006
+  rotate: true
+  xy: 400, 117
+  size: 104, 96
+  orig: 120, 118
+  offset: 8, 13
+  index: -1
+g_00007
+  rotate: true
+  xy: 217, 327
+  size: 104, 98
+  orig: 120, 118
+  offset: 8, 11
+  index: -1
+g_00008
+  rotate: true
+  xy: 117, 327
+  size: 104, 99
+  orig: 120, 118
+  offset: 8, 10
+  index: -1
+g_00009
+  rotate: true
+  xy: 102, 106
+  size: 104, 99
+  orig: 120, 118
+  offset: 8, 9
+  index: -1
+g_00010
+  rotate: true
+  xy: 102, 1
+  size: 104, 99
+  orig: 120, 118
+  offset: 8, 8
+  index: -1
+g_00011
+  rotate: true
+  xy: 202, 106
+  size: 104, 99
+  orig: 120, 118
+  offset: 8, 8
+  index: -1
+g_00012
+  rotate: true
+  xy: 1, 211
+  size: 104, 100
+  orig: 120, 118
+  offset: 8, 7
+  index: -1
+g_00013
+  rotate: true
+  xy: 1, 106
+  size: 104, 100
+  orig: 120, 118
+  offset: 8, 7
+  index: -1
+g_00014
+  rotate: true
+  xy: 1, 1
+  size: 104, 100
+  orig: 120, 118
+  offset: 8, 7
+  index: -1
+g_00015
+  rotate: false
+  xy: 591, 121
+  size: 103, 100
+  orig: 120, 118
+  offset: 8, 7
+  index: -1
+g_00016
+  rotate: true
+  xy: 102, 211
+  size: 104, 100
+  orig: 120, 118
+  offset: 8, 7
+  index: -1
+g_00017
+  rotate: true
+  xy: 202, 1
+  size: 104, 99
+  orig: 120, 118
+  offset: 8, 8
+  index: -1
+g_00018
+  rotate: true
+  xy: 203, 222
+  size: 104, 99
+  orig: 120, 118
+  offset: 8, 8
+  index: -1
+g_00019
+  rotate: true
+  xy: 302, 117
+  size: 104, 97
+  orig: 120, 118
+  offset: 8, 9
+  index: -1
+g_00020
+  rotate: true
+  xy: 303, 222
+  size: 104, 97
+  orig: 120, 118
+  offset: 8, 10
+  index: -1
+g_00021
+  rotate: true
+  xy: 316, 327
+  size: 104, 97
+  orig: 120, 118
+  offset: 8, 11
+  index: -1
+g_00022
+  rotate: true
+  xy: 302, 12
+  size: 104, 97
+  orig: 120, 118
+  offset: 8, 12
+  index: -1
+g_00023
+  rotate: true
+  xy: 401, 222
+  size: 104, 96
+  orig: 120, 118
+  offset: 8, 13
+  index: -1
+g_00024
+  rotate: true
+  xy: 400, 12
+  size: 104, 95
+  orig: 120, 118
+  offset: 8, 14
+  index: -1
+g_00025
+  rotate: true
+  xy: 497, 117
+  size: 104, 93
+  orig: 120, 118
+  offset: 8, 16
+  index: -1
+g_00026
+  rotate: true
+  xy: 510, 327
+  size: 104, 90
+  orig: 120, 118
+  offset: 8, 19
+  index: -1
+g_00027
+  rotate: true
+  xy: 690, 327
+  size: 104, 87
+  orig: 120, 118
+  offset: 8, 22
+  index: -1
+g_00028
+  rotate: true
+  xy: 601, 327
+  size: 104, 88
+  orig: 120, 118
+  offset: 8, 21
+  index: -1
+g_00029
+  rotate: true
+  xy: 678, 17
+  size: 103, 86
+  orig: 120, 118
+  offset: 8, 23
+  index: -1

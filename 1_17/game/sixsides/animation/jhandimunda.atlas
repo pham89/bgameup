@@ -1,0 +1,83 @@
+
+jhandimunda.png
+size: 819,819
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0619
+  rotate: false
+  xy: 726, 328
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ICON5
+  rotate: true
+  xy: 596, 499
+  size: 319, 157
+  orig: 346, 180
+  offset: 10, 1
+  index: -1
+fish31_6
+  rotate: false
+  xy: 788, 740
+  size: 27, 27
+  orig: 33, 33
+  offset: 3, 3
+  index: -1
+gx
+  rotate: false
+  xy: 1, 395
+  size: 594, 423
+  orig: 604, 438
+  offset: 5, 4
+  index: -1
+gxtx
+  rotate: true
+  xy: 683, 212
+  size: 115, 116
+  orig: 118, 120
+  offset: 2, 2
+  index: -1
+jhandimunda2
+  rotate: true
+  xy: 754, 739
+  size: 28, 33
+  orig: 30, 36
+  offset: 1, 1
+  index: -1
+jhandimunda6
+  rotate: false
+  xy: 346, 30
+  size: 336, 338
+  orig: 348, 345
+  offset: 6, 4
+  index: -1
+jhandimunda6a
+  rotate: true
+  xy: 1, 4
+  size: 390, 344
+  orig: 390, 344
+  offset: 0, 0
+  index: -1
+texiao_4
+  rotate: false
+  xy: 726, 406
+  size: 92, 92
+  orig: 110, 110
+  offset: 9, 9
+  index: -1
+texiao_5
+  rotate: false
+  xy: 596, 369
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+xl_tx8
+  rotate: true
+  xy: 754, 768
+  size: 50, 51
+  orig: 64, 65
+  offset: 8, 7
+  index: -1

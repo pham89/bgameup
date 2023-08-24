@@ -1,0 +1,167 @@
+
+bonu.png
+size: 796,796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gg_00000
+  rotate: true
+  xy: 146, 352
+  size: 95, 250
+  orig: 95, 252
+  offset: 0, 1
+  index: -1
+gg_00002
+  rotate: false
+  xy: 242, 545
+  size: 95, 250
+  orig: 95, 252
+  offset: 0, 1
+  index: -1
+gg_00004
+  rotate: true
+  xy: 481, 102
+  size: 95, 249
+  orig: 95, 252
+  offset: 0, 1
+  index: -1
+gg_00006
+  rotate: true
+  xy: 504, 6
+  size: 95, 249
+  orig: 95, 252
+  offset: 0, 1
+  index: -1
+gg_00008
+  rotate: false
+  xy: 338, 545
+  size: 95, 250
+  orig: 95, 252
+  offset: 0, 0
+  index: -1
+gg_00010
+  rotate: false
+  xy: 1, 97
+  size: 95, 251
+  orig: 95, 252
+  offset: 0, 0
+  index: -1
+gg_00012
+  rotate: true
+  xy: 1, 1
+  size: 95, 251
+  orig: 95, 252
+  offset: 0, 0
+  index: -1
+gg_00014
+  rotate: false
+  xy: 193, 101
+  size: 95, 250
+  orig: 95, 252
+  offset: 0, 0
+  index: -1
+gg_00016
+  rotate: true
+  xy: 253, 5
+  size: 95, 250
+  orig: 95, 252
+  offset: 0, 1
+  index: -1
+gg_00018
+  rotate: false
+  xy: 289, 101
+  size: 95, 250
+  orig: 95, 252
+  offset: 0, 1
+  index: -1
+gg_00020
+  rotate: false
+  xy: 385, 101
+  size: 95, 250
+  orig: 95, 252
+  offset: 0, 1
+  index: -1
+gg_00022
+  rotate: true
+  xy: 397, 352
+  size: 95, 250
+  orig: 95, 252
+  offset: 0, 1
+  index: -1
+gg_00024
+  rotate: false
+  xy: 649, 546
+  size: 95, 249
+  orig: 95, 252
+  offset: 0, 1
+  index: -1
+gg_00026
+  rotate: false
+  xy: 434, 546
+  size: 95, 249
+  orig: 95, 252
+  offset: 0, 1
+  index: -1
+gg_00028
+  rotate: false
+  xy: 530, 546
+  size: 95, 249
+  orig: 95, 252
+  offset: 0, 1
+  index: -1
+gg_00030
+  rotate: false
+  xy: 97, 97
+  size: 95, 251
+  orig: 95, 252
+  offset: 0, 0
+  index: -1
+gg_00032
+  rotate: false
+  xy: 146, 544
+  size: 95, 251
+  orig: 95, 252
+  offset: 0, 0
+  index: -1
+gg_00034
+  rotate: true
+  xy: 146, 448
+  size: 95, 251
+  orig: 95, 252
+  offset: 0, 0
+  index: -1
+gg_00036
+  rotate: true
+  xy: 398, 449
+  size: 95, 250
+  orig: 95, 252
+  offset: 0, 1
+  index: -1
+gg_00038
+  rotate: false
+  xy: 648, 198
+  size: 95, 250
+  orig: 95, 252
+  offset: 0, 1
+  index: -1
+lz
+  rotate: false
+  xy: 731, 167
+  size: 30, 30
+  orig: 36, 36
+  offset: 3, 3
+  index: -1
+texiao
+  rotate: false
+  xy: 481, 261
+  size: 90, 90
+  orig: 126, 126
+  offset: 18, 18
+  index: -1
+tp
+  rotate: false
+  xy: 1, 349
+  size: 144, 446
+  orig: 144, 446
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+ganesh_slot_CLASSIC.png
+size: 563,563
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 1, 510
+  size: 168, 52
+  orig: 168, 58
+  offset: 0, 2
+  index: -1
+1_00002
+  rotate: false
+  xy: 339, 456
+  size: 168, 53
+  orig: 168, 58
+  offset: 0, 1
+  index: -1
+1_00004
+  rotate: false
+  xy: 1, 403
+  size: 168, 53
+  orig: 168, 58
+  offset: 0, 1
+  index: -1
+1_00006
+  rotate: true
+  xy: 508, 395
+  size: 167, 54
+  orig: 168, 58
+  offset: 1, 1
+  index: -1
+1_00008
+  rotate: false
+  xy: 1, 240
+  size: 167, 54
+  orig: 168, 58
+  offset: 0, 1
+  index: -1
+1_00010
+  rotate: false
+  xy: 170, 403
+  size: 168, 53
+  orig: 168, 58
+  offset: 0, 1
+  index: -1
+1_00012
+  rotate: false
+  xy: 170, 510
+  size: 168, 52
+  orig: 168, 58
+  offset: 0, 2
+  index: -1
+1_00014
+  rotate: false
+  xy: 339, 510
+  size: 168, 52
+  orig: 168, 58
+  offset: 0, 2
+  index: -1
+1_00016
+  rotate: false
+  xy: 169, 240
+  size: 167, 54
+  orig: 168, 58
+  offset: 1, 1
+  index: -1
+1_00018
+  rotate: false
+  xy: 337, 239
+  size: 167, 54
+  orig: 168, 58
+  offset: 1, 1
+  index: -1
+1_00020
+  rotate: false
+  xy: 1, 185
+  size: 168, 54
+  orig: 168, 58
+  offset: 0, 1
+  index: -1
+1_00022
+  rotate: false
+  xy: 339, 402
+  size: 168, 53
+  orig: 168, 58
+  offset: 0, 1
+  index: -1
+1_00024
+  rotate: false
+  xy: 1, 349
+  size: 168, 53
+  orig: 168, 58
+  offset: 0, 1
+  index: -1
+1_00026
+  rotate: false
+  xy: 170, 349
+  size: 168, 53
+  orig: 168, 58
+  offset: 0, 1
+  index: -1
+1_00028
+  rotate: false
+  xy: 339, 348
+  size: 168, 53
+  orig: 168, 58
+  offset: 0, 1
+  index: -1
+1_00030
+  rotate: true
+  xy: 508, 227
+  size: 167, 54
+  orig: 168, 58
+  offset: 1, 1
+  index: -1
+1_00032
+  rotate: false
+  xy: 170, 184
+  size: 167, 54
+  orig: 168, 58
+  offset: 0, 1
+  index: -1
+1_00034
+  rotate: false
+  xy: 1, 295
+  size: 168, 53
+  orig: 168, 58
+  offset: 0, 1
+  index: -1
+1_00036
+  rotate: false
+  xy: 170, 295
+  size: 168, 53
+  orig: 168, 58
+  offset: 0, 1
+  index: -1
+1_00038
+  rotate: false
+  xy: 1, 457
+  size: 168, 52
+  orig: 168, 58
+  offset: 0, 2
+  index: -1
+1_00040
+  rotate: false
+  xy: 170, 457
+  size: 168, 52
+  orig: 168, 58
+  offset: 0, 2
+  index: -1
+1_00042
+  rotate: false
+  xy: 338, 184
+  size: 167, 54
+  orig: 168, 58
+  offset: 1, 1
+  index: -1
+1_00044
+  rotate: false
+  xy: 1, 130
+  size: 168, 54
+  orig: 168, 58
+  offset: 0, 1
+  index: -1
+1_00046
+  rotate: false
+  xy: 170, 129
+  size: 168, 54
+  orig: 168, 58
+  offset: 0, 1
+  index: -1
+1_00048
+  rotate: false
+  xy: 339, 294
+  size: 168, 53
+  orig: 168, 58
+  offset: 0, 1
+  index: -1

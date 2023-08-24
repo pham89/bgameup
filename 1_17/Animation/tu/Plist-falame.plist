@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/tu/falame/01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{85,81},{82,73}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,80}</string>
+			</dict>
+			<key>Animation/tu/falame/03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{169,80},{82,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,80}</string>
+			</dict>
+			<key>Animation/tu/falame/05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{169,1},{82,77}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,80}</string>
+			</dict>
+			<key>Animation/tu/falame/07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{253,1},{82,77}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,80}</string>
+			</dict>
+			<key>Animation/tu/falame/09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{85,156},{82,67}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,80}</string>
+			</dict>
+			<key>Animation/tu/falame/11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{85,1},{82,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,80}</string>
+			</dict>
+			<key>Animation/tu/falame/13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{82,79}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,80}</string>
+			</dict>
+			<key>Animation/tu/falame/15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{337,1},{82,77}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,80}</string>
+			</dict>
+			<key>Animation/tu/falame/17.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{421,1},{82,77}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,80}</string>
+			</dict>
+			<key>Animation/tu/falame/19.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,82},{82,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,80}</string>
+			</dict>
+			<key>Animation/tu/falame/21.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,156},{82,71}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,80}</string>
+			</dict>
+			<key>Animation/tu/falame/23.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{253,80},{82,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,80}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-falame.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-falame.png</string>
+			<key>size</key>
+			<string>{504,228}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>504</integer>
+			<key>height</key>
+			<integer>228</integer>
+		</dict>
+	</dict>
+</plist>

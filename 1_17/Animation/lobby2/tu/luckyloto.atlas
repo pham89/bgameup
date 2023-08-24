@@ -1,0 +1,244 @@
+
+luckyloto.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 31, 6
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+MINL
+  rotate: false
+  xy: 31, 6
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+10luckyloto
+  rotate: false
+  xy: 192, 218
+  size: 77, 96
+  orig: 80, 99
+  offset: 2, 2
+  index: -1
+11luckyloto
+  rotate: true
+  xy: 270, 243
+  size: 71, 93
+  orig: 74, 96
+  offset: 1, 2
+  index: -1
+12luckyloto
+  rotate: false
+  xy: 1, 29
+  size: 85, 100
+  orig: 87, 104
+  offset: 1, 2
+  index: -1
+13luckyloto
+  rotate: false
+  xy: 1, 171
+  size: 190, 192
+  orig: 194, 195
+  offset: 2, 2
+  index: -1
+1luckyloto
+  rotate: false
+  xy: 1, 130
+  size: 160, 40
+  orig: 161, 41
+  offset: 0, 1
+  index: -1
+2luckyloto
+  rotate: true
+  xy: 87, 2
+  size: 127, 33
+  orig: 127, 33
+  offset: 0, 0
+  index: -1
+2luckylotosg_00000
+  rotate: false
+  xy: 192, 179
+  size: 6, 7
+  orig: 125, 31
+  offset: 0, 3
+  index: -1
+2luckylotosg_00002
+  rotate: false
+  xy: 343, 337
+  size: 20, 26
+  orig: 125, 31
+  offset: 0, 1
+  index: -1
+2luckylotosg_00004
+  rotate: true
+  xy: 328, 85
+  size: 33, 28
+  orig: 125, 31
+  offset: 0, 0
+  index: -1
+2luckylotosg_00006
+  rotate: false
+  xy: 315, 55
+  size: 47, 29
+  orig: 125, 31
+  offset: 0, 0
+  index: -1
+2luckylotosg_00008
+  rotate: true
+  xy: 214, 10
+  size: 60, 30
+  orig: 125, 31
+  offset: 0, 0
+  index: -1
+2luckylotosg_00010
+  rotate: false
+  xy: 192, 187
+  size: 74, 30
+  orig: 125, 31
+  offset: 0, 0
+  index: -1
+2luckylotosg_00012
+  rotate: false
+  xy: 270, 212
+  size: 87, 30
+  orig: 125, 31
+  offset: 0, 0
+  index: -1
+2luckylotosg_00014
+  rotate: false
+  xy: 245, 119
+  size: 101, 30
+  orig: 125, 31
+  offset: 0, 0
+  index: -1
+2luckylotosg_00016
+  rotate: true
+  xy: 214, 71
+  size: 115, 30
+  orig: 125, 31
+  offset: 0, 0
+  index: -1
+2luckylotosg_00018
+  rotate: true
+  xy: 121, 5
+  size: 124, 30
+  orig: 125, 31
+  offset: 0, 0
+  index: -1
+2luckylotosg_00020
+  rotate: true
+  xy: 152, 6
+  size: 123, 30
+  orig: 125, 31
+  offset: 1, 0
+  index: -1
+2luckylotosg_00022
+  rotate: true
+  xy: 183, 48
+  size: 122, 30
+  orig: 125, 31
+  offset: 2, 0
+  index: -1
+2luckylotosg_00024
+  rotate: false
+  xy: 245, 150
+  size: 109, 30
+  orig: 125, 31
+  offset: 15, 0
+  index: -1
+2luckylotosg_00026
+  rotate: false
+  xy: 267, 181
+  size: 96, 30
+  orig: 125, 31
+  offset: 28, 0
+  index: -1
+2luckylotosg_00028
+  rotate: false
+  xy: 245, 88
+  size: 82, 30
+  orig: 125, 31
+  offset: 42, 0
+  index: -1
+2luckylotosg_00030
+  rotate: false
+  xy: 245, 57
+  size: 69, 30
+  orig: 125, 31
+  offset: 55, 0
+  index: -1
+2luckylotosg_00032
+  rotate: false
+  xy: 245, 27
+  size: 56, 29
+  orig: 125, 31
+  offset: 68, 0
+  index: -1
+2luckylotosg_00034
+  rotate: true
+  xy: 183, 5
+  size: 42, 28
+  orig: 125, 31
+  offset: 82, 0
+  index: -1
+2luckylotosg_00036
+  rotate: false
+  xy: 1, 1
+  size: 29, 27
+  orig: 125, 31
+  offset: 96, 1
+  index: -1
+2luckylotosg_00038
+  rotate: false
+  xy: 162, 146
+  size: 15, 24
+  orig: 125, 31
+  offset: 109, 2
+  index: -1
+999
+  rotate: true
+  xy: 245, 13
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+9luckyloto
+  rotate: false
+  xy: 192, 315
+  size: 150, 48
+  orig: 150, 48
+  offset: 0, 0
+  index: -1
+GOODLUCK
+  rotate: false
+  xy: 45, 6
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+MLNOR
+  rotate: false
+  xy: 45, 6
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+GRAND
+  rotate: true
+  xy: 268, 13
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+MAJOBR
+  rotate: false
+  xy: 59, 6
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1

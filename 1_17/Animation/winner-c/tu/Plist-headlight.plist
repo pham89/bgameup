@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/winner-c/tu/headlight/fireworks_a1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,164},{102,83}}</string>
+				<key>offset</key>
+				<string>{-6,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{161,115}</string>
+			</dict>
+			<key>Animation/winner-c/tu/headlight/fireworks_b2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{161,115}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{161,115}</string>
+			</dict>
+			<key>Animation/winner-c/tu/headlight/head_light.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{118,1},{120,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,120}</string>
+			</dict>
+			<key>Animation/winner-c/tu/headlight/head_light2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{180,123},{120,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,120}</string>
+			</dict>
+			<key>Animation/winner-c/tu/headlight/head_light4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{240,1},{98,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,116}</string>
+			</dict>
+			<key>Animation/winner-c/tu/headlight/winner_a1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{105,164},{76,73}}</string>
+				<key>offset</key>
+				<string>{-66,-6}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{208,86}</string>
+			</dict>
+			<key>Animation/winner-c/tu/headlight/winner_a2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{340,67},{47,61}}</string>
+				<key>offset</key>
+				<string>{-34,7}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{208,86}</string>
+			</dict>
+			<key>Animation/winner-c/tu/headlight/winner_a3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,188},{56,63}}</string>
+				<key>offset</key>
+				<string>{-11,12}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{208,86}</string>
+			</dict>
+			<key>Animation/winner-c/tu/headlight/winner_a4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{302,188},{56,64}}</string>
+				<key>offset</key>
+				<string>{22,11}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{208,86}</string>
+			</dict>
+			<key>Animation/winner-c/tu/headlight/winner_a5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{340,1},{54,64}}</string>
+				<key>offset</key>
+				<string>{49,4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{208,86}</string>
+			</dict>
+			<key>Animation/winner-c/tu/headlight/winner_a6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{302,119},{63,67}}</string>
+				<key>offset</key>
+				<string>{72,-9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{208,86}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-headlight.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-headlight.png</string>
+			<key>size</key>
+			<string>{417,253}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>417</integer>
+			<key>height</key>
+			<integer>253</integer>
+		</dict>
+	</dict>
+</plist>

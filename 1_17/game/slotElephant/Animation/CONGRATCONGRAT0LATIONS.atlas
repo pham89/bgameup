@@ -1,0 +1,83 @@
+
+CONGRATCONGRAT0LATIONS.png
+size: 1951,604
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+freein
+  rotate: false
+  xy: 1, 1
+  size: 538, 196
+  orig: 538, 196
+  offset: 0, 0
+  index: -1
+freein_1
+  rotate: true
+  xy: 626, 241
+  size: 362, 430
+  orig: 362, 430
+  offset: 0, 0
+  index: -1
+freein_2
+  rotate: true
+  xy: 1897, 67
+  size: 536, 53
+  orig: 536, 53
+  offset: 0, 0
+  index: -1
+freein_20
+  rotate: false
+  xy: 1, 198
+  size: 624, 405
+  orig: 627, 409
+  offset: 2, 0
+  index: -1
+freein_22
+  rotate: false
+  xy: 1057, 404
+  size: 839, 199
+  orig: 839, 201
+  offset: 0, 2
+  index: -1
+freein_23
+  rotate: false
+  xy: 1396, 94
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+freein_3
+  rotate: false
+  xy: 1667, 176
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+freein_4
+  rotate: false
+  xy: 1667, 35
+  size: 216, 140
+  orig: 216, 140
+  offset: 0, 0
+  index: -1
+freein_6
+  rotate: false
+  xy: 1057, 365
+  size: 832, 38
+  orig: 832, 38
+  offset: 0, 0
+  index: -1
+freein_8
+  rotate: false
+  xy: 1057, 28
+  size: 338, 336
+  orig: 338, 336
+  offset: 0, 0
+  index: -1
+totalwin_10
+  rotate: false
+  xy: 626, 63
+  size: 395, 177
+  orig: 395, 177
+  offset: 0, 0
+  index: -1

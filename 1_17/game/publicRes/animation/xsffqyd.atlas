@@ -1,0 +1,55 @@
+
+xsffqyd.png
+size: 569,569
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gA
+  rotate: false
+  xy: 305, 229
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+gB
+  rotate: false
+  xy: 305, 241
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+xl_tx8
+  rotate: true
+  xy: 305, 113
+  size: 50, 51
+  orig: 64, 65
+  offset: 8, 7
+  index: -1
+xsffqyd1
+  rotate: true
+  xy: 351, 165
+  size: 330, 211
+  orig: 348, 216
+  offset: 17, 3
+  index: -1
+xsffqyd2
+  rotate: false
+  xy: 2, 277
+  size: 347, 218
+  orig: 357, 223
+  offset: 1, 0
+  index: -1
+xsffqyd4
+  rotate: false
+  xy: 2, 497
+  size: 565, 70
+  orig: 567, 72
+  offset: 1, 1
+  index: -1
+xsffqyd7
+  rotate: true
+  xy: 2, 143
+  size: 132, 301
+  orig: 132, 301
+  offset: 0, 0
+  index: -1

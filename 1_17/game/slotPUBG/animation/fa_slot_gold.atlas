@@ -1,0 +1,125 @@
+
+fa_slot_gold.png
+size: 804,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 1, 265
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00001
+  rotate: false
+  xy: 1, 133
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00002
+  rotate: false
+  xy: 135, 265
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00003
+  rotate: false
+  xy: 1, 1
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00004
+  rotate: false
+  xy: 135, 133
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00005
+  rotate: false
+  xy: 269, 265
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00006
+  rotate: false
+  xy: 135, 1
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00007
+  rotate: false
+  xy: 269, 133
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00008
+  rotate: false
+  xy: 403, 265
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00009
+  rotate: false
+  xy: 269, 1
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00010
+  rotate: false
+  xy: 403, 133
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00011
+  rotate: false
+  xy: 537, 265
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00012
+  rotate: false
+  xy: 403, 1
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00013
+  rotate: false
+  xy: 537, 133
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00014
+  rotate: true
+  xy: 671, 263
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00015
+  rotate: false
+  xy: 537, 1
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+1_00016
+  rotate: true
+  xy: 671, 129
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1

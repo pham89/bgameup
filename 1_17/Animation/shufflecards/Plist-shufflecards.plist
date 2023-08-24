@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/shufflecards/tu/t_Shufflethecards.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{316,282},{245,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{245,45}</string>
+			</dict>
+			<key>Animation/shufflecards/tu/xp1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{431,1},{139,129}}</string>
+				<key>offset</key>
+				<string>{-63,-14}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{313,170}</string>
+			</dict>
+			<key>Animation/shufflecards/tu/xp2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{131,1},{237,146}}</string>
+				<key>offset</key>
+				<string>{-14,-7}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{313,170}</string>
+			</dict>
+			<key>Animation/shufflecards/tu/xp3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,282},{313,111}}</string>
+				<key>offset</key>
+				<string>{0,-24}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{313,170}</string>
+			</dict>
+			<key>Animation/shufflecards/tu/xp4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{279,128}}</string>
+				<key>offset</key>
+				<string>{-6,-16}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{313,170}</string>
+			</dict>
+			<key>Animation/shufflecards/tu/xp5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,395},{268,113}}</string>
+				<key>offset</key>
+				<string>{0,-23}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{313,170}</string>
+			</dict>
+			<key>Animation/shufflecards/tu/xp6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{279,1},{150,152}}</string>
+				<key>offset</key>
+				<string>{-2,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{313,170}</string>
+			</dict>
+			<key>Animation/shufflecards/tu/xp7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{562,1},{134,120}}</string>
+				<key>offset</key>
+				<string>{-6,-20}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{313,170}</string>
+			</dict>
+			<key>Animation/shufflecards/tu/xp8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{279,155},{134,125}}</string>
+				<key>offset</key>
+				<string>{-6,-22}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{313,170}</string>
+			</dict>
+			<key>Animation/shufflecards/tu/xp9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{551,142},{134,127}}</string>
+				<key>offset</key>
+				<string>{-6,-15}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{313,170}</string>
+			</dict>
+			<key>Animation/shufflecards/tu/xp9_a1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{415,155},{134,125}}</string>
+				<key>offset</key>
+				<string>{-6,-22}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{313,170}</string>
+			</dict>
+			<key>Animation/shufflecards/tu/xp9_a2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{435,329},{134,120}}</string>
+				<key>offset</key>
+				<string>{-6,-20}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{313,170}</string>
+			</dict>
+			<key>Animation/shufflecards/tu/xp9_a3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{271,395},{96,162}}</string>
+				<key>offset</key>
+				<string>{-59,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{313,170}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-shufflecards.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-shufflecards.png</string>
+			<key>size</key>
+			<string>{683,509}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>683</integer>
+			<key>height</key>
+			<integer>509</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/bindcode/tu/free15rs.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{79,1},{122,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{122,41}</string>
+			</dict>
+			<key>Animation/bindcode/tu/t_Bindcode.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,77},{97,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{97,21}</string>
+			</dict>
+			<key>Animation/bindcode/tu/tb_bc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{74,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{74,76}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-bindcode.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-bindcode.png</string>
+			<key>size</key>
+			<string>{121,175}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>121</integer>
+			<key>height</key>
+			<integer>175</integer>
+		</dict>
+	</dict>
+</plist>

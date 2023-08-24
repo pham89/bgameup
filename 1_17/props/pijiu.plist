@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>props/pijiu/p01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{900,0},{84,38}}</string>
+				<key>offset</key>
+				<string>{0,16}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,139}</string>
+			</dict>
+			<key>props/pijiu/p02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{258,0},{95,86}}</string>
+				<key>offset</key>
+				<string>{-3,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,139}</string>
+			</dict>
+			<key>props/pijiu/p03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,94},{110,99}}</string>
+				<key>offset</key>
+				<string>{0,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,139}</string>
+			</dict>
+			<key>props/pijiu/p04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{140,0},{118,103}}</string>
+				<key>offset</key>
+				<string>{0,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,139}</string>
+			</dict>
+			<key>props/pijiu/p05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{140,94}}</string>
+				<key>offset</key>
+				<string>{0,22}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,139}</string>
+			</dict>
+			<key>props/pijiu/p06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{819,0},{81,64}}</string>
+				<key>offset</key>
+				<string>{-3,18}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,139}</string>
+			</dict>
+			<key>props/pijiu/p07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{731,0},{88,65}}</string>
+				<key>offset</key>
+				<string>{-3,19}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,139}</string>
+			</dict>
+			<key>props/pijiu/p08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{544,0},{95,69}}</string>
+				<key>offset</key>
+				<string>{-3,21}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,139}</string>
+			</dict>
+			<key>props/pijiu/p09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{453,0},{91,73}}</string>
+				<key>offset</key>
+				<string>{-3,18}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,139}</string>
+			</dict>
+			<key>props/pijiu/p10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{639,0},{92,69}}</string>
+				<key>offset</key>
+				<string>{-2,19}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,139}</string>
+			</dict>
+			<key>props/pijiu/pijiu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{353,0},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>props/pijiu/shui1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{110,94},{62,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,24}</string>
+			</dict>
+			<key>props/pijiu/shui2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{984,0},{63,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{63,37}</string>
+			</dict>
+			<key>props/pijiu/shui3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{900,38},{45,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{45,39}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>pijiu.png</string>
+			<key>realTextureFileName</key>
+			<string>pijiu.png</string>
+			<key>size</key>
+			<string>{1021,193}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1021</integer>
+			<key>height</key>
+			<integer>193</integer>
+		</dict>
+	</dict>
+</plist>

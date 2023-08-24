@@ -1,0 +1,209 @@
+
+Withdrawui.png
+size: 597,597
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sgui_00000
+  rotate: false
+  xy: 1, 228
+  size: 152, 73
+  orig: 158, 73
+  offset: 2, 0
+  index: -1
+sgui_00001
+  rotate: false
+  xy: 135, 14
+  size: 146, 73
+  orig: 158, 73
+  offset: 5, 0
+  index: -1
+sgui_00002
+  rotate: false
+  xy: 282, 11
+  size: 141, 73
+  orig: 158, 73
+  offset: 7, 0
+  index: -1
+sgui_00003
+  rotate: false
+  xy: 457, 227
+  size: 137, 73
+  orig: 158, 73
+  offset: 9, 0
+  index: -1
+sgui_00004
+  rotate: false
+  xy: 463, 375
+  size: 133, 73
+  orig: 158, 73
+  offset: 11, 0
+  index: -1
+sgui_00005
+  rotate: false
+  xy: 478, 523
+  size: 117, 73
+  orig: 158, 73
+  offset: 18, 0
+  index: -1
+sgui_00006
+  rotate: false
+  xy: 466, 449
+  size: 124, 73
+  orig: 158, 73
+  offset: 15, 0
+  index: -1
+sgui_00007
+  rotate: false
+  xy: 463, 301
+  size: 132, 73
+  orig: 158, 73
+  offset: 12, 0
+  index: -1
+sgui_00008
+  rotate: false
+  xy: 135, 88
+  size: 147, 73
+  orig: 158, 73
+  offset: 4, 0
+  index: -1
+sgui_00009
+  rotate: false
+  xy: 160, 450
+  size: 156, 73
+  orig: 158, 73
+  offset: 0, 0
+  index: -1
+sgui_00010
+  rotate: false
+  xy: 160, 524
+  size: 158, 72
+  orig: 158, 73
+  offset: 0, 1
+  index: -1
+sgui_00011
+  rotate: false
+  xy: 319, 529
+  size: 158, 67
+  orig: 158, 73
+  offset: 0, 3
+  index: -1
+sgui_00012
+  rotate: true
+  xy: 69, 69
+  size: 158, 65
+  orig: 158, 73
+  offset: 0, 4
+  index: -1
+sgui_00013
+  rotate: false
+  xy: 1, 449
+  size: 158, 73
+  orig: 158, 73
+  offset: 0, 0
+  index: -1
+sgui_00014
+  rotate: false
+  xy: 1, 302
+  size: 156, 73
+  orig: 158, 73
+  offset: 1, 0
+  index: -1
+sgui_00015
+  rotate: false
+  xy: 158, 302
+  size: 152, 73
+  orig: 158, 73
+  offset: 2, 0
+  index: -1
+sgui_00016
+  rotate: false
+  xy: 319, 455
+  size: 146, 73
+  orig: 158, 73
+  offset: 5, 0
+  index: -1
+sgui_00017
+  rotate: false
+  xy: 283, 85
+  size: 144, 73
+  orig: 158, 73
+  offset: 7, 0
+  index: -1
+sgui_00018
+  rotate: false
+  xy: 317, 381
+  size: 145, 73
+  orig: 158, 73
+  offset: 7, 0
+  index: -1
+sgui_00019
+  rotate: false
+  xy: 317, 307
+  size: 145, 73
+  orig: 158, 73
+  offset: 7, 0
+  index: -1
+sgui_00020
+  rotate: false
+  xy: 311, 233
+  size: 145, 73
+  orig: 158, 73
+  offset: 7, 0
+  index: -1
+sgui_00021
+  rotate: false
+  xy: 303, 159
+  size: 145, 73
+  orig: 158, 73
+  offset: 7, 0
+  index: -1
+sgui_00022
+  rotate: false
+  xy: 449, 153
+  size: 145, 73
+  orig: 158, 73
+  offset: 7, 0
+  index: -1
+sgui_00023
+  rotate: false
+  xy: 154, 228
+  size: 148, 73
+  orig: 158, 73
+  offset: 4, 0
+  index: -1
+sgui_00024
+  rotate: false
+  xy: 160, 376
+  size: 156, 73
+  orig: 158, 73
+  offset: 0, 0
+  index: -1
+sgui_00025
+  rotate: false
+  xy: 1, 376
+  size: 158, 72
+  orig: 158, 73
+  offset: 0, 1
+  index: -1
+sgui_00026
+  rotate: true
+  xy: 1, 69
+  size: 158, 67
+  orig: 158, 73
+  offset: 0, 3
+  index: -1
+sgui_00027
+  rotate: false
+  xy: 135, 162
+  size: 158, 65
+  orig: 158, 73
+  offset: 0, 4
+  index: -1
+sgui_00028
+  rotate: false
+  xy: 1, 523
+  size: 158, 73
+  orig: 158, 73
+  offset: 0, 0
+  index: -1

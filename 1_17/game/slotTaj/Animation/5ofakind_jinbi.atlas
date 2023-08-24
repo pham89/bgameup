@@ -1,0 +1,48 @@
+
+5ofakind_jinbi.png
+size: 266,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4370-1
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+caishen1_jb1
+  rotate: false
+  xy: 130, 62
+  size: 70, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+caishen1_jb2
+  rotate: false
+  xy: 201, 62
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+caishen1_jb3
+  rotate: true
+  xy: 198, 25
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+caishen1_jb4
+  rotate: true
+  xy: 198, 4
+  size: 20, 67
+  orig: 82, 90
+  offset: 32, 12
+  index: -1
+caishen1_jb5
+  rotate: true
+  xy: 130, 10
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1

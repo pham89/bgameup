@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/touzi/tu/golddice/light.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{504,503}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{504,503}</string>
+			</dict>
+			<key>Animation/touzi/tu/golddice/tb_golddice.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{507,1},{234,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,70}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-golddice.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-golddice.png</string>
+			<key>size</key>
+			<string>{742,505}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>742</integer>
+			<key>height</key>
+			<integer>505</integer>
+		</dict>
+	</dict>
+</plist>

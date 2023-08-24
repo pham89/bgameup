@@ -1,0 +1,146 @@
+
+bg_superfree.png
+size: 993,993
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GF_379
+  rotate: false
+  xy: 878, 59
+  size: 110, 108
+  orig: 128, 128
+  offset: 9, 10
+  index: -1
+diaodeng1
+  rotate: false
+  xy: 1, 445
+  size: 288, 366
+  orig: 295, 371
+  offset: 2, 4
+  index: -1
+diaodeng3
+  rotate: false
+  xy: 1, 812
+  size: 653, 180
+  orig: 671, 184
+  offset: 10, 3
+  index: -1
+mao1
+  rotate: true
+  xy: 592, 168
+  size: 158, 317
+  orig: 158, 317
+  offset: 0, 0
+  index: -1
+mao10
+  rotate: true
+  xy: 712, 80
+  size: 87, 165
+  orig: 87, 165
+  offset: 0, 0
+  index: -1
+mao11
+  rotate: true
+  xy: 290, 422
+  size: 133, 228
+  orig: 133, 228
+  offset: 0, 0
+  index: -1
+mao2
+  rotate: true
+  xy: 573, 498
+  size: 122, 379
+  orig: 122, 379
+  offset: 0, 0
+  index: -1
+mao3
+  rotate: true
+  xy: 712, 2
+  size: 77, 162
+  orig: 77, 162
+  offset: 0, 0
+  index: -1
+mao4
+  rotate: true
+  xy: 655, 788
+  size: 204, 324
+  orig: 204, 324
+  offset: 0, 0
+  index: -1
+mao5
+  rotate: false
+  xy: 330, 56
+  size: 136, 170
+  orig: 136, 170
+  offset: 0, 0
+  index: -1
+mao6
+  rotate: true
+  xy: 573, 621
+  size: 166, 362
+  orig: 166, 362
+  offset: 0, 0
+  index: -1
+mao7
+  rotate: true
+  xy: 283, 227
+  size: 194, 308
+  orig: 194, 308
+  offset: 0, 0
+  index: -1
+mao8
+  rotate: false
+  xy: 467, 38
+  size: 101, 188
+  orig: 101, 188
+  offset: 0, 0
+  index: -1
+mao9
+  rotate: false
+  xy: 569, 52
+  size: 142, 115
+  orig: 142, 115
+  offset: 0, 0
+  index: -1
+win_light_1
+  rotate: false
+  xy: 936, 763
+  size: 24, 24
+  orig: 50, 50
+  offset: 13, 14
+  index: -1
+win_light_2
+  rotate: true
+  xy: 980, 981
+  size: 11, 12
+  orig: 25, 25
+  offset: 7, 7
+  index: -1
+xx1
+  rotate: false
+  xy: 290, 556
+  size: 282, 255
+  orig: 286, 259
+  offset: 1, 2
+  index: -1
+xx2
+  rotate: false
+  xy: 1, 177
+  size: 281, 267
+  orig: 284, 271
+  offset: 1, 2
+  index: -1
+yx1
+  rotate: false
+  xy: 1, 6
+  size: 328, 170
+  orig: 330, 172
+  offset: 1, 1
+  index: -1
+yx2
+  rotate: false
+  xy: 592, 327
+  size: 327, 170
+  orig: 329, 172
+  offset: 1, 1
+  index: -1

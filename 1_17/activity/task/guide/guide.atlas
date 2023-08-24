@@ -1,0 +1,48 @@
+
+guide.png
+size: 757,757
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish31_6
+  rotate: true
+  xy: 1, 737
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+guideqa
+  rotate: false
+  xy: 1, 487
+  size: 172, 172
+  orig: 174, 174
+  offset: 1, 1
+  index: -1
+guideqb
+  rotate: false
+  xy: 174, 465
+  size: 194, 194
+  orig: 196, 196
+  offset: 1, 1
+  index: -1
+guider
+  rotate: true
+  xy: 1, 49
+  size: 415, 755
+  orig: 415, 755
+  offset: 0, 0
+  index: -1
+guides
+  rotate: false
+  xy: 22, 660
+  size: 111, 96
+  orig: 111, 96
+  offset: 0, 0
+  index: -1
+guideui
+  rotate: false
+  xy: 134, 660
+  size: 567, 96
+  orig: 567, 96
+  offset: 0, 0
+  index: -1

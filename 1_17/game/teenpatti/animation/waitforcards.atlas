@@ -1,0 +1,27 @@
+
+waitforcards.png
+size: 539,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0619
+  rotate: false
+  xy: 461, 75
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+fisha
+  rotate: false
+  xy: 461, 33
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+gai2_guang2
+  rotate: false
+  xy: 1, 1
+  size: 459, 151
+  orig: 517, 242
+  offset: 32, 56
+  index: -1

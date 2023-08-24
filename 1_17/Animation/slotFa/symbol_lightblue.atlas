@@ -1,0 +1,62 @@
+
+symbol_lightblue.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win_syml_b_1
+  rotate: false
+  xy: 243, 2
+  size: 429, 21
+  orig: 429, 21
+  offset: 0, 0
+  index: -1
+win_syml_b_2
+  rotate: false
+  xy: 674, 2
+  size: 429, 21
+  orig: 429, 21
+  offset: 0, 0
+  index: -1
+win_syml_b_3
+  rotate: false
+  xy: 745, 60
+  size: 398, 21
+  orig: 429, 21
+  offset: 5, 0
+  index: -1
+win_syml_b_4
+  rotate: true
+  xy: 745, 83
+  size: 170, 139
+  orig: 170, 139
+  offset: 0, 0
+  index: -1
+win_syml_b_5
+  rotate: false
+  xy: 886, 97
+  size: 70, 70
+  orig: 75, 76
+  offset: 3, 3
+  index: -1
+win_syml_b_6
+  rotate: false
+  xy: 886, 169
+  size: 405, 84
+  orig: 405, 84
+  offset: 0, 0
+  index: -1
+win_syml_b_blur
+  rotate: false
+  xy: 2, 13
+  size: 239, 240
+  orig: 280, 282
+  offset: 21, 20
+  index: -1
+win_syml_b_blur1
+  rotate: false
+  xy: 243, 25
+  size: 500, 228
+  orig: 500, 266
+  offset: 0, 20
+  index: -1

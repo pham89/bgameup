@@ -1,0 +1,55 @@
+
+fa_slot_free.png
+size: 340,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ktbeijing
+  rotate: false
+  xy: 155, 234
+  size: 138, 104
+  orig: 138, 104
+  offset: 0, 0
+  index: -1
+ktfeiji
+  rotate: false
+  xy: 277, 115
+  size: 31, 23
+  orig: 31, 24
+  offset: 0, 1
+  index: -1
+ktjiangluosan
+  rotate: true
+  xy: 155, 139
+  size: 93, 120
+  orig: 93, 120
+  offset: 0, 0
+  index: -1
+ktkuang
+  rotate: false
+  xy: 2, 198
+  size: 151, 140
+  orig: 151, 140
+  offset: 0, 0
+  index: -1
+ktren
+  rotate: true
+  xy: 277, 140
+  size: 77, 61
+  orig: 77, 61
+  offset: 0, 0
+  index: -1
+ktwenzi
+  rotate: true
+  xy: 295, 219
+  size: 119, 33
+  orig: 119, 33
+  offset: 0, 0
+  index: -1
+ktxiangzi2
+  rotate: false
+  xy: 2, 106
+  size: 105, 90
+  orig: 105, 90
+  offset: 0, 0
+  index: -1

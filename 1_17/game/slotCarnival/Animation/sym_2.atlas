@@ -1,0 +1,160 @@
+
+sym_2.png
+size: 377,377
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_1
+  rotate: false
+  xy: 1, 213
+  size: 125, 163
+  orig: 125, 163
+  offset: 0, 0
+  index: -1
+2_2
+  rotate: false
+  xy: 151, 2
+  size: 34, 55
+  orig: 36, 57
+  offset: 1, 1
+  index: -1
+2_3
+  rotate: true
+  xy: 226, 185
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+2_4
+  rotate: true
+  xy: 127, 216
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+2_5
+  rotate: false
+  xy: 226, 174
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+2_di
+  rotate: true
+  xy: 127, 222
+  size: 154, 130
+  orig: 156, 132
+  offset: 1, 1
+  index: -1
+2_k
+  rotate: true
+  xy: 1, 50
+  size: 162, 142
+  orig: 166, 146
+  offset: 2, 2
+  index: -1
+music_000
+  rotate: false
+  xy: 144, 58
+  size: 68, 36
+  orig: 100, 100
+  offset: 18, 41
+  index: -1
+music_001
+  rotate: true
+  xy: 333, 162
+  size: 69, 38
+  orig: 100, 100
+  offset: 18, 40
+  index: -1
+music_002
+  rotate: true
+  xy: 331, 95
+  size: 66, 38
+  orig: 100, 100
+  offset: 21, 41
+  index: -1
+music_003
+  rotate: true
+  xy: 333, 232
+  size: 71, 39
+  orig: 100, 100
+  offset: 16, 42
+  index: -1
+music_004
+  rotate: true
+  xy: 334, 304
+  size: 72, 42
+  orig: 100, 100
+  offset: 16, 41
+  index: -1
+music_005
+  rotate: false
+  xy: 77, 2
+  size: 73, 47
+  orig: 100, 100
+  offset: 15, 37
+  index: -1
+music_006
+  rotate: false
+  xy: 1, 1
+  size: 75, 48
+  orig: 100, 100
+  offset: 14, 37
+  index: -1
+music_007
+  rotate: false
+  xy: 258, 261
+  size: 74, 59
+  orig: 100, 100
+  offset: 15, 26
+  index: -1
+music_008
+  rotate: false
+  xy: 258, 203
+  size: 74, 57
+  orig: 100, 100
+  offset: 15, 27
+  index: -1
+music_009
+  rotate: false
+  xy: 258, 321
+  size: 75, 55
+  orig: 100, 100
+  offset: 15, 27
+  index: -1
+music_010
+  rotate: false
+  xy: 151, 167
+  size: 74, 54
+  orig: 100, 100
+  offset: 15, 28
+  index: -1
+music_011
+  rotate: true
+  xy: 144, 95
+  size: 71, 53
+  orig: 100, 100
+  offset: 16, 29
+  index: -1
+music_012
+  rotate: false
+  xy: 258, 147
+  size: 72, 55
+  orig: 100, 100
+  offset: 16, 30
+  index: -1
+music_013
+  rotate: true
+  xy: 198, 96
+  size: 70, 54
+  orig: 100, 100
+  offset: 17, 32
+  index: -1
+music_014
+  rotate: false
+  xy: 253, 94
+  size: 70, 52
+  orig: 100, 100
+  offset: 17, 34
+  index: -1

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>XBiaoQing/fn/xiee01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,113},{109,105}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{109,105}</string>
+			</dict>
+			<key>XBiaoQing/fn/xiee02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,132},{109,105}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{109,105}</string>
+			</dict>
+			<key>XBiaoQing/fn/xiee03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{402,0},{119,93}}</string>
+				<key>offset</key>
+				<string>{4,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,93}</string>
+			</dict>
+			<key>XBiaoQing/fn/xiee04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,0},{140,113}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,113}</string>
+			</dict>
+			<key>XBiaoQing/fn/xiee05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{143,132}}</string>
+				<key>offset</key>
+				<string>{5,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{153,133}</string>
+			</dict>
+			<key>XBiaoQing/fn/xiee06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{283,0},{119,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{119,114}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>fn.png</string>
+			<key>realTextureFileName</key>
+			<string>fn.png</string>
+			<key>size</key>
+			<string>{521,237}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>521</integer>
+			<key>height</key>
+			<integer>237</integer>
+		</dict>
+	</dict>
+</plist>

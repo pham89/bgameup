@@ -1,0 +1,76 @@
+
+light2.png
+size: 981,981
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+light2_00000
+  rotate: false
+  xy: 1, 643
+  size: 244, 337
+  orig: 244, 337
+  offset: 0, 0
+  index: -1
+light2_00002
+  rotate: false
+  xy: 1, 305
+  size: 244, 337
+  orig: 244, 337
+  offset: 0, 0
+  index: -1
+light2_00004
+  rotate: false
+  xy: 246, 643
+  size: 244, 337
+  orig: 244, 337
+  offset: 0, 0
+  index: -1
+light2_00006
+  rotate: false
+  xy: 246, 305
+  size: 244, 337
+  orig: 244, 337
+  offset: 0, 0
+  index: -1
+light2_00008
+  rotate: true
+  xy: 1, 60
+  size: 244, 337
+  orig: 244, 337
+  offset: 0, 0
+  index: -1
+light2_00010
+  rotate: false
+  xy: 491, 643
+  size: 244, 337
+  orig: 244, 337
+  offset: 0, 0
+  index: -1
+light2_00012
+  rotate: false
+  xy: 491, 305
+  size: 244, 337
+  orig: 244, 337
+  offset: 0, 0
+  index: -1
+light2_00014
+  rotate: true
+  xy: 339, 60
+  size: 244, 337
+  orig: 244, 337
+  offset: 0, 0
+  index: -1
+light2_00016
+  rotate: false
+  xy: 736, 643
+  size: 244, 337
+  orig: 244, 337
+  offset: 0, 0
+  index: -1
+light2_00018
+  rotate: false
+  xy: 736, 305
+  size: 244, 337
+  orig: 244, 337
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+FavorableGift.png
+size: 219,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dhA
+  rotate: true
+  xy: 43, 7
+  size: 53, 116
+  orig: 53, 118
+  offset: 0, 0
+  index: -1
+dhB
+  rotate: false
+  xy: 139, 116
+  size: 46, 102
+  orig: 49, 114
+  offset: 2, 6
+  index: -1
+dhC
+  rotate: true
+  xy: 1, 1
+  size: 3, 18
+  orig: 3, 18
+  offset: 0, 0
+  index: -1
+extrabonus
+  rotate: true
+  xy: 1, 5
+  size: 146, 41
+  orig: 146, 41
+  offset: 0, 0
+  index: -1
+fa_06
+  rotate: false
+  xy: 1, 152
+  size: 137, 66
+  orig: 137, 66
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 43, 61
+  size: 90, 90
+  orig: 126, 126
+  offset: 18, 18
+  index: -1
+xl_tx8
+  rotate: false
+  xy: 134, 64
+  size: 50, 51
+  orig: 64, 65
+  offset: 8, 7
+  index: -1
+ziui
+  rotate: true
+  xy: 186, 118
+  size: 100, 24
+  orig: 100, 24
+  offset: 0, 0
+  index: -1

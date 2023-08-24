@@ -1,0 +1,34 @@
+
+bcbm_effect_ybp_ske.png
+size: 513,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bcbm_room-ybp
+  rotate: false
+  xy: 2, 2
+  size: 397, 201
+  orig: 400, 204
+  offset: 1, 1
+  index: -1
+halo
+  rotate: true
+  xy: 401, 76
+  size: 127, 110
+  orig: 130, 110
+  offset: 2, 0
+  index: -1
+halo1
+  rotate: false
+  xy: 445, 34
+  size: 30, 40
+  orig: 119, 40
+  offset: 19, 0
+  index: -1
+halo2
+  rotate: false
+  xy: 401, 21
+  size: 42, 53
+  orig: 53, 53
+  offset: 7, 0
+  index: -1

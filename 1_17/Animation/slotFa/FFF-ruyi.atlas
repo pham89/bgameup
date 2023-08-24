@@ -1,0 +1,167 @@
+
+FFF-ruyi.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slot_cabaret_viol_arm_left
+  rotate: true
+  xy: 1455, 175
+  size: 173, 94
+  orig: 173, 94
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_arm_left_bg
+  rotate: true
+  xy: 1353, 169
+  size: 179, 100
+  orig: 179, 100
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_arm_right
+  rotate: true
+  xy: 816, 3
+  size: 130, 246
+  orig: 130, 246
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_bg
+  rotate: false
+  xy: 322, 21
+  size: 241, 488
+  orig: 241, 488
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_body
+  rotate: false
+  xy: 784, 135
+  size: 213, 374
+  orig: 213, 374
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_body_bg
+  rotate: false
+  xy: 565, 129
+  size: 217, 380
+  orig: 217, 380
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_bow
+  rotate: false
+  xy: 565, 28
+  size: 249, 99
+  orig: 249, 99
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_eye_left
+  rotate: false
+  xy: 1296, 191
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_eye_right
+  rotate: true
+  xy: 1233, 172
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_eyebrow_left
+  rotate: true
+  xy: 1267, 188
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_eyebrow_right
+  rotate: false
+  xy: 565, 5
+  size: 52, 21
+  orig: 52, 21
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_face
+  rotate: false
+  xy: 1353, 350
+  size: 113, 159
+  orig: 113, 159
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_hair
+  rotate: true
+  xy: 1064, 2
+  size: 137, 155
+  orig: 137, 155
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_head_bg
+  rotate: true
+  xy: 1221, 15
+  size: 143, 192
+  orig: 143, 192
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_lights_bg
+  rotate: false
+  xy: 2, 7
+  size: 318, 502
+  orig: 318, 502
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_lll
+  rotate: false
+  xy: 1415, 38
+  size: 127, 129
+  orig: 127, 129
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_sleeve_left
+  rotate: true
+  xy: 1122, 151
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_sleeve_left_back
+  rotate: false
+  xy: 1202, 160
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_sleeve_right
+  rotate: true
+  xy: 1544, 59
+  size: 114, 97
+  orig: 114, 97
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_viol
+  rotate: false
+  xy: 1188, 220
+  size: 163, 289
+  orig: 163, 289
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_viol_bg
+  rotate: false
+  xy: 999, 216
+  size: 187, 293
+  orig: 187, 293
+  offset: 0, 0
+  index: -1
+slot_cabaret_viol_wrist_left
+  rotate: false
+  xy: 1468, 397
+  size: 98, 112
+  orig: 100, 112
+  offset: 2, 0
+  index: -1
+slot_cabaret_viol_wrist_right
+  rotate: true
+  xy: 999, 141
+  size: 73, 121
+  orig: 73, 121
+  offset: 0, 0
+  index: -1

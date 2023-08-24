@@ -1,0 +1,20 @@
+
+pmd_di.png
+size: 502,502
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+adxg
+  rotate: false
+  xy: 449, 362
+  size: 52, 139
+  orig: 52, 139
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 1, 380
+  size: 447, 121
+  orig: 449, 125
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,48 @@
+
+slot_fruit_gung.png
+size: 535,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0619
+  rotate: false
+  xy: 461, 461
+  size: 73, 73
+  orig: 77, 77
+  offset: 2, 2
+  index: -1
+fsg
+  rotate: true
+  xy: 1, 16
+  size: 366, 357
+  orig: 368, 359
+  offset: 1, 1
+  index: -1
+gai2_guang2
+  rotate: false
+  xy: 1, 383
+  size: 459, 151
+  orig: 517, 242
+  offset: 32, 56
+  index: -1
+gxtx
+  rotate: false
+  xy: 359, 19
+  size: 115, 116
+  orig: 128, 128
+  offset: 9, 7
+  index: -1
+texiao_4
+  rotate: false
+  xy: 359, 263
+  size: 130, 119
+  orig: 141, 127
+  offset: 7, 8
+  index: -1
+texiao_5
+  rotate: true
+  xy: 359, 136
+  size: 126, 128
+  orig: 129, 129
+  offset: 0, 0
+  index: -1

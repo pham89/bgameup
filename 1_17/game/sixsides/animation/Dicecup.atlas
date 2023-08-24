@@ -1,0 +1,181 @@
+
+Dicecup.png
+size: 831,831
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 455, 231
+  size: 111, 118
+  orig: 111, 118
+  offset: 0, 0
+  index: -1
+A1
+  rotate: false
+  xy: 746, 196
+  size: 30, 39
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 746, 277
+  size: 33, 40
+  orig: 33, 41
+  offset: 0, 1
+  index: -1
+A3
+  rotate: false
+  xy: 338, 366
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+A4
+  rotate: false
+  xy: 746, 158
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+A5
+  rotate: false
+  xy: 789, 683
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+A6
+  rotate: false
+  xy: 746, 236
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+B1
+  rotate: true
+  xy: 746, 318
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+B2
+  rotate: false
+  xy: 567, 182
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+B3
+  rotate: false
+  xy: 567, 144
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+B4
+  rotate: true
+  xy: 789, 728
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+B5
+  rotate: false
+  xy: 277, 360
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+B6
+  rotate: true
+  xy: 789, 776
+  size: 54, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+BL
+  rotate: false
+  xy: 1, 408
+  size: 368, 422
+  orig: 368, 445
+  offset: 0, 23
+  index: -1
+an
+  rotate: true
+  xy: 567, 223
+  size: 126, 66
+  orig: 126, 66
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 277, 15
+  size: 334, 177
+  orig: 334, 177
+  offset: 0, 0
+  index: -1
+diA
+  rotate: true
+  xy: 604, 372
+  size: 458, 184
+  orig: 463, 185
+  offset: 2, 0
+  index: -1
+diB
+  rotate: true
+  xy: 370, 350
+  size: 480, 233
+  orig: 482, 234
+  offset: 1, 1
+  index: -1
+sz
+  rotate: false
+  xy: 1, 1
+  size: 275, 406
+  orig: 275, 406
+  offset: 0, 0
+  index: -1
+tz_jm1
+  rotate: false
+  xy: 455, 113
+  size: 111, 117
+  orig: 111, 118
+  offset: 0, 1
+  index: -1
+tz_jm2
+  rotate: true
+  xy: 455, 1
+  size: 111, 117
+  orig: 111, 118
+  offset: 0, 1
+  index: -1
+tz_jm3
+  rotate: false
+  xy: 634, 254
+  size: 111, 117
+  orig: 111, 118
+  offset: 0, 1
+  index: -1
+tz_jm4
+  rotate: false
+  xy: 634, 136
+  size: 111, 117
+  orig: 111, 118
+  offset: 0, 1
+  index: -1
+tz_jm5
+  rotate: false
+  xy: 573, 18
+  size: 111, 117
+  orig: 111, 118
+  offset: 0, 1
+  index: -1
+tz_jm6
+  rotate: false
+  xy: 685, 18
+  size: 111, 117
+  orig: 111, 118
+  offset: 0, 1
+  index: -1

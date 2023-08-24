@@ -1,0 +1,139 @@
+
+dealer.png
+size: 282,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s1
+  rotate: true
+  xy: 1, 1
+  size: 97, 42
+  orig: 97, 42
+  offset: 0, 0
+  index: -1
+s12
+  rotate: false
+  xy: 44, 1
+  size: 42, 97
+  orig: 42, 97
+  offset: 0, 0
+  index: -1
+s3
+  rotate: true
+  xy: 160, 83
+  size: 107, 52
+  orig: 109, 57
+  offset: 2, 2
+  index: -1
+s4
+  rotate: true
+  xy: 184, 213
+  size: 68, 92
+  orig: 74, 97
+  offset: 3, 2
+  index: -1
+s5
+  rotate: false
+  xy: 213, 123
+  size: 58, 89
+  orig: 61, 94
+  offset: 0, 2
+  index: -1
+s6
+  rotate: false
+  xy: 136, 4
+  size: 43, 78
+  orig: 46, 80
+  offset: 0, 2
+  index: -1
+s7
+  rotate: false
+  xy: 93, 89
+  size: 66, 101
+  orig: 66, 101
+  offset: 0, 0
+  index: -1
+s9
+  rotate: false
+  xy: 87, 1
+  size: 48, 87
+  orig: 50, 89
+  offset: 2, 1
+  index: -1
+st1
+  rotate: false
+  xy: 1, 99
+  size: 91, 182
+  orig: 91, 182
+  offset: 0, 0
+  index: -1
+texiao_1_2
+  rotate: false
+  xy: 93, 191
+  size: 90, 90
+  orig: 126, 126
+  offset: 18, 18
+  index: -1
+tf1
+  rotate: false
+  xy: 180, 26
+  size: 19, 56
+  orig: 19, 56
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: true
+  xy: 213, 99
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+tf3
+  rotate: true
+  xy: 180, 1
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+tf4
+  rotate: true
+  xy: 213, 83
+  size: 15, 53
+  orig: 15, 53
+  offset: 0, 0
+  index: -1
+tf9
+  rotate: false
+  xy: 200, 45
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+xin3
+  rotate: false
+  xy: 227, 57
+  size: 29, 25
+  orig: 33, 30
+  offset: 2, 2
+  index: -1
+yj
+  rotate: true
+  xy: 267, 87
+  size: 35, 10
+  orig: 35, 10
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 184, 202
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: true
+  xy: 200, 26
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1

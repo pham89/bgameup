@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/Earnmore/tu/1000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{342,230},{115,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{115,33}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/10000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{307,162},{133,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{133,33}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/3000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{459,230},{115,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{115,33}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/5000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{354,440},{115,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{115,33}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/7000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{354,475},{115,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{115,33}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/8000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{414,362},{115,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{115,33}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/A.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{232,1},{180,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{180,73}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/B.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{232,183},{180,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{180,73}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/BJTA.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{229,365}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{229,365}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/BJTzi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{307,297},{173,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,63}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/C.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{232,365},{180,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{180,73}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/DT.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,368},{229,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{229,82}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/JB.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{414,397},{36,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{36,34}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/liuhai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{342,265},{109,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{109,19}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/SJ.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{354,1},{200,227}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,227}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/UI.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,452},{190,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,51}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/with.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{193,452},{159,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{159,39}</string>
+			</dict>
+			<key>Animation/Earnmore/tu/WITHDRWAI.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{307,1},{159,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{159,39}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-earnmore.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-earnmore.png</string>
+			<key>size</key>
+			<string>{575,509}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>575</integer>
+			<key>height</key>
+			<integer>509</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,118 @@
+
+freespins1.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_flare_01
+  rotate: true
+  xy: 759, 22
+  size: 160, 138
+  orig: 176, 151
+  offset: 7, 8
+  index: -1
+fs_flare_02
+  rotate: true
+  xy: 2, 162
+  size: 345, 313
+  orig: 582, 332
+  offset: 108, 19
+  index: -1
+fs_flare_03
+  rotate: false
+  xy: 899, 19
+  size: 300, 186
+  orig: 304, 188
+  offset: 2, 0
+  index: -1
+fs_infinity
+  rotate: false
+  xy: 317, 322
+  size: 398, 185
+  orig: 398, 185
+  offset: 0, 0
+  index: -1
+fs_letter_E
+  rotate: true
+  xy: 974, 211
+  size: 144, 137
+  orig: 146, 139
+  offset: 1, 1
+  index: -1
+fs_letter_F
+  rotate: false
+  xy: 688, 184
+  size: 140, 136
+  orig: 143, 138
+  offset: 1, 1
+  index: -1
+fs_letter_I
+  rotate: false
+  xy: 997, 371
+  size: 95, 136
+  orig: 97, 138
+  offset: 1, 1
+  index: -1
+fs_letter_N
+  rotate: true
+  xy: 336, 5
+  size: 177, 136
+  orig: 179, 138
+  offset: 1, 1
+  index: -1
+fs_letter_O
+  rotate: true
+  xy: 474, 13
+  size: 169, 142
+  orig: 171, 144
+  offset: 1, 1
+  index: -1
+fs_letter_P
+  rotate: true
+  xy: 717, 355
+  size: 152, 138
+  orig: 154, 140
+  offset: 1, 1
+  index: -1
+fs_letter_R
+  rotate: true
+  xy: 857, 357
+  size: 150, 138
+  orig: 152, 140
+  offset: 1, 1
+  index: -1
+fs_letter_S
+  rotate: true
+  xy: 830, 207
+  size: 146, 142
+  orig: 148, 142
+  offset: 1, 0
+  index: -1
+fs_letter_U
+  rotate: true
+  xy: 618, 20
+  size: 162, 139
+  orig: 164, 141
+  offset: 1, 1
+  index: -1
+fs_letter_W
+  rotate: false
+  xy: 317, 184
+  size: 209, 136
+  orig: 212, 138
+  offset: 1, 1
+  index: -1
+fs_letter_Y
+  rotate: false
+  xy: 528, 184
+  size: 158, 136
+  orig: 161, 138
+  offset: 1, 1
+  index: -1
+fs_rays
+  rotate: false
+  xy: 2, 2
+  size: 332, 158
+  orig: 333, 165
+  offset: 1, 7
+  index: -1

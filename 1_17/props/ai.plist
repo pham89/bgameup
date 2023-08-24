@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>props/ai/ai01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{214,239},{67,66}}</string>
+				<key>offset</key>
+				<string>{1,-4}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,124}</string>
+			</dict>
+			<key>props/ai/ai02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{218,1},{99,85}}</string>
+				<key>offset</key>
+				<string>{-2,-3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,124}</string>
+			</dict>
+			<key>props/ai/ai03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{214,120},{117,92}}</string>
+				<key>offset</key>
+				<string>{-1,-5}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,124}</string>
+			</dict>
+			<key>props/ai/ai04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,149},{116,99}}</string>
+				<key>offset</key>
+				<string>{0,-3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,124}</string>
+			</dict>
+			<key>props/ai/ai05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{110,288},{123,102}}</string>
+				<key>offset</key>
+				<string>{-1,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,124}</string>
+			</dict>
+			<key>props/ai/ai06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,288},{131,107}}</string>
+				<key>offset</key>
+				<string>{-1,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,124}</string>
+			</dict>
+			<key>props/ai/ai07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,149},{137,110}}</string>
+				<key>offset</key>
+				<string>{-1,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,124}</string>
+			</dict>
+			<key>props/ai/ai08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{146,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,124}</string>
+			</dict>
+			<key>props/ai/ai09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{119,1},{117,97}}</string>
+				<key>offset</key>
+				<string>{-1,-7}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,124}</string>
+			</dict>
+			<key>props/ai/ai10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{108,421},{104,88}}</string>
+				<key>offset</key>
+				<string>{4,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,124}</string>
+			</dict>
+			<key>props/ai/ai11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,421},{105,88}}</string>
+				<key>offset</key>
+				<string>{3,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,124}</string>
+			</dict>
+			<key>props/ai/ai12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{305,1},{99,54}}</string>
+				<key>offset</key>
+				<string>{-1,4}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,124}</string>
+			</dict>
+			<key>props/ai/z01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{214,308},{78,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{78,37}</string>
+			</dict>
+			<key>props/ai/z02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{214,388},{67,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{67,40}</string>
+			</dict>
+			<key>props/ai/z03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{282,239},{53,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{53,39}</string>
+			</dict>
+			<key>props/ai/z04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{253,308},{52,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{52,42}</string>
+			</dict>
+			<key>props/ai/z05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{214,457},{51,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{51,43}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ai.png</string>
+			<key>realTextureFileName</key>
+			<string>ai.png</string>
+			<key>size</key>
+			<string>{360,510}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>360</integer>
+			<key>height</key>
+			<integer>510</integer>
+		</dict>
+	</dict>
+</plist>

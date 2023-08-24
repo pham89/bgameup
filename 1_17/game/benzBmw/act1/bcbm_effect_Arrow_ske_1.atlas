@@ -1,0 +1,27 @@
+
+bcbm_effect_Arrow_ske_1.png
+size: 488,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bcbm_room-paodao-img1
+  rotate: true
+  xy: 251, 5
+  size: 139, 183
+  orig: 169, 209
+  offset: 15, 13
+  index: -1
+bcbm_room-paodao-img4
+  rotate: true
+  xy: 436, 22
+  size: 122, 50
+  orig: 122, 50
+  offset: 0, 0
+  index: -1
+bcbm_room-paodao-img5
+  rotate: false
+  xy: 2, 2
+  size: 247, 142
+  orig: 282, 166
+  offset: 15, 4
+  index: -1

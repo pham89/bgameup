@@ -1,0 +1,48 @@
+
+910JQK.png
+size: 172,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa_slot_cai
+  rotate: false
+  xy: 103, 145
+  size: 67, 103
+  orig: 67, 105
+  offset: 0, 1
+  index: -1
+fa_slot_fa
+  rotate: true
+  xy: 2, 32
+  size: 54, 94
+  orig: 55, 94
+  offset: 0, 0
+  index: -1
+fa_slot_gong
+  rotate: false
+  xy: 103, 42
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+fa_slot_money
+  rotate: true
+  xy: 2, 88
+  size: 65, 99
+  orig: 67, 100
+  offset: 1, 1
+  index: -1
+fa_slot_xi
+  rotate: true
+  xy: 2, 155
+  size: 93, 99
+  orig: 95, 100
+  offset: 1, 1
+  index: -1
+guang
+  rotate: false
+  xy: 2, 2
+  size: 140, 28
+  orig: 140, 28
+  offset: 0, 0
+  index: -1

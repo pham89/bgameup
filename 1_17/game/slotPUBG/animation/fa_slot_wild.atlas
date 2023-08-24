@@ -1,0 +1,48 @@
+
+fa_slot_wild.png
+size: 234,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jh
+  rotate: false
+  xy: 152, 108
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+jijiu
+  rotate: false
+  xy: 121, 13
+  size: 109, 86
+  orig: 109, 86
+  offset: 0, 0
+  index: -1
+jijiu2
+  rotate: false
+  xy: 1, 1
+  size: 119, 98
+  orig: 120, 99
+  offset: 0, 0
+  index: -1
+jll
+  rotate: false
+  xy: 152, 150
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+ktkuang
+  rotate: false
+  xy: 1, 100
+  size: 150, 133
+  orig: 150, 133
+  offset: 0, 0
+  index: -1
+wildjj
+  rotate: false
+  xy: 152, 195
+  size: 75, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1

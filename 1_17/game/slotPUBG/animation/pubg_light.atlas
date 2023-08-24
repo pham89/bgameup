@@ -1,0 +1,97 @@
+
+pubg_light.png
+size: 2008,608
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 1753, 2
+  size: 300, 253
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+1_00001
+  rotate: true
+  xy: 1497, 2
+  size: 300, 254
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+1_00002
+  rotate: true
+  xy: 1492, 304
+  size: 300, 263
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+1_00003
+  rotate: true
+  xy: 1208, 304
+  size: 300, 282
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+1_00004
+  rotate: true
+  xy: 1207, 2
+  size: 300, 288
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+1_00005
+  rotate: true
+  xy: 907, 2
+  size: 300, 298
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+1_00006
+  rotate: true
+  xy: 606, 304
+  size: 300, 299
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+1_00007
+  rotate: false
+  xy: 2, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+1_00008
+  rotate: true
+  xy: 606, 2
+  size: 300, 299
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+1_00009
+  rotate: true
+  xy: 907, 304
+  size: 300, 299
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+1_00010
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+1_00011
+  rotate: false
+  xy: 304, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+1_00012
+  rotate: false
+  xy: 304, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1

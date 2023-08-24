@@ -1,0 +1,41 @@
+
+amethyst.png
+size: 331,331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caishen1_jb1
+  rotate: false
+  xy: 1, 195
+  size: 136, 135
+  orig: 138, 138
+  offset: 1, 1
+  index: -1
+caishen1_jb2
+  rotate: false
+  xy: 1, 67
+  size: 136, 127
+  orig: 138, 130
+  offset: 1, 1
+  index: -1
+caishen1_jb3
+  rotate: true
+  xy: 138, 76
+  size: 132, 96
+  orig: 136, 99
+  offset: 2, 2
+  index: -1
+caishen1_jb4
+  rotate: true
+  xy: 235, 76
+  size: 132, 95
+  orig: 134, 99
+  offset: 1, 2
+  index: -1
+caishen1_jb5
+  rotate: false
+  xy: 138, 209
+  size: 124, 121
+  orig: 126, 123
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,48 @@
+
+7updown.png
+size: 332,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1updown
+  rotate: true
+  xy: 279, 64
+  size: 165, 48
+  orig: 167, 48
+  offset: 1, 0
+  index: -1
+2updown
+  rotate: false
+  xy: 192, 142
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+3updown
+  rotate: true
+  xy: 192, 230
+  size: 101, 117
+  orig: 101, 117
+  offset: 0, 0
+  index: -1
+4updown
+  rotate: false
+  xy: 239, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+5updown
+  rotate: false
+  xy: 1, 139
+  size: 190, 192
+  orig: 194, 195
+  offset: 2, 2
+  index: -1
+fg
+  rotate: false
+  xy: 1, 5
+  size: 237, 133
+  orig: 237, 154
+  offset: 0, 17
+  index: -1

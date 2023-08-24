@@ -1,0 +1,146 @@
+
+light.png
+size: 759,759
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zg_00000
+  rotate: false
+  xy: 205, 465
+  size: 202, 146
+  orig: 205, 147
+  offset: 3, 0
+  index: -1
+zg_00002
+  rotate: false
+  xy: 409, 612
+  size: 202, 146
+  orig: 205, 147
+  offset: 3, 0
+  index: -1
+zg_00004
+  rotate: true
+  xy: 612, 355
+  size: 200, 146
+  orig: 205, 147
+  offset: 4, 0
+  index: -1
+zg_00006
+  rotate: false
+  xy: 554, 208
+  size: 199, 146
+  orig: 205, 147
+  offset: 5, 0
+  index: -1
+zg_00008
+  rotate: false
+  xy: 1, 171
+  size: 202, 146
+  orig: 205, 147
+  offset: 3, 0
+  index: -1
+zg_00010
+  rotate: false
+  xy: 204, 318
+  size: 202, 146
+  orig: 205, 147
+  offset: 3, 0
+  index: -1
+zg_00012
+  rotate: false
+  xy: 1, 612
+  size: 203, 146
+  orig: 205, 147
+  offset: 2, 0
+  index: -1
+zg_00014
+  rotate: false
+  xy: 408, 466
+  size: 203, 145
+  orig: 205, 147
+  offset: 2, 0
+  index: -1
+zg_00016
+  rotate: false
+  xy: 204, 25
+  size: 202, 145
+  orig: 205, 147
+  offset: 3, 0
+  index: -1
+zg_00036
+  rotate: false
+  xy: 204, 25
+  size: 202, 145
+  orig: 205, 147
+  offset: 3, 0
+  index: -1
+zg_00020
+  rotate: true
+  xy: 612, 556
+  size: 202, 146
+  orig: 205, 147
+  offset: 3, 0
+  index: -1
+zg_00022
+  rotate: false
+  xy: 1, 24
+  size: 202, 146
+  orig: 205, 147
+  offset: 3, 0
+  index: -1
+zg_00024
+  rotate: true
+  xy: 407, 264
+  size: 200, 145
+  orig: 205, 147
+  offset: 4, 0
+  index: -1
+zg_00026
+  rotate: false
+  xy: 554, 62
+  size: 198, 145
+  orig: 205, 147
+  offset: 5, 0
+  index: -1
+zg_00028
+  rotate: true
+  xy: 407, 63
+  size: 200, 146
+  orig: 205, 147
+  offset: 4, 0
+  index: -1
+zg_00030
+  rotate: false
+  xy: 204, 171
+  size: 202, 146
+  orig: 205, 147
+  offset: 3, 0
+  index: -1
+zg_00032
+  rotate: false
+  xy: 1, 465
+  size: 203, 146
+  orig: 205, 147
+  offset: 2, 0
+  index: -1
+zg_00034
+  rotate: false
+  xy: 205, 612
+  size: 203, 146
+  orig: 205, 147
+  offset: 2, 0
+  index: -1
+zg_00038
+  rotate: false
+  xy: 1, 318
+  size: 202, 146
+  orig: 205, 147
+  offset: 3, 0
+  index: -1
+zg_00018
+  rotate: false
+  xy: 1, 318
+  size: 202, 146
+  orig: 205, 147
+  offset: 3, 0
+  index: -1

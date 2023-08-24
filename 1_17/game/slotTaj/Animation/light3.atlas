@@ -1,0 +1,76 @@
+
+light3.png
+size: 1131,1131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light3A_00000
+  rotate: false
+  xy: 1, 686
+  size: 239, 444
+  orig: 239, 444
+  offset: 0, 0
+  index: -1
+light3A_00002
+  rotate: false
+  xy: 1, 241
+  size: 239, 444
+  orig: 239, 444
+  offset: 0, 0
+  index: -1
+light3A_00004
+  rotate: false
+  xy: 241, 686
+  size: 239, 444
+  orig: 239, 444
+  offset: 0, 0
+  index: -1
+light3A_00006
+  rotate: false
+  xy: 241, 241
+  size: 239, 444
+  orig: 239, 444
+  offset: 0, 0
+  index: -1
+light3A_00008
+  rotate: true
+  xy: 1, 1
+  size: 239, 444
+  orig: 239, 444
+  offset: 0, 0
+  index: -1
+light3A_00010
+  rotate: false
+  xy: 481, 686
+  size: 239, 444
+  orig: 239, 444
+  offset: 0, 0
+  index: -1
+light3A_00012
+  rotate: false
+  xy: 481, 241
+  size: 239, 444
+  orig: 239, 444
+  offset: 0, 0
+  index: -1
+light3A_00014
+  rotate: false
+  xy: 721, 686
+  size: 239, 444
+  orig: 239, 444
+  offset: 0, 0
+  index: -1
+light3A_00016
+  rotate: false
+  xy: 721, 241
+  size: 239, 444
+  orig: 239, 444
+  offset: 0, 0
+  index: -1
+light3A_00018
+  rotate: true
+  xy: 446, 1
+  size: 239, 444
+  orig: 239, 444
+  offset: 0, 0
+  index: -1

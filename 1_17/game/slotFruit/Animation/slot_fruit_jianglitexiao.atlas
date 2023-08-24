@@ -1,0 +1,188 @@
+
+slot_fruit_jianglitexiao.png
+size: 1456,1456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin2
+  rotate: false
+  xy: 187, 230
+  size: 550, 187
+  orig: 550, 187
+  offset: 0, 0
+  index: -1
+bigwinUI
+  rotate: true
+  xy: 1022, 6
+  size: 440, 216
+  orig: 440, 217
+  offset: 0, 0
+  index: -1
+free_TOTAL
+  rotate: true
+  xy: 969, 27
+  size: 365, 40
+  orig: 365, 40
+  offset: 0, 0
+  index: -1
+free_spin3
+  rotate: true
+  xy: 187, 453
+  size: 460, 121
+  orig: 460, 121
+  offset: 0, 0
+  index: -1
+free_spin5
+  rotate: false
+  xy: 681, 1109
+  size: 436, 34
+  orig: 436, 34
+  offset: 0, 0
+  index: -1
+free_spin6
+  rotate: false
+  xy: 1, 914
+  size: 689, 182
+  orig: 689, 182
+  offset: 0, 0
+  index: -1
+free_spin8
+  rotate: true
+  xy: 1126, 899
+  size: 556, 315
+  orig: 556, 315
+  offset: 0, 0
+  index: -1
+hugewinUI
+  rotate: true
+  xy: 1086, 458
+  size: 440, 216
+  orig: 440, 217
+  offset: 0, 0
+  index: -1
+jackpot3A
+  rotate: true
+  xy: 1022, 447
+  size: 661, 63
+  orig: 667, 67
+  offset: 3, 2
+  index: -1
+jackpot3C
+  rotate: false
+  xy: 1045, 1170
+  size: 62, 114
+  orig: 66, 120
+  offset: 2, 3
+  index: -1
+jackpot4
+  rotate: true
+  xy: 864, 393
+  size: 715, 157
+  orig: 715, 157
+  offset: 0, 0
+  index: -1
+jackpot5
+  rotate: true
+  xy: 691, 418
+  size: 690, 172
+  orig: 690, 172
+  offset: 0, 0
+  index: -1
+jackpot6
+  rotate: true
+  xy: 838, 151
+  size: 241, 130
+  orig: 241, 131
+  offset: 0, 1
+  index: -1
+jackpot7
+  rotate: false
+  xy: 414, 690
+  size: 269, 96
+  orig: 269, 96
+  offset: 0, 0
+  index: -1
+massive
+  rotate: true
+  xy: 1, 3
+  size: 895, 185
+  orig: 895, 185
+  offset: 0, 0
+  index: -1
+massivewinUI
+  rotate: true
+  xy: 1239, 17
+  size: 440, 216
+  orig: 440, 217
+  offset: 0, 0
+  index: -1
+megawin3
+  rotate: false
+  xy: 1, 1097
+  size: 679, 187
+  orig: 679, 187
+  offset: 0, 0
+  index: -1
+sdsd1
+  rotate: false
+  xy: 414, 787
+  size: 266, 126
+  orig: 266, 132
+  offset: 0, 4
+  index: -1
+sdsd2
+  rotate: true
+  xy: 738, 151
+  size: 266, 99
+  orig: 266, 105
+  offset: 0, 4
+  index: -1
+sdsd3
+  rotate: true
+  xy: 1303, 632
+  size: 266, 129
+  orig: 266, 130
+  offset: 0, 1
+  index: -1
+sdsd4
+  rotate: false
+  xy: 681, 1144
+  size: 266, 140
+  orig: 266, 143
+  offset: 0, 2
+  index: -1
+sdsd5
+  rotate: false
+  xy: 628, 22
+  size: 266, 128
+  orig: 266, 129
+  offset: 0, 1
+  index: -1
+spectacular
+  rotate: false
+  xy: 1, 1285
+  size: 1124, 170
+  orig: 1124, 170
+  offset: 0, 0
+  index: -1
+spectacularUI
+  rotate: false
+  xy: 187, 13
+  size: 440, 216
+  orig: 440, 217
+  offset: 0, 0
+  index: -1
+spin7
+  rotate: false
+  xy: 948, 1181
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+totreui
+  rotate: false
+  xy: 309, 419
+  size: 104, 494
+  orig: 107, 495
+  offset: 3, 1
+  index: -1

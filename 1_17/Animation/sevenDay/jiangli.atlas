@@ -1,0 +1,97 @@
+
+jiangli.png
+size: 2048,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+0619
+  rotate: false
+  xy: 446, 54
+  size: 75, 75
+  orig: 77, 77
+  offset: 2, 2
+  index: -1
+caidai1_1
+  rotate: false
+  xy: 1984, 330
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+caidai1_2
+  rotate: false
+  xy: 2016, 110
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+caidai1_3
+  rotate: false
+  xy: 1984, 272
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+caidai1_4
+  rotate: false
+  xy: 1984, 216
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+caidai1_5
+  rotate: false
+  xy: 1984, 168
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+fish31_6
+  rotate: false
+  xy: 1984, 136
+  size: 31, 31
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+jiangli1
+  rotate: false
+  xy: 812, 68
+  size: 419, 76
+  orig: 419, 76
+  offset: 0, 0
+  index: -1
+jiangli4
+  rotate: false
+  xy: 1232, 116
+  size: 346, 28
+  orig: 346, 28
+  offset: 0, 0
+  index: -1
+jiangli6
+  rotate: false
+  xy: 1, 1
+  size: 444, 385
+  orig: 444, 385
+  offset: 0, 0
+  index: -1
+jiangli7
+  rotate: false
+  xy: 703, 145
+  size: 1280, 241
+  orig: 1280, 241
+  offset: 0, 0
+  index: -1
+shanguang
+  rotate: false
+  xy: 446, 130
+  size: 256, 256
+  orig: 262, 258
+  offset: 4, 1
+  index: -1
+texiao_2
+  rotate: false
+  xy: 703, 36
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1

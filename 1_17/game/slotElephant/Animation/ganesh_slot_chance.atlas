@@ -1,0 +1,181 @@
+
+ganesh_slot_chance.png
+size: 547,547
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 219, 481
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00002
+  rotate: false
+  xy: 328, 481
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00004
+  rotate: false
+  xy: 437, 481
+  size: 106, 65
+  orig: 110, 66
+  offset: 2, 0
+  index: -1
+1_00006
+  rotate: false
+  xy: 1, 416
+  size: 106, 65
+  orig: 110, 66
+  offset: 2, 0
+  index: -1
+1_00008
+  rotate: false
+  xy: 108, 416
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00010
+  rotate: false
+  xy: 217, 415
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00012
+  rotate: false
+  xy: 326, 415
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00014
+  rotate: false
+  xy: 435, 415
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00016
+  rotate: false
+  xy: 1, 350
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00018
+  rotate: false
+  xy: 217, 349
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00020
+  rotate: false
+  xy: 326, 349
+  size: 109, 65
+  orig: 110, 66
+  offset: 0, 0
+  index: -1
+1_00022
+  rotate: false
+  xy: 436, 349
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00024
+  rotate: false
+  xy: 1, 284
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00026
+  rotate: false
+  xy: 110, 283
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00028
+  rotate: false
+  xy: 219, 283
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00030
+  rotate: false
+  xy: 110, 350
+  size: 106, 65
+  orig: 110, 66
+  offset: 2, 0
+  index: -1
+1_00032
+  rotate: false
+  xy: 328, 283
+  size: 107, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00034
+  rotate: false
+  xy: 436, 283
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00036
+  rotate: false
+  xy: 1, 218
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00038
+  rotate: false
+  xy: 110, 217
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00040
+  rotate: false
+  xy: 219, 217
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00042
+  rotate: false
+  xy: 1, 482
+  size: 108, 64
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00044
+  rotate: false
+  xy: 110, 482
+  size: 108, 64
+  orig: 110, 66
+  offset: 1, 0
+  index: -1
+1_00046
+  rotate: false
+  xy: 328, 217
+  size: 109, 65
+  orig: 110, 66
+  offset: 0, 0
+  index: -1
+1_00048
+  rotate: false
+  xy: 438, 217
+  size: 108, 65
+  orig: 110, 66
+  offset: 1, 0
+  index: -1

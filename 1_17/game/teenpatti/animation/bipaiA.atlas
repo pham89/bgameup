@@ -1,0 +1,153 @@
+
+bipaiA.png
+size: 583,583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+disd_00000
+  rotate: true
+  xy: 1, 137
+  size: 174, 121
+  orig: 211, 180
+  offset: 22, 36
+  index: -1
+disd_00001
+  rotate: false
+  xy: 351, 332
+  size: 160, 122
+  orig: 211, 180
+  offset: 20, 30
+  index: -1
+disd_00002
+  rotate: false
+  xy: 157, 1
+  size: 121, 137
+  orig: 211, 180
+  offset: 21, 11
+  index: -1
+disd_00003
+  rotate: false
+  xy: 1, 6
+  size: 155, 130
+  orig: 211, 180
+  offset: 26, 15
+  index: -1
+disd_00004
+  rotate: true
+  xy: 224, 199
+  size: 149, 124
+  orig: 211, 180
+  offset: 31, 20
+  index: -1
+disd_00005
+  rotate: false
+  xy: 349, 203
+  size: 145, 128
+  orig: 211, 180
+  offset: 36, 19
+  index: -1
+disd_00006
+  rotate: false
+  xy: 1, 312
+  size: 169, 134
+  orig: 211, 180
+  offset: 27, 34
+  index: -1
+disd_00007
+  rotate: false
+  xy: 353, 455
+  size: 162, 127
+  orig: 211, 180
+  offset: 22, 41
+  index: -1
+disd_00008
+  rotate: false
+  xy: 181, 457
+  size: 171, 125
+  orig: 211, 180
+  offset: 17, 42
+  index: -1
+disd_00009
+  rotate: false
+  xy: 1, 447
+  size: 179, 135
+  orig: 211, 180
+  offset: 12, 32
+  index: -1
+disd_00010
+  rotate: false
+  xy: 181, 349
+  size: 169, 107
+  orig: 211, 180
+  offset: 5, 33
+  index: -1
+disd_00011
+  rotate: true
+  xy: 123, 139
+  size: 172, 100
+  orig: 211, 180
+  offset: 4, 34
+  index: -1
+disd_00012
+  rotate: true
+  xy: 279, 21
+  size: 177, 94
+  orig: 211, 180
+  offset: 2, 40
+  index: -1
+disd_00013
+  rotate: true
+  xy: 500, 189
+  size: 142, 82
+  orig: 211, 180
+  offset: 41, 58
+  index: -1
+disd_00014
+  rotate: true
+  xy: 374, 44
+  size: 158, 94
+  orig: 211, 180
+  offset: 39, 51
+  index: -1
+disd_00015
+  rotate: true
+  xy: 500, 46
+  size: 142, 34
+  orig: 211, 180
+  offset: 60, 109
+  index: -1
+disd_00016
+  rotate: true
+  xy: 469, 50
+  size: 152, 30
+  orig: 211, 180
+  offset: 54, 108
+  index: -1
+disd_00017
+  rotate: true
+  xy: 535, 33
+  size: 155, 22
+  orig: 211, 180
+  offset: 52, 113
+  index: -1
+disd_00018
+  rotate: true
+  xy: 516, 423
+  size: 159, 16
+  orig: 211, 180
+  offset: 49, 117
+  index: -1
+disd_00019
+  rotate: true
+  xy: 558, 22
+  size: 166, 18
+  orig: 211, 180
+  offset: 45, 114
+  index: -1
+disd_00020
+  rotate: false
+  xy: 171, 438
+  size: 8, 8
+  orig: 211, 180
+  offset: 44, 114
+  index: -1

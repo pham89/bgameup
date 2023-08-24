@@ -1,0 +1,62 @@
+
+box.png
+size: 336,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: true
+  xy: 277, 257
+  size: 133, 41
+  orig: 133, 41
+  offset: 0, 0
+  index: -1
+GOODLUCK
+  rotate: true
+  xy: 146, 234
+  size: 136, 130
+  orig: 136, 130
+  offset: 0, 0
+  index: -1
+ldch12
+  rotate: false
+  xy: 146, 125
+  size: 187, 108
+  orig: 187, 108
+  offset: 0, 0
+  index: -1
+ldch2
+  rotate: false
+  xy: 1, 1
+  size: 153, 54
+  orig: 153, 54
+  offset: 0, 0
+  index: -1
+ldch3
+  rotate: true
+  xy: 1, 56
+  size: 314, 144
+  orig: 339, 151
+  offset: 5, 0
+  index: -1
+ldch5
+  rotate: false
+  xy: 155, 24
+  size: 159, 100
+  orig: 159, 100
+  offset: 0, 0
+  index: -1
+ldch6
+  rotate: false
+  xy: 1, 371
+  size: 148, 149
+  orig: 148, 149
+  offset: 0, 0
+  index: -1
+ldch8
+  rotate: false
+  xy: 150, 391
+  size: 133, 129
+  orig: 133, 129
+  offset: 0, 0
+  index: -1

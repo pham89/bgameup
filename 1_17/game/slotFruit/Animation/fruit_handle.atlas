@@ -1,0 +1,27 @@
+
+fruit_handle.png
+size: 323,323
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fruit_img_handle1
+  rotate: true
+  xy: 1, 1
+  size: 95, 227
+  orig: 98, 228
+  offset: 1, 0
+  index: -1
+fruit_img_handle2
+  rotate: true
+  xy: 113, 200
+  size: 122, 118
+  orig: 122, 118
+  offset: 0, 0
+  index: -1
+fruit_img_handle3
+  rotate: false
+  xy: 1, 97
+  size: 111, 225
+  orig: 112, 226
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+pubg_TOTALWIN.png
+size: 1005,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TOTAL_wln1
+  rotate: false
+  xy: 1, 168
+  size: 482, 477
+  orig: 482, 482
+  offset: 0, 5
+  index: -1
+TOTAL_wln2
+  rotate: true
+  xy: 678, 275
+  size: 370, 271
+  orig: 371, 273
+  offset: 1, 2
+  index: -1
+TOTAL_wln3
+  rotate: false
+  xy: 484, 112
+  size: 193, 533
+  orig: 193, 534
+  offset: 0, 1
+  index: -1
+TOTAL_wln4
+  rotate: false
+  xy: 678, 160
+  size: 326, 114
+  orig: 326, 115
+  offset: 0, 1
+  index: -1
+TOTAL_wln5
+  rotate: false
+  xy: 430, 22
+  size: 392, 89
+  orig: 393, 91
+  offset: 1, 2
+  index: -1
+TOTAL_wln6
+  rotate: true
+  xy: 799, 711
+  size: 293, 178
+  orig: 293, 178
+  offset: 0, 0
+  index: -1
+TOTAL_wln7
+  rotate: false
+  xy: 1, 646
+  size: 797, 358
+  orig: 797, 366
+  offset: 0, 1
+  index: -1
+vs1
+  rotate: false
+  xy: 1, 66
+  size: 428, 101
+  orig: 430, 105
+  offset: 2, 2
+  index: -1

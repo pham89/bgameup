@@ -1,0 +1,83 @@
+
+ganesh_slot_light.png
+size: 793,793
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22_00000
+  rotate: true
+  xy: 421, 393
+  size: 194, 215
+  orig: 220, 220
+  offset: 14, 3
+  index: -1
+22_00001
+  rotate: true
+  xy: 209, 198
+  size: 185, 214
+  orig: 220, 220
+  offset: 18, 3
+  index: -1
+22_00002
+  rotate: true
+  xy: 425, 198
+  size: 193, 214
+  orig: 220, 220
+  offset: 15, 3
+  index: -1
+22_00003
+  rotate: false
+  xy: 2, 580
+  size: 207, 211
+  orig: 220, 220
+  offset: 7, 5
+  index: -1
+22_00004
+  rotate: true
+  xy: 2, 368
+  size: 210, 205
+  orig: 220, 220
+  offset: 5, 8
+  index: -1
+22_00005
+  rotate: true
+  xy: 2, 154
+  size: 212, 198
+  orig: 220, 220
+  offset: 4, 12
+  index: -1
+22_00006
+  rotate: false
+  xy: 419, 8
+  size: 211, 188
+  orig: 220, 220
+  offset: 4, 17
+  index: -1
+22_00007
+  rotate: false
+  xy: 209, 385
+  size: 210, 193
+  orig: 220, 220
+  offset: 5, 14
+  index: -1
+22_00008
+  rotate: false
+  xy: 211, 582
+  size: 208, 209
+  orig: 220, 220
+  offset: 6, 7
+  index: -1
+22_00009
+  rotate: true
+  xy: 421, 589
+  size: 202, 213
+  orig: 220, 220
+  offset: 9, 5
+  index: -1
+22_00010
+  rotate: true
+  xy: 202, 2
+  size: 194, 215
+  orig: 220, 220
+  offset: 13, 4
+  index: -1

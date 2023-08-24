@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>XBiaoQing/jy/jiayou0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{32,109},{54,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,28}</string>
+			</dict>
+			<key>XBiaoQing/jy/jiayou01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,232},{51,28}}</string>
+				<key>offset</key>
+				<string>{-2,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{59,43}</string>
+			</dict>
+			<key>XBiaoQing/jy/jiayou02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,183},{46,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,49}</string>
+			</dict>
+			<key>XBiaoQing/jy/jiayou03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,109},{32,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,74}</string>
+			</dict>
+			<key>XBiaoQing/jy/jiayou04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{108,109}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,109}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>jy.png</string>
+			<key>realTextureFileName</key>
+			<string>jy.png</string>
+			<key>size</key>
+			<string>{108,283}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>108</integer>
+			<key>height</key>
+			<integer>283</integer>
+		</dict>
+	</dict>
+</plist>

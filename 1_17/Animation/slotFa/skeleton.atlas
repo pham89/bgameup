@@ -1,0 +1,230 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slot_cabaret_bg_pers_arm_left
+  rotate: false
+  xy: 886, 45
+  size: 100, 58
+  orig: 102, 59
+  offset: 2, 0
+  index: -1
+slot_cabaret_bg_pers_arm_right
+  rotate: true
+  xy: 832, 225
+  size: 65, 107
+  orig: 67, 107
+  offset: 2, 0
+  index: -1
+slot_cabaret_bg_pers_body
+  rotate: true
+  xy: 611, 28
+  size: 111, 207
+  orig: 113, 207
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_eye_left
+  rotate: true
+  xy: 51, 5
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_eye_left_closed
+  rotate: false
+  xy: 31, 3
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_eye_right
+  rotate: false
+  xy: 368, 16
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_eye_right_closed
+  rotate: false
+  xy: 400, 16
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_eyebrow_left
+  rotate: true
+  xy: 282, 75
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_eyebrow_right
+  rotate: true
+  xy: 282, 46
+  size: 27, 9
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_face
+  rotate: false
+  xy: 959, 340
+  size: 55, 69
+  orig: 55, 72
+  offset: 0, 2
+  index: -1
+slot_cabaret_bg_pers_feathers_down_1
+  rotate: false
+  xy: 296, 39
+  size: 233, 225
+  orig: 233, 225
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_feathers_down_2
+  rotate: true
+  xy: 2, 240
+  size: 269, 292
+  orig: 269, 292
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_feathers_down_base
+  rotate: false
+  xy: 820, 39
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_feathers_up_1
+  rotate: false
+  xy: 2, 23
+  size: 227, 215
+  orig: 227, 215
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_feathers_up_2
+  rotate: true
+  xy: 296, 266
+  size: 243, 322
+  orig: 243, 322
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_feathers_up_base
+  rotate: true
+  xy: 889, 169
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_feet_left
+  rotate: true
+  xy: 889, 114
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_feet_right
+  rotate: true
+  xy: 941, 237
+  size: 53, 78
+  orig: 53, 78
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_forearm_left
+  rotate: false
+  xy: 231, 6
+  size: 49, 83
+  orig: 49, 83
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_forearm_right
+  rotate: true
+  xy: 756, 217
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_hair_back
+  rotate: false
+  xy: 756, 143
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_hair_front
+  rotate: false
+  xy: 531, 170
+  size: 82, 94
+  orig: 82, 94
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_hip_left
+  rotate: true
+  xy: 756, 292
+  size: 80, 201
+  orig: 80, 201
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_hip_right
+  rotate: true
+  xy: 858, 411
+  size: 98, 155
+  orig: 98, 155
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_jewelry_back
+  rotate: false
+  xy: 231, 91
+  size: 59, 147
+  orig: 59, 147
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_jewelry_front
+  rotate: true
+  xy: 820, 105
+  size: 110, 67
+  orig: 110, 67
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_mouth
+  rotate: false
+  xy: 2, 2
+  size: 27, 19
+  orig: 28, 29
+  offset: 1, 0
+  index: -1
+slot_cabaret_bg_pers_shadow
+  rotate: true
+  xy: 620, 141
+  size: 368, 134
+  orig: 368, 134
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_shin_left
+  rotate: false
+  xy: 531, 25
+  size: 78, 143
+  orig: 78, 143
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_shin_right
+  rotate: false
+  xy: 756, 374
+  size: 100, 135
+  orig: 100, 135
+  offset: 0, 0
+  index: -1
+slot_cabaret_bg_pers_wrist_left
+  rotate: true
+  xy: 324, 5
+  size: 32, 42
+  orig: 32, 43
+  offset: 0, 1
+  index: -1
+slot_cabaret_bg_pers_wrist_right
+  rotate: true
+  xy: 282, 3
+  size: 34, 40
+  orig: 34, 41
+  offset: 0, 0
+  index: -1

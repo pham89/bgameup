@@ -1,0 +1,238 @@
+{
+"skeleton": {
+	"hash": "Rm8xZXI+2GGbKYWAFjvurhtxYq8",
+	"spine": "3.8.99",
+	"x": -555.93,
+	"y": -281.26,
+	"width": 1118.92,
+	"height": 251.9,
+	"images": "./images/",
+	"audio": "D:/新建文件夹/大特效/BIGWIN/新建文件夹 (2)"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" },
+	{ "name": "kogntou", "parent": "bone", "x": 13.74, "y": -206.01 },
+	{ "name": "BIGWIN", "parent": "bone", "y": 2.04 },
+	{ "name": "jbjb1", "parent": "bone", "rotation": 90, "x": 134.52, "y": -155.65 },
+	{
+		"name": "awm",
+		"parent": "bone",
+		"rotation": 60.31,
+		"x": -240.48,
+		"y": -197.33,
+		"scaleX": -1,
+		"scaleY": -1
+	},
+	{ "name": "jbjb2", "parent": "bone", "x": -106.48, "y": -143.53 },
+	{ "name": "yuk", "parent": "bone", "y": -123.05 },
+	{ "name": "toukui", "parent": "bone", "x": 241.9, "y": -211.5 },
+	{ "name": "dm", "parent": "bone", "x": 3.53, "y": -155.31, "scaleX": 2.9291, "scaleY": 2.9291 },
+	{ "name": "suixie", "parent": "bone", "scaleX": 2, "scaleY": 2 },
+	{ "name": "shuzi", "parent": "bone", "y": -123.05 }
+],
+"slots": [
+	{ "name": "dm", "bone": "dm", "attachment": "dm" },
+	{ "name": "kogntou", "bone": "kogntou" },
+	{ "name": "awm", "bone": "awm" },
+	{ "name": "toukui", "bone": "toukui" },
+	{ "name": "jbjb2", "bone": "jbjb2" },
+	{ "name": "jbjb1", "bone": "jbjb1" },
+	{ "name": "yuk", "bone": "yuk" },
+	{ "name": "shuzi", "bone": "shuzi" },
+	{ "name": "BIGWIN", "bone": "BIGWIN" },
+	{ "name": "suixie", "bone": "suixie", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"BIGWIN": {
+				"BIGWIN": { "width": 289, "height": 96 }
+			},
+			"awm": {
+				"awm": { "x": -181.93, "y": -17.93, "rotation": 95.08, "width": 67, "height": 377 }
+			},
+			"dm": {
+				"dm": { "width": 382, "height": 86 }
+			},
+			"jbjb1": {
+				"jbjb1": { "x": 50.45, "width": 148, "height": 283 }
+			},
+			"jbjb2": {
+				"jbjb2": { "y": 53.6, "width": 289, "height": 163 }
+			},
+			"kogntou": {
+				"kogntou": { "x": 3.54, "y": 179.75, "width": 352, "height": 329 }
+			},
+			"suixie": {
+				"suixie": { "width": 379, "height": 180 }
+			},
+			"toukui": {
+				"toukui": { "width": 130, "height": 116 }
+			},
+			"yuk": {
+				"yuk": { "width": 461, "height": 145 }
+			}
+		}
+	}
+],
+"animations": {
+	"BIGWIN": {
+		"slots": {
+			"BIGWIN": {
+				"attachment": [
+					{ "time": 0.3, "name": "BIGWIN" }
+				]
+			},
+			"awm": {
+				"attachment": [
+					{ "time": 0.3, "name": "awm" }
+				]
+			},
+			"dm": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "color": "ffffffff" }
+				]
+			},
+			"jbjb1": {
+				"attachment": [
+					{ "time": 0.2, "name": "jbjb1" }
+				]
+			},
+			"jbjb2": {
+				"attachment": [
+					{ "time": 0.1333, "name": "jbjb2" }
+				]
+			},
+			"kogntou": {
+				"attachment": [
+					{ "name": "kogntou" }
+				]
+			},
+			"shuzi": {
+				"color": [
+					{ "time": 0.2, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "color": "ffffffff" }
+				]
+			},
+			"suixie": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.2667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.0667, "name": "suixie" }
+				]
+			},
+			"toukui": {
+				"attachment": [
+					{ "time": 0.4, "name": "toukui" }
+				]
+			},
+			"yuk": {
+				"color": [
+					{ "time": 0.2, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0.2, "name": "yuk" }
+				]
+			}
+		},
+		"bones": {
+			"kogntou": {
+				"translate": [
+					{ "y": 497.25, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1333 }
+				],
+				"scale": [
+					{ "x": 0.903, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1333, "x": 1.088, "y": 0.908, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "x": 0.962, "y": 1.019, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5333, "x": 1.015, "y": 0.985 },
+					{ "time": 0.7667 }
+				]
+			},
+			"yuk": {
+				"scale": [
+					{ "time": 0.2, "x": 3, "y": 3, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3667, "x": 0.92, "y": 0.92, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "x": 1.05, "y": 1.05, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7667 }
+				]
+			},
+			"awm": {
+				"scale": [
+					{ "time": 0.3, "x": -0.01, "y": -0.01, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4667, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "x": 0.95, "y": 0.95, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9 }
+				]
+			},
+			"jbjb2": {
+				"scale": [
+					{ "time": 0.1333, "x": 0.01, "y": 0.01 },
+					{ "time": 0.2667, "x": 1.08, "y": 1.08 },
+					{ "time": 0.4667, "x": 0.96, "y": 0.96 },
+					{ "time": 0.6667 }
+				]
+			},
+			"jbjb1": {
+				"scale": [
+					{ "time": 0.2, "x": 0.01, "y": 0.01 },
+					{ "time": 0.3333, "x": 1.08, "y": 1.08 },
+					{ "time": 0.5333, "x": 0.96, "y": 0.96 },
+					{ "time": 0.7333 }
+				]
+			},
+			"BIGWIN": {
+				"scale": [
+					{ "time": 0.3, "x": 0.01, "y": 0.01 },
+					{ "time": 0.4667, "x": 1.05, "y": 1.05 },
+					{ "time": 0.6667, "x": 0.95, "y": 0.95 },
+					{ "time": 0.8333 }
+				]
+			},
+			"toukui": {
+				"scale": [
+					{ "time": 0.4, "x": 0.01, "y": 0.01, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5333, "x": 1.08, "y": 1.08, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "x": 0.96, "y": 0.96, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333 }
+				]
+			},
+			"dm": {
+				"scale": [
+					{ "x": 0.003, "y": 0.003, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "x": 1.061, "y": 1.061, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4333, "x": 0.986, "y": 0.986, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7 }
+				]
+			},
+			"suixie": {
+				"scale": [
+					{ "time": 0.0667, "x": 0.113, "y": 0.113 },
+					{ "time": 0.2667, "x": 3.231, "y": 3.231 }
+				]
+			},
+			"shuzi": {
+				"scale": [
+					{ "time": 0.2, "x": 3, "y": 3, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3667, "x": 0.92, "y": 0.92, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "x": 1.05, "y": 1.05, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7667 }
+				]
+			},
+			"bone": {
+				"scale": [
+					{ "time": 5, "curve": 0.287, "c3": 0.717 },
+					{ "time": 5.2, "x": 1.12, "y": 1.12, "curve": 0.287, "c3": 0.717 },
+					{ "time": 5.3333, "x": 0.001, "y": 0.001 }
+				]
+			}
+		}
+	}
+}
+}

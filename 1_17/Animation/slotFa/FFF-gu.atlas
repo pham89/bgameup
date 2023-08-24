@@ -1,0 +1,223 @@
+
+FFF-gu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slot_cabaret_singer_arm_left
+  rotate: true
+  xy: 1109, 246
+  size: 38, 107
+  orig: 38, 107
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_arm_right
+  rotate: false
+  xy: 1401, 377
+  size: 86, 133
+  orig: 86, 133
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_arm_right_bg
+  rotate: false
+  xy: 971, 286
+  size: 108, 224
+  orig: 108, 224
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_band
+  rotate: false
+  xy: 971, 240
+  size: 136, 44
+  orig: 136, 44
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_bg
+  rotate: false
+  xy: 256, 22
+  size: 241, 488
+  orig: 241, 488
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_bg_lights
+  rotate: false
+  xy: 2, 9
+  size: 252, 501
+  orig: 252, 501
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_body
+  rotate: false
+  xy: 730, 171
+  size: 211, 339
+  orig: 212, 339
+  offset: 1, 0
+  index: -1
+slot_cabaret_singer_body_bg
+  rotate: false
+  xy: 499, 167
+  size: 229, 343
+  orig: 229, 343
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_dress_up
+  rotate: true
+  xy: 976, 3
+  size: 169, 189
+  orig: 169, 189
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_eye_left
+  rotate: false
+  xy: 1127, 288
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_eye_right
+  rotate: false
+  xy: 1081, 286
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_eyebrow_left
+  rotate: true
+  xy: 1444, 214
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_eyebrow_right
+  rotate: false
+  xy: 1160, 291
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_face
+  rotate: false
+  xy: 1276, 365
+  size: 123, 145
+  orig: 123, 145
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_feathers
+  rotate: false
+  xy: 605, 6
+  size: 98, 159
+  orig: 98, 159
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_feathersbg
+  rotate: false
+  xy: 499, 3
+  size: 104, 162
+  orig: 104, 162
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_forearm_left
+  rotate: true
+  xy: 1029, 175
+  size: 63, 193
+  orig: 63, 193
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_forearm_left_bg
+  rotate: false
+  xy: 1081, 313
+  size: 69, 197
+  orig: 69, 197
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_forearm_right
+  rotate: false
+  xy: 1152, 315
+  size: 122, 195
+  orig: 122, 195
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_hair_back
+  rotate: false
+  xy: 705, 7
+  size: 93, 158
+  orig: 93, 158
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_hair_front
+  rotate: false
+  xy: 1249, 16
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_head
+  rotate: true
+  xy: 800, 2
+  size: 167, 174
+  orig: 167, 174
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_l
+  rotate: false
+  xy: 1334, 246
+  size: 116, 117
+  orig: 127, 129
+  offset: 7, 9
+  index: -1
+slot_cabaret_singer_mic_down
+  rotate: false
+  xy: 943, 240
+  size: 26, 270
+  orig: 26, 270
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_mic_up
+  rotate: true
+  xy: 943, 174
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_mouth
+  rotate: false
+  xy: 1276, 329
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_shadow
+  rotate: false
+  xy: 1167, 4
+  size: 80, 169
+  orig: 80, 169
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_shoulder
+  rotate: false
+  xy: 1367, 58
+  size: 78, 133
+  orig: 78, 133
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_wrist_left
+  rotate: true
+  xy: 1337, 193
+  size: 51, 105
+  orig: 51, 105
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_wrist_leftbg
+  rotate: true
+  xy: 1224, 182
+  size: 57, 111
+  orig: 57, 111
+  offset: 0, 0
+  index: -1
+slot_cabaret_singer_wrist_right
+  rotate: true
+  xy: 1218, 241
+  size: 72, 114
+  orig: 72, 114
+  offset: 0, 0
+  index: -1

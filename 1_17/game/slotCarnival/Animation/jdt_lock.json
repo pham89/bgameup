@@ -1,0 +1,143 @@
+{
+"skeleton": {
+	"hash": "7UQWhedMcLLGkYhJxDQkRYl7e7U",
+	"spine": "3.8.99",
+	"x": -263.5,
+	"y": -30,
+	"width": 527,
+	"height": 60,
+	"images": "./images/",
+	"audio": "D:/Carnival/spine/jdt/jdt_lock"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "all", "parent": "root" },
+	{ "name": "win", "parent": "all", "scaleX": 2, "scaleY": 2 }
+],
+"slots": [
+	{ "name": "bg_zjm3", "bone": "all", "attachment": "bg_zjm3" },
+	{ "name": "text_wjs", "bone": "all", "attachment": "text_wjs" },
+	{ "name": "lock_00", "bone": "win", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bg_zjm3": {
+				"bg_zjm3": { "width": 527, "height": 60 }
+			},
+			"lock_00": {
+				"lock_00": { "width": 400, "height": 150 },
+				"lock_01": { "width": 400, "height": 150 },
+				"lock_02": { "width": 400, "height": 150 },
+				"lock_03": { "width": 400, "height": 150 },
+				"lock_04": { "width": 400, "height": 150 },
+				"lock_05": { "width": 400, "height": 150 },
+				"lock_06": { "width": 400, "height": 150 },
+				"lock_07": { "width": 400, "height": 150 },
+				"lock_08": { "width": 400, "height": 150 },
+				"lock_09": { "width": 400, "height": 150 },
+				"lock_10": { "width": 400, "height": 150 },
+				"lock_11": { "width": 400, "height": 150 },
+				"lock_12": { "width": 400, "height": 150 },
+				"lock_13": { "width": 400, "height": 150 },
+				"lock_14": { "width": 400, "height": 150 },
+				"lock_15": { "width": 400, "height": 150 },
+				"lock_16": { "width": 400, "height": 150 },
+				"lock_17": { "width": 400, "height": 150 },
+				"lock_18": { "width": 400, "height": 150 },
+				"lock_19": { "width": 400, "height": 150 },
+				"lock_20": { "width": 400, "height": 150 },
+				"lock_21": { "width": 400, "height": 150 },
+				"lock_22": { "width": 400, "height": 150 },
+				"lock_23": { "width": 400, "height": 150 },
+				"lock_24": { "width": 400, "height": 150 },
+				"lock_25": { "width": 400, "height": 150 },
+				"lock_26": { "width": 400, "height": 150 },
+				"lock_27": { "width": 400, "height": 150 },
+				"lock_28": { "width": 400, "height": 150 }
+			},
+			"text_wjs": {
+				"text_wjs": { "y": -4, "width": 320, "height": 25 }
+			}
+		}
+	}
+],
+"animations": {
+	"lock": {
+		"slots": {
+			"bg_zjm3": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				]
+			},
+			"text_wjs": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				]
+			}
+		}
+	},
+	"lock_wait": {
+		"slots": {
+			"text_wjs": {
+				"attachment": [
+					{ "time": 0.1667, "name": "text_wjs" }
+				]
+			}
+		}
+	},
+	"unlock": {
+		"slots": {
+			"bg_zjm3": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			},
+			"lock_00": {
+				"attachment": [
+					{ "name": "lock_00" },
+					{ "time": 0.0333, "name": "lock_01" },
+					{ "time": 0.0667, "name": "lock_02" },
+					{ "time": 0.1, "name": "lock_03" },
+					{ "time": 0.1333, "name": "lock_04" },
+					{ "time": 0.1667, "name": "lock_05" },
+					{ "time": 0.2, "name": "lock_06" },
+					{ "time": 0.2333, "name": "lock_07" },
+					{ "time": 0.2667, "name": "lock_08" },
+					{ "time": 0.3, "name": "lock_09" },
+					{ "time": 0.3333, "name": "lock_10" },
+					{ "time": 0.3667, "name": "lock_11" },
+					{ "time": 0.4, "name": "lock_12" },
+					{ "time": 0.4333, "name": "lock_13" },
+					{ "time": 0.4667, "name": "lock_14" },
+					{ "time": 0.5, "name": "lock_15" },
+					{ "time": 0.5333, "name": "lock_16" },
+					{ "time": 0.5667, "name": "lock_17" },
+					{ "time": 0.6, "name": "lock_18" },
+					{ "time": 0.6333, "name": "lock_19" },
+					{ "time": 0.6667, "name": "lock_20" },
+					{ "time": 0.7, "name": "lock_21" },
+					{ "time": 0.7333, "name": "lock_22" },
+					{ "time": 0.7667, "name": "lock_23" },
+					{ "time": 0.8, "name": "lock_24" },
+					{ "time": 0.8333, "name": "lock_25" },
+					{ "time": 0.8667, "name": "lock_26" },
+					{ "time": 0.9, "name": "lock_27" },
+					{ "time": 0.9333, "name": "lock_28" },
+					{ "time": 0.9667, "name": null }
+				]
+			},
+			"text_wjs": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}

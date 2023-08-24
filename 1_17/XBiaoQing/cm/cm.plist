@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>XBiaoQing/cm/cm01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{78,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,68}</string>
+			</dict>
+			<key>XBiaoQing/cm/cm02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{78,0},{78,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,62}</string>
+			</dict>
+			<key>XBiaoQing/cm/cm03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{156,0},{78,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,57}</string>
+			</dict>
+			<key>XBiaoQing/cm/cm04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{459,0},{35,15}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{35,15}</string>
+			</dict>
+			<key>XBiaoQing/cm/cm05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{430,0},{29,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{29,20}</string>
+			</dict>
+			<key>XBiaoQing/cm/cm06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{234,0},{53,76}}</string>
+				<key>offset</key>
+				<string>{-1,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{57,80}</string>
+			</dict>
+			<key>XBiaoQing/cm/cm06_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{310,0},{46,67}}</string>
+				<key>offset</key>
+				<string>{-2,-6}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{128,128}</string>
+			</dict>
+			<key>XBiaoQing/cm/cm07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{377,0},{53,30}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{57,38}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>cm.png</string>
+			<key>realTextureFileName</key>
+			<string>cm.png</string>
+			<key>size</key>
+			<string>{494,68}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>494</integer>
+			<key>height</key>
+			<integer>68</integer>
+		</dict>
+	</dict>
+</plist>

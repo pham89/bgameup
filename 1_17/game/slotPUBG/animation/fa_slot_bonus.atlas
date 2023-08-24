@@ -1,0 +1,48 @@
+
+fa_slot_bonus.png
+size: 270,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+awm
+  rotate: true
+  xy: 2, 17
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: true
+  xy: 154, 146
+  size: 122, 114
+  orig: 123, 114
+  offset: 0, 0
+  index: -1
+jf
+  rotate: true
+  xy: 154, 14
+  size: 130, 95
+  orig: 130, 95
+  offset: 0, 0
+  index: -1
+mini
+  rotate: false
+  xy: 110, 42
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+minor
+  rotate: true
+  xy: 110, 65
+  size: 68, 28
+  orig: 68, 28
+  offset: 0, 0
+  index: -1
+uikk
+  rotate: false
+  xy: 2, 135
+  size: 150, 133
+  orig: 150, 133
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>game/slotFruit/Animation/fruit_element_watermelon/watermelon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{137,134}}</string>
+				<key>offset</key>
+				<string>{-6,12}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{158,158}</string>
+			</dict>
+			<key>game/slotFruit/Animation/fruit_element_watermelon/watermelonfaguang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{140,1},{136,113}}</string>
+				<key>offset</key>
+				<string>{-6,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{158,158}</string>
+			</dict>
+			<key>game/slotFruit/Animation/fruit_element_watermelon/watermelontouyin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{278,1},{148,100}}</string>
+				<key>offset</key>
+				<string>{0,-25}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{158,158}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist_watermelon.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist_watermelon.png</string>
+			<key>size</key>
+			<string>{427,136}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>427</integer>
+			<key>height</key>
+			<integer>136</integer>
+		</dict>
+	</dict>
+</plist>

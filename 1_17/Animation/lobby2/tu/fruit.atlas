@@ -1,0 +1,104 @@
+
+fruit.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1fruit
+  rotate: true
+  xy: 192, 107
+  size: 180, 53
+  orig: 182, 56
+  offset: 1, 2
+  index: -1
+2fruit
+  rotate: true
+  xy: 246, 244
+  size: 43, 36
+  orig: 43, 37
+  offset: 0, 1
+  index: -1
+3fruit
+  rotate: true
+  xy: 246, 203
+  size: 40, 30
+  orig: 41, 31
+  offset: 1, 0
+  index: -1
+4fruit
+  rotate: false
+  xy: 1, 1
+  size: 111, 93
+  orig: 111, 93
+  offset: 0, 0
+  index: -1
+5fruit
+  rotate: false
+  xy: 192, 33
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+6fruit
+  rotate: false
+  xy: 113, 18
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+7fruit
+  rotate: false
+  xy: 1, 95
+  size: 190, 192
+  orig: 194, 195
+  offset: 2, 2
+  index: -1
+86fruit
+  rotate: false
+  xy: 192, 1
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+999
+  rotate: false
+  xy: 246, 115
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+GOODLUCK
+  rotate: true
+  xy: 113, 2
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+GRAND
+  rotate: false
+  xy: 246, 181
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+MLNOR
+  rotate: false
+  xy: 246, 181
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+MAJOBR
+  rotate: false
+  xy: 246, 137
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+MINL
+  rotate: false
+  xy: 246, 159
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+FFF-gong.png
+size: 702,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gong-huG
+  rotate: false
+  xy: 158, 46
+  size: 121, 103
+  orig: 121, 103
+  offset: 0, 0
+  index: -1
+Gong-xuG
+  rotate: false
+  xy: 2, 19
+  size: 154, 130
+  orig: 154, 130
+  offset: 0, 0
+  index: -1
+Gong-zi
+  rotate: false
+  xy: 281, 51
+  size: 118, 98
+  orig: 118, 98
+  offset: 0, 0
+  index: -1
+Gong-zsg0003
+  rotate: false
+  xy: 2, 10
+  size: 104, 7
+  orig: 104, 7
+  offset: 0, 0
+  index: -1
+Gong-zsg0005
+  rotate: true
+  xy: 665, 42
+  size: 107, 17
+  orig: 107, 17
+  offset: 0, 0
+  index: -1
+Gong-zsg0007
+  rotate: false
+  xy: 158, 17
+  size: 107, 27
+  orig: 107, 27
+  offset: 0, 0
+  index: -1
+Gong-zsg0009
+  rotate: false
+  xy: 390, 3
+  size: 107, 37
+  orig: 107, 37
+  offset: 0, 0
+  index: -1
+Gong-zsg0011
+  rotate: false
+  xy: 281, 2
+  size: 107, 47
+  orig: 107, 47
+  offset: 0, 0
+  index: -1
+Gong-zsg0013
+  rotate: false
+  xy: 401, 97
+  size: 107, 52
+  orig: 107, 52
+  offset: 0, 0
+  index: -1
+Gong-zsg0015
+  rotate: false
+  xy: 510, 97
+  size: 105, 52
+  orig: 105, 52
+  offset: 0, 0
+  index: -1
+Gong-zsg0017
+  rotate: false
+  xy: 401, 42
+  size: 105, 53
+  orig: 105, 53
+  offset: 0, 0
+  index: -1
+Gong-zsg0019
+  rotate: false
+  xy: 508, 42
+  size: 105, 53
+  orig: 105, 53
+  offset: 0, 0
+  index: -1
+Gong-zsg0021
+  rotate: true
+  xy: 617, 44
+  size: 105, 46
+  orig: 105, 46
+  offset: 0, 0
+  index: -1
+Gong-zsg0023
+  rotate: false
+  xy: 499, 3
+  size: 105, 37
+  orig: 105, 37
+  offset: 0, 0
+  index: -1
+Gong-zsg0025
+  rotate: false
+  xy: 606, 14
+  size: 93, 26
+  orig: 93, 26
+  offset: 0, 0
+  index: -1
+Gong-zsg0027
+  rotate: true
+  xy: 684, 56
+  size: 93, 16
+  orig: 93, 16
+  offset: 0, 0
+  index: -1
+Gong-zsg0028
+  rotate: false
+  xy: 108, 4
+  size: 73, 11
+  orig: 73, 11
+  offset: 0, 0
+  index: -1

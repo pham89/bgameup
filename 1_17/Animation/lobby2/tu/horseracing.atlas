@@ -1,0 +1,83 @@
+
+horseracing.png
+size: 392,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10horseracing
+  rotate: false
+  xy: 203, 93
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+11horseracing
+  rotate: false
+  xy: 1, 196
+  size: 194, 195
+  orig: 194, 195
+  offset: 0, 0
+  index: -1
+1horseracing
+  rotate: true
+  xy: 138, 71
+  size: 124, 64
+  orig: 126, 65
+  offset: 1, 1
+  index: -1
+2horseracing
+  rotate: false
+  xy: 203, 76
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+3horseracing
+  rotate: true
+  xy: 62, 1
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+4horseracing
+  rotate: true
+  xy: 138, 3
+  size: 67, 76
+  orig: 67, 76
+  offset: 0, 0
+  index: -1
+5horseracing
+  rotate: false
+  xy: 1, 1
+  size: 60, 10
+  orig: 60, 10
+  offset: 0, 0
+  index: -1
+6horseracing
+  rotate: true
+  xy: 196, 321
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+7horseracing
+  rotate: false
+  xy: 196, 208
+  size: 37, 112
+  orig: 37, 112
+  offset: 0, 0
+  index: -1
+8horseracing
+  rotate: true
+  xy: 1, 12
+  size: 183, 136
+  orig: 183, 136
+  offset: 0, 0
+  index: -1
+9horseracing
+  rotate: false
+  xy: 203, 147
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1

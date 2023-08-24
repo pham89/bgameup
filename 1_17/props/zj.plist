@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>props/zj/body.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{83,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{83,75}</string>
+			</dict>
+			<key>props/zj/cb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,1},{60,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{60,36}</string>
+			</dict>
+			<key>props/zj/j01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{170,116},{32,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{32,38}</string>
+			</dict>
+			<key>props/zj/j02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{89,230},{23,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{23,39}</string>
+			</dict>
+			<key>props/zj/s01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{89,168},{60,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{60,45}</string>
+			</dict>
+			<key>props/zj/s02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{67,86},{64,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{64,80}</string>
+			</dict>
+			<key>props/zj/shou.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,173},{86,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,62}</string>
+			</dict>
+			<key>props/zj/tou01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{136,153},{35,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{35,66}</string>
+			</dict>
+			<key>props/zj/tou02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{133,84},{35,67}}</string>
+				<key>offset</key>
+				<string>{3,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{66,67}</string>
+			</dict>
+			<key>props/zj/w01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,86},{64,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{64,85}</string>
+			</dict>
+			<key>props/zj/w02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{78,1},{63,81}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{63,81}</string>
+			</dict>
+			<key>props/zj/yan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{181,1},{44,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,37}</string>
+			</dict>
+			<key>props/zj/ym01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{130,230},{36,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,24}</string>
+			</dict>
+			<key>props/zj/ym02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{168,221},{43,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{43,30}</string>
+			</dict>
+			<key>props/zj/zhi01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{209,47},{30,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,35}</string>
+			</dict>
+			<key>props/zj/zhi02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{170,63},{37,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{37,51}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>zj.png</string>
+			<key>realTextureFileName</key>
+			<string>zj.png</string>
+			<key>size</key>
+			<string>{240,255}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>240</integer>
+			<key>height</key>
+			<integer>255</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,76 @@
+
+light4.png
+size: 1206,1206
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+light3_00000
+  rotate: false
+  xy: 1, 645
+  size: 240, 560
+  orig: 240, 560
+  offset: 0, 0
+  index: -1
+light3_00002
+  rotate: false
+  xy: 1, 84
+  size: 240, 560
+  orig: 240, 560
+  offset: 0, 0
+  index: -1
+light3_00004
+  rotate: false
+  xy: 242, 645
+  size: 240, 560
+  orig: 240, 560
+  offset: 0, 0
+  index: -1
+light3_00006
+  rotate: false
+  xy: 242, 84
+  size: 240, 560
+  orig: 240, 560
+  offset: 0, 0
+  index: -1
+light3_00008
+  rotate: false
+  xy: 483, 645
+  size: 240, 560
+  orig: 240, 560
+  offset: 0, 0
+  index: -1
+light3_00010
+  rotate: false
+  xy: 483, 84
+  size: 240, 560
+  orig: 240, 560
+  offset: 0, 0
+  index: -1
+light3_00012
+  rotate: false
+  xy: 724, 645
+  size: 240, 560
+  orig: 240, 560
+  offset: 0, 0
+  index: -1
+light3_00014
+  rotate: false
+  xy: 724, 84
+  size: 240, 560
+  orig: 240, 560
+  offset: 0, 0
+  index: -1
+light3_00016
+  rotate: false
+  xy: 965, 645
+  size: 240, 560
+  orig: 240, 560
+  offset: 0, 0
+  index: -1
+light3_00018
+  rotate: false
+  xy: 965, 84
+  size: 240, 560
+  orig: 240, 560
+  offset: 0, 0
+  index: -1

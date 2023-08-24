@@ -1,0 +1,153 @@
+
+ganesh_slot_light.png
+size: 1381,1381
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+22_00000
+  rotate: false
+  xy: 520, 796
+  size: 268, 291
+  orig: 300, 300
+  offset: 24, 0
+  index: -1
+22_00001
+  rotate: false
+  xy: 553, 208
+  size: 254, 290
+  orig: 300, 300
+  offset: 29, 0
+  index: -1
+22_00002
+  rotate: false
+  xy: 551, 1090
+  size: 259, 290
+  orig: 300, 300
+  offset: 24, 0
+  index: -1
+22_00003
+  rotate: true
+  xy: 1092, 1101
+  size: 279, 288
+  orig: 300, 300
+  offset: 11, 0
+  index: -1
+22_00004
+  rotate: true
+  xy: 786, 506
+  size: 289, 284
+  orig: 300, 300
+  offset: 4, 1
+  index: -1
+22_00005
+  rotate: true
+  xy: 1, 201
+  size: 293, 271
+  orig: 300, 300
+  offset: 2, 9
+  index: -1
+22_00006
+  rotate: true
+  xy: 257, 496
+  size: 293, 258
+  orig: 300, 300
+  offset: 1, 17
+  index: -1
+22_00007
+  rotate: true
+  xy: 261, 791
+  size: 293, 258
+  orig: 300, 300
+  offset: 1, 20
+  index: -1
+22_00008
+  rotate: true
+  xy: 789, 800
+  size: 289, 281
+  orig: 300, 300
+  offset: 3, 11
+  index: -1
+22_00009
+  rotate: false
+  xy: 270, 1088
+  size: 280, 292
+  orig: 300, 300
+  offset: 8, 7
+  index: -1
+22_00010
+  rotate: false
+  xy: 1, 1085
+  size: 268, 295
+  orig: 300, 300
+  offset: 15, 5
+  index: -1
+22_00011
+  rotate: false
+  xy: 1, 495
+  size: 255, 294
+  orig: 300, 300
+  offset: 24, 6
+  index: -1
+22_00012
+  rotate: false
+  xy: 1, 790
+  size: 259, 294
+  orig: 300, 300
+  offset: 26, 6
+  index: -1
+22_00013
+  rotate: false
+  xy: 273, 203
+  size: 279, 292
+  orig: 300, 300
+  offset: 18, 8
+  index: -1
+22_00014
+  rotate: true
+  xy: 808, 24
+  size: 286, 283
+  orig: 300, 300
+  offset: 14, 12
+  index: -1
+22_00015
+  rotate: false
+  xy: 1092, 829
+  size: 288, 271
+  orig: 300, 300
+  offset: 12, 17
+  index: -1
+22_00016
+  rotate: false
+  xy: 1071, 570
+  size: 287, 258
+  orig: 300, 300
+  offset: 13, 21
+  index: -1
+22_00017
+  rotate: false
+  xy: 1071, 311
+  size: 287, 258
+  orig: 300, 300
+  offset: 13, 18
+  index: -1
+22_00018
+  rotate: false
+  xy: 1092, 29
+  size: 285, 281
+  orig: 300, 300
+  offset: 15, 4
+  index: -1
+22_00019
+  rotate: false
+  xy: 811, 1091
+  size: 280, 289
+  orig: 300, 300
+  offset: 19, 0
+  index: -1
+22_00020
+  rotate: false
+  xy: 516, 499
+  size: 269, 291
+  orig: 300, 300
+  offset: 23, 0
+  index: -1

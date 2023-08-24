@@ -1,0 +1,48 @@
+
+ganesh_slot_gung.png
+size: 535,535
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+0619
+  rotate: false
+  xy: 368, 208
+  size: 75, 75
+  orig: 77, 77
+  offset: 2, 2
+  index: -1
+fish31_6
+  rotate: false
+  xy: 368, 176
+  size: 31, 31
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+fsg
+  rotate: false
+  xy: 1, 176
+  size: 366, 358
+  orig: 368, 359
+  offset: 1, 1
+  index: -1
+gai2_guang2
+  rotate: false
+  xy: 1, 1
+  size: 516, 174
+  orig: 520, 245
+  offset: 1, 58
+  index: -1
+gxtx
+  rotate: false
+  xy: 368, 284
+  size: 118, 120
+  orig: 128, 128
+  offset: 7, 5
+  index: -1
+texiao_5
+  rotate: false
+  xy: 368, 405
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1

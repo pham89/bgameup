@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>props/zt02/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{120,162},{110,110}}</string>
+				<key>offset</key>
+				<string>{-2,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{117,110}</string>
+			</dict>
+			<key>props/zt02/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{218,274},{101,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{101,102}</string>
+			</dict>
+			<key>props/zt02/o.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{159,146}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{160,147}</string>
+			</dict>
+			<key>props/zt02/single.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,425},{90,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,82}</string>
+			</dict>
+			<key>props/zt02/yan_00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{149,1},{102,118}}</string>
+				<key>offset</key>
+				<string>{-1,-5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>props/zt02/yan_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,290},{119,103}}</string>
+				<key>offset</key>
+				<string>{4,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>props/zt02/yan_00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,290},{133,110}}</string>
+				<key>offset</key>
+				<string>{7,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>props/zt02/yan_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,162},{126,117}}</string>
+				<key>offset</key>
+				<string>{1,-3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>props/zt02/zazhuantou05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{93,425},{34,80}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{35,80}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>zt02.png</string>
+			<key>realTextureFileName</key>
+			<string>zt02.png</string>
+			<key>size</key>
+			<string>{320,508}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>320</integer>
+			<key>height</key>
+			<integer>508</integer>
+		</dict>
+	</dict>
+</plist>

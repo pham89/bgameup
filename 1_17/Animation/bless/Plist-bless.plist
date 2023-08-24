@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/bless/tu/star.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{140,1},{24,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,24}</string>
+			</dict>
+			<key>Animation/bless/tu/t_Bless.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{89,1},{49,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{49,22}</string>
+			</dict>
+			<key>Animation/bless/tu/tb_hglb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{86,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,64}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-bless.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-bless.png</string>
+			<key>size</key>
+			<string>{165,66}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>165</integer>
+			<key>height</key>
+			<integer>66</integer>
+		</dict>
+	</dict>
+</plist>

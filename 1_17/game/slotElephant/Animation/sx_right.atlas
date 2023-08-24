@@ -1,0 +1,90 @@
+
+sx_right.png
+size: 1204,1204
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+xiangshen_00030
+  rotate: true
+  xy: 1, 631
+  size: 193, 500
+  orig: 200, 500
+  offset: 7, 0
+  index: -1
+xiangshen_00032
+  rotate: true
+  xy: 502, 624
+  size: 196, 500
+  orig: 200, 500
+  offset: 4, 0
+  index: -1
+xiangshen_00034
+  rotate: true
+  xy: 502, 1014
+  size: 189, 491
+  orig: 200, 500
+  offset: 11, 9
+  index: -1
+xiangshen_00036
+  rotate: true
+  xy: 1, 825
+  size: 192, 500
+  orig: 194, 500
+  offset: 1, 0
+  index: -1
+xiangshen_00038
+  rotate: true
+  xy: 1, 236
+  size: 197, 500
+  orig: 200, 500
+  offset: 0, 0
+  index: -1
+xiangshen_00040
+  rotate: true
+  xy: 502, 821
+  size: 192, 500
+  orig: 196, 500
+  offset: 2, 0
+  index: -1
+xiangshen_00042
+  rotate: true
+  xy: 1, 1018
+  size: 185, 500
+  orig: 192, 500
+  offset: 7, 0
+  index: -1
+xiangshen_00044
+  rotate: true
+  xy: 1, 434
+  size: 196, 500
+  orig: 200, 500
+  offset: 4, 0
+  index: -1
+xiangshen_00046
+  rotate: true
+  xy: 502, 226
+  size: 200, 500
+  orig: 200, 500
+  offset: 0, 0
+  index: -1
+xiangshen_00048
+  rotate: false
+  xy: 1003, 202
+  size: 200, 500
+  orig: 200, 500
+  offset: 0, 0
+  index: -1
+xiangshen_00050
+  rotate: true
+  xy: 502, 427
+  size: 196, 500
+  orig: 200, 500
+  offset: 4, 0
+  index: -1
+xiangshen_00052
+  rotate: false
+  xy: 1003, 703
+  size: 200, 500
+  orig: 200, 500
+  offset: 0, 0
+  index: -1

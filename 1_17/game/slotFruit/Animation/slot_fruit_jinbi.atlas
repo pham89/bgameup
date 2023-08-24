@@ -1,0 +1,41 @@
+
+slot_fruit_jinbi.png
+size: 137,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caishen1_jb1
+  rotate: false
+  xy: 1, 69
+  size: 67, 67
+  orig: 82, 90
+  offset: 8, 12
+  index: -1
+caishen1_jb2
+  rotate: false
+  xy: 1, 1
+  size: 60, 67
+  orig: 82, 90
+  offset: 12, 12
+  index: -1
+caishen1_jb3
+  rotate: false
+  xy: 62, 1
+  size: 36, 67
+  orig: 82, 90
+  offset: 24, 12
+  index: -1
+caishen1_jb4
+  rotate: false
+  xy: 99, 1
+  size: 20, 67
+  orig: 82, 90
+  offset: 32, 12
+  index: -1
+caishen1_jb5
+  rotate: false
+  xy: 69, 69
+  size: 50, 67
+  orig: 82, 90
+  offset: 17, 12
+  index: -1

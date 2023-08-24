@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/tu/hupai/00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{110,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,140}</string>
+			</dict>
+			<key>Animation/tu/hupai/02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,1},{110,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,140}</string>
+			</dict>
+			<key>Animation/tu/hupai/04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{285,1},{110,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,140}</string>
+			</dict>
+			<key>Animation/tu/hupai/06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,113},{110,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,140}</string>
+			</dict>
+			<key>Animation/tu/hupai/08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,113},{110,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,140}</string>
+			</dict>
+			<key>Animation/tu/hupai/10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{285,113},{110,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,140}</string>
+			</dict>
+			<key>Animation/tu/hupai/12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,225},{110,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,140}</string>
+			</dict>
+			<key>Animation/tu/hupai/14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,225},{110,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,140}</string>
+			</dict>
+			<key>Animation/tu/hupai/16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{285,225},{110,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,140}</string>
+			</dict>
+			<key>Animation/tu/hupai/18.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,337},{110,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,140}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-hupai.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-hupai.png</string>
+			<key>size</key>
+			<string>{426,448}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>426</integer>
+			<key>height</key>
+			<integer>448</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,272 @@
+
+FFF-Jackpoot.png
+size: 825,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FFF-JK-A
+  rotate: true
+  xy: 641, 112
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+FFF-JK-C
+  rotate: true
+  xy: 705, 2
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+FFF-JK-J
+  rotate: true
+  xy: 767, 2
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+FFF-JK-K
+  rotate: false
+  xy: 669, 81
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+FFF-JK-O
+  rotate: true
+  xy: 669, 115
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+FFF-JK-P
+  rotate: false
+  xy: 641, 77
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+FFF-JK-T
+  rotate: true
+  xy: 780, 86
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+FFF-JK-Ybu-a
+  rotate: true
+  xy: 650, 149
+  size: 17, 47
+  orig: 17, 47
+  offset: 0, 0
+  index: -1
+FFF-JK-Ybu-b
+  rotate: true
+  xy: 783, 306
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+FFF-JK-Zbu-a
+  rotate: false
+  xy: 779, 115
+  size: 17, 47
+  orig: 17, 47
+  offset: 0, 0
+  index: -1
+FFF-JK-Zbu-b
+  rotate: true
+  xy: 783, 283
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+FFF-JK-buchongbu
+  rotate: false
+  xy: 798, 130
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+FFF-JK-daying
+  rotate: false
+  xy: 2, 253
+  size: 584, 74
+  orig: 584, 74
+  offset: 0, 0
+  index: -1
+FFF-JK-jinbian
+  rotate: false
+  xy: 2, 126
+  size: 560, 62
+  orig: 560, 62
+  offset: 0, 0
+  index: -1
+FFF-JK-neiguang
+  rotate: false
+  xy: 2, 82
+  size: 500, 42
+  orig: 500, 42
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaA
+  rotate: true
+  xy: 781, 164
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaB
+  rotate: false
+  xy: 781, 204
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaC
+  rotate: true
+  xy: 650, 168
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaD
+  rotate: false
+  xy: 504, 65
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaE
+  rotate: true
+  xy: 636, 2
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaF
+  rotate: true
+  xy: 565, 2
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaG
+  rotate: false
+  xy: 705, 31
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaH
+  rotate: false
+  xy: 243, 5
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaI
+  rotate: false
+  xy: 702, 251
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaJ
+  rotate: false
+  xy: 2, 2
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaK
+  rotate: true
+  xy: 162, 4
+  size: 76, 79
+  orig: 76, 79
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaL
+  rotate: true
+  xy: 80, 3
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaM
+  rotate: true
+  xy: 320, 6
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaN
+  rotate: true
+  xy: 572, 147
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaO
+  rotate: true
+  xy: 702, 177
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaP
+  rotate: true
+  xy: 398, 7
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaQ
+  rotate: false
+  xy: 565, 69
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaR
+  rotate: true
+  xy: 702, 106
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaS
+  rotate: false
+  xy: 477, 5
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+FFF-JK-yanhuaT
+  rotate: false
+  xy: 783, 247
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+FFF-JK-yiguang
+  rotate: false
+  xy: 739, 2
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+FFF-JK-zhuban
+  rotate: false
+  xy: 2, 190
+  size: 568, 61
+  orig: 568, 61
+  offset: 0, 0
+  index: -1
+FFF-guang
+  rotate: true
+  xy: 588, 221
+  size: 106, 112
+  orig: 106, 112
+  offset: 0, 0
+  index: -1

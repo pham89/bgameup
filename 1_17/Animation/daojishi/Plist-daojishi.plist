@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/daojishi/tu/guanyun1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{370,231}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{370,231}</string>
+			</dict>
+			<key>Animation/daojishi/tu/guanyun2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{373,1},{201,138}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{201,138}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-daojishi.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-daojishi.png</string>
+			<key>size</key>
+			<string>{512,233}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>233</integer>
+		</dict>
+	</dict>
+</plist>

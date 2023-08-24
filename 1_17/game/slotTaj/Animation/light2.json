@@ -1,0 +1,86 @@
+{
+"skeleton": {
+	"hash": "87fOMZZI5EB+2yCExgjQ4FfpsrE",
+	"spine": "3.8.99",
+	"x": -122.54,
+	"y": -355.76,
+	"width": 244,
+	"height": 513.96,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "light2_00000", "parent": "root", "x": -0.54, "scaleY": 0.9361 }
+],
+"slots": [
+	{ "name": "light2_00000", "bone": "light2_00000", "color": "ffffff89", "attachment": "light2_00004", "blend": "additive" },
+	{ "name": "light2_0", "bone": "light2_00000", "attachment": "light2_00004" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"light2_0": {
+				"light2_00000": { "width": 244, "height": 337 },
+				"light2_00002": { "y": 0.5, "width": 244, "height": 337 },
+				"light2_00004": { "y": 0.5, "width": 244, "height": 337 },
+				"light2_00006": { "y": 0.5, "width": 244, "height": 337 },
+				"light2_00008": { "y": 0.5, "rotation": -0.02, "width": 244, "height": 337 },
+				"light2_00010": { "y": 0.5, "width": 244, "height": 337 },
+				"light2_00012": { "y": 0.5, "width": 244, "height": 337 },
+				"light2_00014": { "y": 0.5, "width": 244, "height": 337 },
+				"light2_00016": { "y": 0.5, "width": 244, "height": 337 },
+				"light2_00018": { "y": 0.5, "width": 244, "height": 337 }
+			},
+			"light2_00000": {
+				"light2_00000": { "width": 244, "height": 337 },
+				"light2_00002": { "y": 0.5, "width": 244, "height": 337 },
+				"light2_00004": { "y": 0.5, "width": 244, "height": 337 },
+				"light2_00006": { "y": 0.5, "width": 244, "height": 337 },
+				"light2_00008": { "y": 0.5, "rotation": -0.02, "width": 244, "height": 337 },
+				"light2_00010": { "y": 0.5, "width": 244, "height": 337 },
+				"light2_00012": { "y": 0.5, "width": 244, "height": 337 },
+				"light2_00014": { "y": 0.5, "width": 244, "height": 337 },
+				"light2_00016": { "y": 0.5, "width": 244, "height": 337 },
+				"light2_00018": { "y": 0.5, "width": 244, "height": 337 }
+			}
+		}
+	}
+],
+"animations": {
+	"light2": {
+		"slots": {
+			"light2_0": {
+				"attachment": [
+					{ "name": "light2_00000" },
+					{ "time": 0.0667, "name": "light2_00002" },
+					{ "time": 0.1333, "name": "light2_00004" },
+					{ "time": 0.2, "name": "light2_00006" },
+					{ "time": 0.2667, "name": "light2_00008" },
+					{ "time": 0.3333, "name": "light2_00010" },
+					{ "time": 0.4, "name": "light2_00012" },
+					{ "time": 0.4667, "name": "light2_00014" },
+					{ "time": 0.5333, "name": "light2_00016" },
+					{ "time": 0.6, "name": "light2_00018" }
+				]
+			},
+			"light2_00000": {
+				"attachment": [
+					{ "name": "light2_00000" },
+					{ "time": 0.0667, "name": "light2_00002" },
+					{ "time": 0.1333, "name": "light2_00004" },
+					{ "time": 0.2, "name": "light2_00006" },
+					{ "time": 0.2667, "name": "light2_00008" },
+					{ "time": 0.3333, "name": "light2_00010" },
+					{ "time": 0.4, "name": "light2_00012" },
+					{ "time": 0.4667, "name": "light2_00014" },
+					{ "time": 0.5333, "name": "light2_00016" },
+					{ "time": 0.6, "name": "light2_00018" },
+					{ "time": 0.6667, "name": "light2_00018" }
+				]
+			}
+		}
+	}
+}
+}

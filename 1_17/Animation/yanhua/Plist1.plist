@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/yanhua/yh 1/yh 1_00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{552,716},{206,202}}</string>
+				<key>offset</key>
+				<string>{15,10}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,290}</string>
+			</dict>
+			<key>Animation/yanhua/yh 1/yh 1_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{590,252},{279,255}}</string>
+				<key>offset</key>
+				<string>{10,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,290}</string>
+			</dict>
+			<key>Animation/yanhua/yh 1/yh 1_00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,271},{285,268}}</string>
+				<key>offset</key>
+				<string>{7,-5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,290}</string>
+			</dict>
+			<key>Animation/yanhua/yh 1/yh 1_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{296,268}}</string>
+				<key>offset</key>
+				<string>{2,-5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,290}</string>
+			</dict>
+			<key>Animation/yanhua/yh 1/yh 1_00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{299,1},{289,269}}</string>
+				<key>offset</key>
+				<string>{5,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,290}</string>
+			</dict>
+			<key>Animation/yanhua/yh 1/yh 1_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{590,1},{287,249}}</string>
+				<key>offset</key>
+				<string>{-7,6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,290}</string>
+			</dict>
+			<key>Animation/yanhua/yh 1/yh 1_00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{288,272},{300,225}}</string>
+				<key>offset</key>
+				<string>{0,18}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,290}</string>
+			</dict>
+			<key>Animation/yanhua/yh 1/yh 1_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{288,499},{262,225}}</string>
+				<key>offset</key>
+				<string>{-19,17}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,290}</string>
+			</dict>
+			<key>Animation/yanhua/yh 1/yh 1_00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,541},{264,222}}</string>
+				<key>offset</key>
+				<string>{-18,15}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,290}</string>
+			</dict>
+			<key>Animation/yanhua/yh 1/yh 1_00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{552,509},{232,205}}</string>
+				<key>offset</key>
+				<string>{-1,7}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,290}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist1.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist1.png</string>
+			<key>size</key>
+			<string>{878,923}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>878</integer>
+			<key>height</key>
+			<integer>923</integer>
+		</dict>
+	</dict>
+</plist>

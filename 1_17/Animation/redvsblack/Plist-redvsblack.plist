@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/redvsblack/tu/guang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{53,181},{126,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,25}</string>
+			</dict>
+			<key>Animation/redvsblack/tu/guangdian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{53,232},{16,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{16,16}</string>
+			</dict>
+			<key>Animation/redvsblack/tu/pai_k.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{53,106},{54,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,73}</string>
+			</dict>
+			<key>Animation/redvsblack/tu/pai_q.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,255},{58,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,75}</string>
+			</dict>
+			<key>Animation/redvsblack/tu/RedvsBlack.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{53,208},{113,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,22}</string>
+			</dict>
+			<key>Animation/redvsblack/tu/autob.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,106},{147,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{147,50}</string>
+			</dict>
+			<key>Animation/redvsblack/tu/light2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{100,103}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,103}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist-redvsblack.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist-redvsblack.png</string>
+			<key>size</key>
+			<string>{180,331}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>180</integer>
+			<key>height</key>
+			<integer>331</integer>
+		</dict>
+	</dict>
+</plist>

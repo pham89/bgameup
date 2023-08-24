@@ -1,0 +1,146 @@
+
+jackpot_sp.png
+size: 454,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j_000
+  rotate: true
+  xy: 227, 202
+  size: 42, 225
+  orig: 117, 230
+  offset: 36, 1
+  index: -1
+j_001
+  rotate: true
+  xy: 227, 159
+  size: 42, 226
+  orig: 117, 230
+  offset: 36, 0
+  index: -1
+j_002
+  rotate: true
+  xy: 227, 29
+  size: 43, 225
+  orig: 117, 230
+  offset: 36, 1
+  index: -1
+j_003
+  rotate: true
+  xy: 1, 160
+  size: 42, 225
+  orig: 117, 230
+  offset: 36, 1
+  index: -1
+j_004
+  rotate: true
+  xy: 1, 117
+  size: 42, 223
+  orig: 117, 230
+  offset: 36, 2
+  index: -1
+j_005
+  rotate: true
+  xy: 225, 116
+  size: 42, 224
+  orig: 117, 230
+  offset: 36, 1
+  index: -1
+j_006
+  rotate: true
+  xy: 1, 73
+  size: 42, 224
+  orig: 117, 230
+  offset: 36, 2
+  index: -1
+j_007
+  rotate: true
+  xy: 226, 73
+  size: 42, 224
+  orig: 117, 230
+  offset: 36, 2
+  index: -1
+j_008
+  rotate: true
+  xy: 1, 371
+  size: 41, 224
+  orig: 117, 230
+  offset: 36, 2
+  index: -1
+j_009
+  rotate: true
+  xy: 226, 371
+  size: 41, 224
+  orig: 117, 230
+  offset: 36, 2
+  index: -1
+j_010
+  rotate: true
+  xy: 1, 329
+  size: 41, 223
+  orig: 117, 230
+  offset: 36, 3
+  index: -1
+j_011
+  rotate: true
+  xy: 225, 329
+  size: 41, 222
+  orig: 117, 230
+  offset: 36, 4
+  index: -1
+j_012
+  rotate: true
+  xy: 1, 287
+  size: 41, 223
+  orig: 117, 230
+  offset: 36, 3
+  index: -1
+j_013
+  rotate: true
+  xy: 1, 413
+  size: 40, 225
+  orig: 117, 230
+  offset: 37, 2
+  index: -1
+j_014
+  rotate: true
+  xy: 227, 413
+  size: 40, 225
+  orig: 117, 230
+  offset: 37, 2
+  index: -1
+j_015
+  rotate: true
+  xy: 225, 287
+  size: 41, 225
+  orig: 117, 230
+  offset: 37, 2
+  index: -1
+j_016
+  rotate: true
+  xy: 1, 245
+  size: 41, 224
+  orig: 117, 230
+  offset: 37, 2
+  index: -1
+j_017
+  rotate: true
+  xy: 226, 245
+  size: 41, 224
+  orig: 117, 230
+  offset: 37, 2
+  index: -1
+j_018
+  rotate: true
+  xy: 1, 203
+  size: 41, 225
+  orig: 117, 230
+  offset: 37, 1
+  index: -1
+j_019
+  rotate: true
+  xy: 1, 30
+  size: 42, 225
+  orig: 117, 230
+  offset: 36, 1
+  index: -1

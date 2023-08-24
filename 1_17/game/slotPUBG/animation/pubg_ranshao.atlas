@@ -1,0 +1,125 @@
+
+pubg_ranshao.png
+size: 1928,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 644, 207
+  size: 640, 66
+  orig: 640, 88
+  offset: 0, 0
+  index: -1
+1_00002
+  rotate: false
+  xy: 1286, 341
+  size: 640, 65
+  orig: 640, 88
+  offset: 0, 0
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 342
+  size: 640, 64
+  orig: 640, 88
+  offset: 0, 0
+  index: -1
+1_00006
+  rotate: false
+  xy: 2, 275
+  size: 640, 65
+  orig: 640, 88
+  offset: 0, 1
+  index: -1
+1_00008
+  rotate: false
+  xy: 644, 275
+  size: 640, 65
+  orig: 640, 88
+  offset: 0, 1
+  index: -1
+1_00010
+  rotate: false
+  xy: 644, 342
+  size: 640, 64
+  orig: 640, 88
+  offset: 0, 1
+  index: -1
+1_00012
+  rotate: false
+  xy: 1286, 206
+  size: 640, 66
+  orig: 640, 88
+  offset: 0, 0
+  index: -1
+1_00014
+  rotate: false
+  xy: 1286, 69
+  size: 640, 67
+  orig: 640, 88
+  offset: 0, 0
+  index: -1
+1_00016
+  rotate: false
+  xy: 2, 140
+  size: 640, 66
+  orig: 640, 88
+  offset: 0, 1
+  index: -1
+1_00018
+  rotate: false
+  xy: 644, 139
+  size: 640, 66
+  orig: 640, 88
+  offset: 0, 1
+  index: -1
+1_00020
+  rotate: false
+  xy: 1286, 274
+  size: 640, 65
+  orig: 640, 88
+  offset: 0, 1
+  index: -1
+1_00022
+  rotate: false
+  xy: 2, 208
+  size: 640, 65
+  orig: 640, 88
+  offset: 0, 1
+  index: -1
+1_00024
+  rotate: false
+  xy: 1286, 138
+  size: 640, 66
+  orig: 640, 88
+  offset: 0, 0
+  index: -1
+1_00026
+  rotate: false
+  xy: 2, 3
+  size: 640, 67
+  orig: 640, 88
+  offset: 0, 0
+  index: -1
+1_00028
+  rotate: false
+  xy: 644, 2
+  size: 640, 67
+  orig: 640, 88
+  offset: 0, 0
+  index: -1
+1_00030
+  rotate: false
+  xy: 2, 72
+  size: 640, 66
+  orig: 640, 88
+  offset: 0, 0
+  index: -1
+1_00031
+  rotate: false
+  xy: 644, 71
+  size: 640, 66
+  orig: 640, 88
+  offset: 0, 1
+  index: -1

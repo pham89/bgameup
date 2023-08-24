@@ -1,0 +1,97 @@
+
+fruit_right.png
+size: 1108,1108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dtx_00000
+  rotate: false
+  xy: 1, 739
+  size: 208, 368
+  orig: 208, 368
+  offset: 0, 0
+  index: -1
+dtx_00001
+  rotate: false
+  xy: 1, 370
+  size: 208, 368
+  orig: 208, 368
+  offset: 0, 0
+  index: -1
+dtx_00002
+  rotate: false
+  xy: 1, 1
+  size: 208, 368
+  orig: 208, 368
+  offset: 0, 0
+  index: -1
+dtx_00003
+  rotate: true
+  xy: 210, 899
+  size: 208, 368
+  orig: 208, 368
+  offset: 0, 0
+  index: -1
+dtx_00004
+  rotate: true
+  xy: 579, 899
+  size: 208, 368
+  orig: 208, 368
+  offset: 0, 0
+  index: -1
+dtx_00005
+  rotate: false
+  xy: 210, 530
+  size: 208, 368
+  orig: 208, 368
+  offset: 0, 0
+  index: -1
+dtx_00006
+  rotate: false
+  xy: 210, 161
+  size: 208, 368
+  orig: 208, 368
+  offset: 0, 0
+  index: -1
+dtx_00007
+  rotate: true
+  xy: 419, 690
+  size: 208, 368
+  orig: 208, 368
+  offset: 0, 0
+  index: -1
+dtx_00008
+  rotate: false
+  xy: 788, 530
+  size: 208, 368
+  orig: 208, 368
+  offset: 0, 0
+  index: -1
+dtx_00009
+  rotate: true
+  xy: 419, 481
+  size: 208, 368
+  orig: 208, 368
+  offset: 0, 0
+  index: -1
+dtx_00010
+  rotate: false
+  xy: 788, 161
+  size: 208, 368
+  orig: 208, 368
+  offset: 0, 0
+  index: -1
+dtx_00011
+  rotate: true
+  xy: 419, 272
+  size: 208, 368
+  orig: 208, 368
+  offset: 0, 0
+  index: -1
+dtx_00012
+  rotate: true
+  xy: 419, 63
+  size: 208, 368
+  orig: 208, 368
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+ganesh_fa_slot_element.png
+size: 785,785
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WILD_1
+  rotate: true
+  xy: 301, 481
+  size: 137, 42
+  orig: 137, 42
+  offset: 0, 0
+  index: -1
+WILD_2
+  rotate: false
+  xy: 258, 410
+  size: 124, 69
+  orig: 124, 69
+  offset: 0, 0
+  index: -1
+WILD_3
+  rotate: false
+  xy: 489, 296
+  size: 86, 60
+  orig: 88, 62
+  offset: 1, 1
+  index: -1
+WILD_4
+  rotate: false
+  xy: 2, 658
+  size: 175, 125
+  orig: 175, 126
+  offset: 0, 1
+  index: -1
+ganesh_fa_slot_cai
+  rotate: false
+  xy: 384, 380
+  size: 101, 99
+  orig: 101, 99
+  offset: 0, 0
+  index: -1
+ganesh_fa_slot_drum
+  rotate: true
+  xy: 651, 541
+  size: 111, 129
+  orig: 111, 129
+  offset: 0, 0
+  index: -1
+ganesh_fa_slot_drumA
+  rotate: false
+  xy: 345, 481
+  size: 143, 141
+  orig: 143, 141
+  offset: 0, 0
+  index: -1
+ganesh_fa_slot_fa
+  rotate: true
+  xy: 131, 310
+  size: 94, 117
+  orig: 94, 117
+  offset: 0, 0
+  index: -1
+ganesh_fa_slot_freeA
+  rotate: false
+  xy: 345, 624
+  size: 146, 129
+  orig: 146, 129
+  offset: 0, 0
+  index: -1
+ganesh_fa_slot_gold
+  rotate: false
+  xy: 160, 509
+  size: 139, 109
+  orig: 139, 109
+  offset: 0, 0
+  index: -1
+ganesh_fa_slot_goldA
+  rotate: false
+  xy: 640, 398
+  size: 143, 141
+  orig: 143, 141
+  offset: 0, 0
+  index: -1
+ganesh_fa_slot_gong
+  rotate: false
+  xy: 131, 406
+  size: 125, 101
+  orig: 125, 101
+  offset: 0, 0
+  index: -1
+ganesh_fa_slot_gourd
+  rotate: false
+  xy: 635, 256
+  size: 142, 140
+  orig: 142, 140
+  offset: 0, 0
+  index: -1
+ganesh_fa_slot_gourdA
+  rotate: false
+  xy: 490, 358
+  size: 143, 141
+  orig: 143, 141
+  offset: 0, 0
+  index: -1
+ganesh_fa_slot_money
+  rotate: false
+  xy: 379, 270
+  size: 108, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+ganesh_fa_slot_xi
+  rotate: true
+  xy: 116, 225
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+gongzhu_1
+  rotate: true
+  xy: 258, 308
+  size: 100, 119
+  orig: 100, 119
+  offset: 0, 0
+  index: -1
+gongzhu_2
+  rotate: false
+  xy: 2, 218
+  size: 94, 83
+  orig: 94, 83
+  offset: 0, 0
+  index: -1
+gongzhu_3
+  rotate: false
+  xy: 2, 303
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+gongzhu_4
+  rotate: false
+  xy: 2, 405
+  size: 127, 113
+  orig: 127, 113
+  offset: 0, 0
+  index: -1
+gongzhu_5
+  rotate: false
+  xy: 499, 648
+  size: 150, 135
+  orig: 156, 140
+  offset: 3, 2
+  index: -1
+scattr1121212
+  rotate: false
+  xy: 345, 755
+  size: 152, 28
+  orig: 152, 28
+  offset: 0, 0
+  index: -1
+scattr_2
+  rotate: true
+  xy: 2, 520
+  size: 136, 156
+  orig: 136, 156
+  offset: 0, 0
+  index: -1
+scattr_3
+  rotate: false
+  xy: 651, 654
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+scattr_4
+  rotate: false
+  xy: 493, 501
+  size: 145, 145
+  orig: 145, 146
+  offset: 0, 1
+  index: -1
+scattr_5
+  rotate: true
+  xy: 179, 620
+  size: 163, 164
+  orig: 165, 164
+  offset: 1, 0
+  index: -1

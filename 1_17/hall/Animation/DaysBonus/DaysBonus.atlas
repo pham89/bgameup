@@ -1,0 +1,286 @@
+
+DaysBonus.png
+size: 534,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1DaysBonus
+  rotate: false
+  xy: 1, 508
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+2DaysBonus
+  rotate: true
+  xy: 176, 463
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+3DaysBonus
+  rotate: false
+  xy: 46, 489
+  size: 77, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+aysBonussg_00000
+  rotate: true
+  xy: 93, 391
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00001
+  rotate: false
+  xy: 166, 389
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00002
+  rotate: false
+  xy: 258, 389
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00003
+  rotate: false
+  xy: 350, 389
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00004
+  rotate: false
+  xy: 442, 389
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00005
+  rotate: false
+  xy: 1, 344
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00006
+  rotate: false
+  xy: 93, 316
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00007
+  rotate: false
+  xy: 185, 316
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00008
+  rotate: false
+  xy: 277, 316
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00009
+  rotate: false
+  xy: 250, 462
+  size: 91, 71
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00010
+  rotate: false
+  xy: 342, 462
+  size: 91, 71
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00011
+  rotate: false
+  xy: 369, 316
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00012
+  rotate: true
+  xy: 461, 297
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00013
+  rotate: false
+  xy: 1, 271
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00014
+  rotate: false
+  xy: 93, 243
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00015
+  rotate: false
+  xy: 185, 243
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00016
+  rotate: false
+  xy: 277, 243
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00017
+  rotate: false
+  xy: 369, 243
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00018
+  rotate: true
+  xy: 461, 205
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00019
+  rotate: false
+  xy: 1, 198
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00020
+  rotate: false
+  xy: 93, 170
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00021
+  rotate: false
+  xy: 185, 170
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00022
+  rotate: false
+  xy: 277, 170
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00023
+  rotate: false
+  xy: 369, 170
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00024
+  rotate: false
+  xy: 1, 125
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00025
+  rotate: true
+  xy: 461, 113
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00026
+  rotate: false
+  xy: 93, 97
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00027
+  rotate: false
+  xy: 434, 462
+  size: 91, 71
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00028
+  rotate: false
+  xy: 1, 417
+  size: 91, 71
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00029
+  rotate: false
+  xy: 185, 97
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00030
+  rotate: false
+  xy: 277, 97
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00031
+  rotate: false
+  xy: 369, 97
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00032
+  rotate: false
+  xy: 1, 52
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00033
+  rotate: false
+  xy: 93, 24
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00034
+  rotate: false
+  xy: 185, 24
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+aysBonussg_00035
+  rotate: false
+  xy: 277, 24
+  size: 91, 72
+  orig: 93, 72
+  offset: 1, 0
+  index: -1
+xl_tx8
+  rotate: true
+  xy: 124, 483
+  size: 50, 51
+  orig: 64, 65
+  offset: 8, 7
+  index: -1

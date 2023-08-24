@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>props/jiaoshui/001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{144,1},{152,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{152,114}</string>
+			</dict>
+			<key>props/jiaoshui/002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{260,1},{141,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{141,116}</string>
+			</dict>
+			<key>props/jiaoshui/clay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{280,218},{54,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,26}</string>
+			</dict>
+			<key>props/jiaoshui/hu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{190,155},{100,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{100,88}</string>
+			</dict>
+			<key>props/jiaoshui/m01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{93,237},{16,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{16,25}</string>
+			</dict>
+			<key>props/jiaoshui/m03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{93,173},{62,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,95}</string>
+			</dict>
+			<key>props/jiaoshui/coin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{378,99},{42,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{42,41}</string>
+			</dict>
+			<key>props/jiaoshui/coin_glow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{280,144},{72,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{72,71}</string>
+			</dict>
+			<key>props/jiaoshui/191.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{353,144},{72,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{72,71}</string>
+			</dict>
+			<key>props/jiaoshui/m05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{170,141}}</string>
+				<key>offset</key>
+				<string>{0,-12}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{170,172}</string>
+			</dict>
+			<key>props/jiaoshui/single.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,173},{90,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,77}</string>
+			</dict>
+			<key>props/jiaoshui/003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{426,202},{50,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{50,84}</string>
+			</dict>
+			<key>props/jiaoshui/004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{378,1},{50,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,96}</string>
+			</dict>
+			<key>props/jiaoshui/005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{426,99},{47,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,101}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>jiaoshui.png</string>
+			<key>realTextureFileName</key>
+			<string>jiaoshui.png</string>
+			<key>size</key>
+			<string>{511,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>511</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

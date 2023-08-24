@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>props/dianyan/01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{183,1},{124,122}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{124,122}</string>
+			</dict>
+			<key>props/dianyan/02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{309,1},{124,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{124,116}</string>
+			</dict>
+			<key>props/dianyan/16_00010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{435,87},{31,56}}</string>
+				<key>offset</key>
+				<string>{-6,23}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{100,200}</string>
+			</dict>
+			<key>props/dianyan/huo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{405,120},{90,89}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,89}</string>
+			</dict>
+			<key>props/dianyan/shou.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{309,119},{94,93}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,93}</string>
+			</dict>
+			<key>props/dianyan/shou2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{180,143}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{180,143}</string>
+			</dict>
+			<key>props/dianyan/tou_glow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{405,211},{35,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{35,39}</string>
+			</dict>
+			<key>props/dianyan/yan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{435,1},{84,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{84,53}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>dianyan.png</string>
+			<key>realTextureFileName</key>
+			<string>dianyan.png</string>
+			<key>size</key>
+			<string>{496,247}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>496</integer>
+			<key>height</key>
+			<integer>247</integer>
+		</dict>
+	</dict>
+</plist>

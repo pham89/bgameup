@@ -1,0 +1,48 @@
+
+reel_speed_up.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_lght
+  rotate: true
+  xy: 489, 406
+  size: 250, 750
+  orig: 250, 750
+  offset: 0, 0
+  index: -1
+blur
+  rotate: true
+  xy: 2, 2
+  size: 248, 1997
+  orig: 248, 1997
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: true
+  xy: 2, 252
+  size: 316, 323
+  orig: 316, 323
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: true
+  xy: 2, 570
+  size: 86, 323
+  orig: 86, 323
+  offset: 0, 0
+  index: -1
+light_frame
+  rotate: true
+  xy: 1241, 359
+  size: 297, 805
+  orig: 320, 856
+  offset: 13, 23
+  index: -1
+sp1
+  rotate: false
+  xy: 327, 496
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
